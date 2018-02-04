@@ -62,7 +62,7 @@
     * [4.3.2 非同步技術 AJAX](javascript/advanced/ajax.md)
     * [4.3.3 jQuery AJAX](javascript/advanced/jqueryajax.md)
     * [4.3.4 儲存機制 - cookie](javascript/advanced/cookie.md)
-    * [4.3.4 儲存機制 - 本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
+    * [4.3.5 儲存機制 - 本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
     * [表單驗證\(validation\) - 正規表達式](javascript/advanced/regularexpressions.md)
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
