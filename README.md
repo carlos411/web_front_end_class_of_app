@@ -14,3 +14,7 @@ CSS 所扮演的角色為「**外觀**」，可以美化頁面，
 
 JavaScript 負責「**行為**」
 
+
+
+[練習一：第一個網頁](/assignments/firstweb.md)
+
