@@ -23,7 +23,8 @@
   * [3.2 Selectors 和屬性及值](css/selectorsproperties.md)
   * [3.3 class 和 id](css/classandid.md)
   * [3.4 文字樣式](css/textstyle.md)
-  * [3.5 群組和巢狀](css/groupingnesting.md)
+  * [3.15 列表樣式](css/liststyle.md)
+  * [3.5 群組和巢狀寫法](css/groupingnesting.md)
   * [3.6 關於 display 屬性](css/cssdisplay.md)
   * [3.7 區塊模型\(Box Model\)](css/boxmodel.md)
   * [3.8 關於浮動\(float\)](css/float.md)
@@ -31,8 +32,8 @@
   * [3.10 媒體類型\(Media Query\)](css/mediaquery.md)
   * [3.11 關於定位\(position\)](css/position.md)
   * [3.12 排版](css/pagelayout.md)
-  * 3.13 陰影
-  * 3.14 背景
+  * [3.13 陰影](css/shadow.md)
+  * [3.14 背景](css/background.md)
 * [4. JavaScript](javascript.md)
   * [初級](javascript/beginner.md)
     * [套用 javascript](javascript/beginner/applyingjs.md)
