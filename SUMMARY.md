@@ -17,7 +17,7 @@
   * [2.15 表單](html/forms.md)
   * [2.18 結構](html/sectioning.md)
   * [2.19 嵌入影片、音訊](html/embeddedcontent.md)
-  * [2.20 條件式註解](html/conditionalcomments.md)
+  * [2.20 註解](html/conditionalcomments.md)
 * [3. CSS](css.md)
   * [初級](css/beginner.md)
     * [套用 CSS](css/beginner/applyingcss.md)
