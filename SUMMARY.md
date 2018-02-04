@@ -27,10 +27,11 @@
   * [3.6 關於 display 屬性](css/cssdisplay.md)
   * [3.7 區塊模型\(Box Model\)](css/boxmodel.md)
   * [3.8 關於浮動\(float\)](css/float.md)
-  * [3.9 圓角及陰影](css/borderradius.md)
+  * [3.9 圓角](css/borderradius.md)
   * [3.10 媒體類型\(Media Query\)](css/mediaquery.md)
   * [3.11 關於定位\(position\)](css/position.md)
   * [3.12 排版](css/pagelayout.md)
+  * 3.13 陰影
 * [4. JavaScript](javascript.md)
   * [初級](javascript/beginner.md)
     * [套用 javascript](javascript/beginner/applyingjs.md)
