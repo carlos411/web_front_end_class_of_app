@@ -48,7 +48,7 @@
     * [函式](javascript/beginner/functions.md)
     * [物件](javascript/beginner/objects.md)
     * [陣列](javascript/beginner/arrays.md)
-  * [中階 - 操控網頁節點](javascript/intermediate.md)
+  * [中階 - 操控網頁元素](javascript/intermediate.md)
     * [文件物件模型\(DOM\)](javascript/intermediate/dom.md)
     * [事件\(event\)和回呼函式\(callback\)](javascript/intermediate/eventsandcallbacks.md)
     * [變數可視範圍\(scope\)](javascript/intermediate/scope.md)
