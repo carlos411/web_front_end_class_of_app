@@ -50,7 +50,7 @@
     * [陣列](javascript/beginner/arrays.md)
   * [中階 - 操控網頁節點](javascript/intermediate.md)
     * [文件物件模型\(DOM\)](javascript/intermediate/dom.md)
-    * [事件和回呼函式](javascript/intermediate/eventsandcallbacks.md)
+    * [事件\(event\)和回呼函式\(callback\)](javascript/intermediate/eventsandcallbacks.md)
     * [非同步技術 AJAX](javascript/intermediate/ajax.md)
     * [變數可視範圍\(scope\)](javascript/intermediate/scope.md)
     * [jQuery](javascript/intermediate/jquery.md)
