@@ -1,4 +1,6 @@
-# 簡介
+# 1 簡介
+
+網站前端開發，核心技術為 HTML、CSS、JavaScript
 
 # HTML
 

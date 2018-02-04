@@ -1,7 +1,7 @@
 # Summary
 
-* [簡介](README.md)
-* [HTML](html.md)
+* [1. 簡介](README.md)
+* [2. HTML](html.md)
   * [基礎](html/beginner.md)
     * [標籤、屬性、元素](html/beginner/tagsattributes.md)
     * [網頁標題](html/beginner/pagetitle.md)
@@ -25,7 +25,7 @@
     * [表單：輸入類型](html/advanced/formadvancedpartone.md)
     * [表單：屬性](html/advanced/formadvancedparttwo.md)
     * [其它素材內嵌](html/advanced/embeddedcontent.md)
-* [CSS](css.md)
+* [3. CSS](css.md)
   * [初級](css/beginner.md)
     * [套用 CSS](css/beginner/applyingcss.md)
     * [Selectors和屬性及值](css/beginner/selectorsproperties.md)
@@ -54,7 +54,7 @@
     * [變形效果](css/advanced/transformations.md)
     * [漸層效果](css/advanced/gradients.md)
     * [Media Queries](css/advanced/mediaquery.md)
-* [JavaScript](javascript.md)
+* [4. JavaScript](javascript.md)
   * [初級](javascript/beginner.md)
     * [套用 javascript](javascript/beginner/applyingjs.md)
     * [變數和資料](javascript/beginner/variablesdata.md)
