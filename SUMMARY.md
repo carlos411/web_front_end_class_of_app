@@ -32,6 +32,7 @@
   * [3.11 關於定位\(position\)](css/position.md)
   * [3.12 排版](css/pagelayout.md)
   * 3.13 陰影
+  * 3.14 背景
 * [4. JavaScript](javascript.md)
   * [初級](javascript/beginner.md)
     * [套用 javascript](javascript/beginner/applyingjs.md)
