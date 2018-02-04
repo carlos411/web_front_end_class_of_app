@@ -83,4 +83,5 @@
     * [錯誤及例外處理](javascript/advanced/errorsandexceptions.md)
     * [正規表達式](javascript/advanced/regularexpressions.md)
     * [Closure](javascript/advanced/closures.md)
+* [5. 練習](assignments.md)
 
