@@ -2,7 +2,7 @@
 
 * [網站前端課程 - APP 班](README.md)
 * [HTML](html.md)
-  * [初級](html/beginner.md)
+  * [基礎](html/beginner.md)
     * [標籤、屬性、元素](html/beginner/tagsattributes.md)
     * [網頁標題](html/beginner/pagetitle.md)
     * [段落](html/beginner/paragraphs.md)
