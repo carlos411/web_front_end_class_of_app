@@ -22,7 +22,7 @@
   * [3.1 套用 CSS](css/applyingcss.md)
   * [3.2 Selectors 和屬性及值](css/selectorsproperties.md)
   * [3.3 class 和 id](css/classandid.md)
-  * [3.4 排版 - 區塊模型\(Box Model\)](css/boxmodel.md)
+  * [3.4 區塊模型\(Box Model\)](css/boxmodel.md)
   * [3.5 文字樣式](css/textstyle.md)
   * [3.6 連結樣式](css/linkstyle.md)
   * [3.7 列表樣式](css/liststyle.md)
