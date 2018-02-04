@@ -51,8 +51,6 @@
   * [中階 - 操控網頁節點](javascript/intermediate.md)
     * [文件物件模型\(DOM\)](javascript/intermediate/dom.md)
     * [事件和回呼函式](javascript/intermediate/eventsandcallbacks.md)
-    * [常見資料格式 - XML](javascript/intermediate/xml.md)
-    * [常見資料格式 - JSON](javascript/intermediate/json.md)
     * [非同步技術 AJAX](javascript/intermediate/ajax.md)
     * [變數可視範圍\(scope\)](javascript/intermediate/scope.md)
     * [jQuery](javascript/intermediate/jquery.md)
