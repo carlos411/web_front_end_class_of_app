@@ -59,11 +59,10 @@
     * [jQuery DOM API](javascript/intermediate/jquerydom.md)
     * [jQuery AJAX](javascript/intermediate/jqueryajax.md)
   * [進階 - 各種議題](javascript/advanced.md)
-    * [操控網頁元素](javascript/advanced/createingelements.md)
+    * [資料格式：XML 與 JSON](javascript/advanced/datatype.md)
     * [cookie](javascript/advanced/cookie.md)
     * [本地端儲存](javascript/advanced/localstorage.md)
     * [正規表達式](javascript/advanced/regularexpressions.md)
-    * [資料格式：XML 與 JSON](javascript/advanced/datatype.md)
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
 
