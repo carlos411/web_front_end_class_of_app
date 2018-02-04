@@ -63,6 +63,7 @@
     * [cookie](javascript/advanced/cookie.md)
     * [本地端儲存](javascript/advanced/localstorage.md)
     * [正規表達式](javascript/advanced/regularexpressions.md)
+    * [資料格式：XML 與 JSON](javascript/advanced/datatype.md)
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
 
