@@ -15,7 +15,7 @@
   * [2.15 表單](html/forms.md)
   * [2.16 其它文字語意](html/text.md)
   * [2.17 中介資料\(Meta Data\)](html/metatags.md)
-  * [結構語意](html/sectioning.md)
+  * [2.18 結構語意](html/sectioning.md)
   * [中級](html/intermediate.md)
   * [進階](html/advanced.md)
     * [條件式註解](html/advanced/conditionalcomments.md)
