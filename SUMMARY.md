@@ -62,8 +62,8 @@
     * [非同步技術 AJAX](javascript/advanced/ajax.md)
     * [jQuery AJAX](javascript/advanced/jqueryajax.md)
     * [cookie](javascript/advanced/cookie.md)
-    * [本地端儲存](javascript/advanced/localstorage.md)
-    * [表單驗證 - 正規表達式](javascript/advanced/regularexpressions.md)
+    * [本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
+    * [表單驗證\(validation\) - 正規表達式](javascript/advanced/regularexpressions.md)
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
 
