@@ -55,6 +55,7 @@
     * [jQuery 函式庫](javascript/intermediate/jquery.md)
     * [JS 與 jQuery 操控網頁元素 - 新增](javascript/intermediate/jquerydom.md)
     * [JS 與 jQuery 操控網頁元素 - 更新](javascript/intermediate/jshandle-dom-update.md)
+    * [JS 與 jQuery 操控網頁元素 - 刪除](javascript/intermediate/jshandle-dom-delete.md)
   * [進階 - 各種議題](javascript/advanced.md)
     * [資料格式：XML 與 JSON](javascript/advanced/datatype.md)
     * [非同步技術 AJAX](javascript/advanced/ajax.md)
