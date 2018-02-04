@@ -1,6 +1,6 @@
 # Summary
 
-* [網站前端課程 - APP 班](README.md)
+* [簡介](README.md)
 * [HTML](html.md)
   * [基礎](html/beginner.md)
     * [標籤、屬性、元素](html/beginner/tagsattributes.md)
