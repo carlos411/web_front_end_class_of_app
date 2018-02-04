@@ -11,7 +11,7 @@
   * [2.7 連結](html/links.md)
   * [2.8 圖片](html/images.md)
   * [2.9 表格](html/tables.md)
-  * [span 和 div](html/spananddiv.md)
+  * [2.10 span 和 div](html/spananddiv.md)
   * [2.15 表單](html/forms.md)
   * [中級](html/intermediate.md)
     * [其它文字語意](html/intermediate/text.md)
