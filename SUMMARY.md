@@ -2,7 +2,6 @@
 
 * [1. 簡介](README.md)
 * [2. HTML](html.md)
-  * [基礎](html/beginner.md)
   * [2.1 宣告、標籤、屬性、元素](html/tagsattributes.md)
   * [2.2 網頁標題](html/pagetitle.md)
   * [2.3 段落](html/paragraphs.md)
