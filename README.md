@@ -4,11 +4,11 @@
 
 那這三者又分別代表什麼意義呢？
 
-# 1.1 HTML
+# 1.1 HTML = Hypertext Markup Language
 
 HTML 負責「**結構**」
 
-# 1.2 CSS
+# 1.2 CSS = Cascading Style Sheets
 
 CSS 所扮演的角色為「**外觀**」，可以美化頁面，
 
