@@ -18,7 +18,7 @@
   * [2.14 span 和 div](html/spananddiv.md)
   * [2.15 嵌入影片、音訊](html/embeddedcontent.md)
   * [2.16 結構](html/sectioning.md)
-  * [2.17 結構](html/forms.md)
+  * [2.17 表單](html/forms.md)
 * [3. CSS](css.md)
   * [3.1 套用 CSS](css/applyingcss.md)
   * [3.2 註解](css/csscomments.md)
