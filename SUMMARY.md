@@ -68,4 +68,5 @@
     * [4.3.5 儲存機制 - 本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
+* [6. 參考資料](references.md)
 
