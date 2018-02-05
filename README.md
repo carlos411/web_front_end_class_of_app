@@ -4,7 +4,7 @@
 
 那這三者又分別代表什麼意義呢？
 
-# 1.1 HTML = Hypertext Markup Language
+# 1.1 HTML = HyperText Markup Language
 
 HTML 負責「**結構**」
 
@@ -15,8 +15,6 @@ CSS 所扮演的角色為「**外觀**」，可以美化頁面，
 # 1.3 JS = JavaScript
 
 JavaScript 負責「**行為**」
-
-
 
 # 1.4 練習
 
