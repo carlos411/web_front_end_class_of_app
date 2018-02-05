@@ -61,7 +61,7 @@
     * [4.2.6 JS 與 jQuery 操控網頁元素 - 更新](javascript/intermediate/jshandle-dom-update.md)
     * [4.2.7 JS 與 jQuery 操控網頁元素 - 刪除](javascript/intermediate/jshandle-dom-delete.md)
     * [4.2.8 表單驗證\(validation\) - 正規表達式](javascript/intermediate/regularexpressions.md)
-  * [4.3 進階 - 各種議題](javascript/advanced.md)
+  * [4.3 進階 - 應用](javascript/advanced.md)
     * [4.3.1 資料格式：XML 與 JSON](javascript/advanced/datatype.md)
     * [4.3.2 非同步技術 AJAX - 使用 JS](javascript/advanced/ajax.md)
     * [4.3.3 非同步技術 AJAX - 使用 jQuery](javascript/advanced/jqueryajax.md)
