@@ -28,7 +28,5 @@ XHTML 1.0 Strict
 
 # 2.1.4 元素\(Elements\)
 
-
-
-
+![](/assets/元素.png)
 
