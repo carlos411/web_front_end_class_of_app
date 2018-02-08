@@ -22,6 +22,12 @@
 </head>
 ```
 
+`keywords`: 代表此頁面的關鍵字，雖然權重沒那麼高了，但建議養成習慣，加上去比較好。
+
+`description`：有可能會顯示在 google 搜尋結果的說明當中。
+
+`refresh`：此頁面每隔幾秒會重新整理一次。
+
 ## 資源
 
 [https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
