@@ -1,6 +1,6 @@
 # 2.5.1 斷行與水平分隔線
 
-`<br>`：break
+`<br>`：**b**reak
 
-`<hr>`：horizontal rule
+`<hr>`：**h**orizontal **r**ule
 
