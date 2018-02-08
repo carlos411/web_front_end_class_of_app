@@ -71,5 +71,6 @@
 * [5. 練習](assignments.md)
   * [5.1 第一個網頁](assignments/firstweb.md)
   * [5.2 為您的網頁加上html註解](assignments/htmlcomment.md)
+  * [5.3 加上 meta data](assignments/htmlmeta-data.md)
 * [6. 參考資料](references.md)
 
