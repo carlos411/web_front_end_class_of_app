@@ -1,10 +1,16 @@
-建立一個專案資料夾，
+# 第一個網頁
 
-```
-var a = 1;
-```
+建立一個專案資料夾，名稱自取，裡面要有以下幾個項目：
 
-[dd](codepen://carlos411/JpoPaQ?height=800&theme=0)
+* css/
+* fonts/
+* images/
+* js/
+* index.html
+
+
+
+
 
 
 
