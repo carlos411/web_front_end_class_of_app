@@ -24,6 +24,8 @@ XHTML 1.0 Strict
 
 # 屬性\(Attributes\)
 
+![](/assets/屬性.png)
+
 # 元素\(Elements\)
 
 
