@@ -1,4 +1,4 @@
-# 宣告\(Declaration\)
+# 2.1.1 宣告\(Declaration\)
 
 HTML 4.01 Strict
 
@@ -18,15 +18,17 @@ XHTML 1.0 Strict
 <!DOCTYPE html>
 ```
 
-# 標籤\(Tags\)
+# 2.1.2 標籤\(Tags\)
 
 ![](/assets/標籤.png)
 
-# 屬性\(Attributes\)
+# 2.1.3 屬性\(Attributes\)
 
 ![](/assets/屬性.png)
 
-# 元素\(Elements\)
+# 2.1.4 元素\(Elements\)
+
+
 
 
 
