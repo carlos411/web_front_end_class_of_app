@@ -61,12 +61,14 @@
   </head>
   <body>
     <h1>這是內文標題</h1>
+    
     <script type="text/javascript">
       var h1 = document.getElementsByTagName("h1")[0];
       h1.addEventListener("click", function(){
         alert("open dialog");
       });
     </script>
+    
   </body>
 </html>
 ```
