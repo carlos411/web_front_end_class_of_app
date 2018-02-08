@@ -27,7 +27,7 @@
 
 ## 第二步：撰寫 CSS
 
-```css
+```html
 <!doctype html>
 <html>
   <head>
