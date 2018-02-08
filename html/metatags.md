@@ -2,10 +2,14 @@
 
 ## 語意
 
+該網頁的額外資料，會被瀏覽器解讀。
+
 ## 範例
 
 ```html
-<meta charset="utf-8">
+<head>
+  <meta charset="utf-8">
+</head>
 ```
 
 
