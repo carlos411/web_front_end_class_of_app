@@ -6,7 +6,7 @@
 
 # 1.1 HTML = HyperText Markup Language
 
-HTML 負責「**結構**」、「**語意**」，
+HTML 負責「**結構**」、「**語意**」。
 
 結構做的好，對「排版」有幫助。
 
