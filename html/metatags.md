@@ -16,15 +16,11 @@
 
 ```html
 <head>
-  <meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="description" content="網站前端教學">
-  <meta http-equiv="refresh" content="30">
+  <meta http-equiv="refresh" content="3">
 </head>
 ```
-
-## 練習
-
-練習：
 
 ## 資源
 
