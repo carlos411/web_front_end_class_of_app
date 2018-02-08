@@ -47,7 +47,7 @@
 
 ## 第三步：撰寫 JS
 
-```
+```html
 <!doctype html>
 <html>
   <head>
