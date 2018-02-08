@@ -14,7 +14,7 @@ HTML 負責「**結構**」、「**語意**」。
 
 # 1.2 CSS = Cascading Style Sheets
 
-CSS 負責網頁的「**外觀**」，包含了視覺風格、排版，
+CSS 負責網頁的「**外觀**」，包含了視覺風格、排版。
 
 # 1.3 JS = JavaScript
 
