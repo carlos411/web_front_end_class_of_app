@@ -1,6 +1,6 @@
-# 5.3 為您的網頁加上 Meta Data
+# 5.3 為您的網頁加上 Meta Data\(中介資料\)
 
-試著加上 keywords、description、refresh 這三個 meta data
+試著加上 `keywords`、`description`、`refresh` 這三個 Meta Data：
 
 ```html
 <head>
@@ -11,11 +11,7 @@
 </head>
 ```
 
-
-
 ## 完成
 
 於瀏覽器中顯示，並觀查網頁是否每隔幾秒會重新整理。
-
-
 
