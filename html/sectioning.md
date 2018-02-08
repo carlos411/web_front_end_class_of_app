@@ -2,6 +2,8 @@
 
 # 頁尾 - &lt;footer&gt;&lt;/footer&gt;
 
+# 導覽 - &lt;nav&gt;&lt;/nav&gt;
+
 # 獨立區塊 - &lt;article&gt;&lt;/article&gt;
 
 # 頁面區段 - &lt;section&gt;&lt;/section&gt;
