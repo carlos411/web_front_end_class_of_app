@@ -2,8 +2,10 @@
 
 範例：
 
-```
-<title>這是網頁標題</title>
+```html
+<head>
+  <title>這是網頁標題</title>
+</head>
 ```
 
 語意：
