@@ -12,7 +12,7 @@ XHTML 1.0 Strict
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 ```
 
-HTML 5
+**HTML 5**
 
 ```html
 <!DOCTYPE html>
@@ -21,8 +21,6 @@ HTML 5
 # 標籤\(Tags\)
 
 ![](/assets/標籤.png)
-
-
 
 # 屬性\(Attributes\)
 
