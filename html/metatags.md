@@ -17,7 +17,7 @@
 ```html
 <head>
   <meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
-  <meta name="description" content="Free Web tutorials on HTML and CSS">
+  <meta name="description" content="網站前端教學">
   <meta http-equiv="refresh" content="30">
 </head>
 ```
