@@ -28,11 +28,21 @@
 ## 第二步：撰寫 CSS
 
 ```css
-<style>
-h1{
-  color: red;
-}
-</style>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>這是網頁標題</title>
+    <style>
+    h1{
+      color: red;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>這是內文標題</h1>
+  </body>
+</html>
 ```
 
 
