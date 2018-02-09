@@ -18,7 +18,7 @@
 * \_self：這是預設值，原分頁開 href 所指定的連結。
 * \_blank：開新分頁。
 
-```
+```html
 <a href="http://tw.yahoo.com" target="_blank">這是連結</a>
 ```
 
