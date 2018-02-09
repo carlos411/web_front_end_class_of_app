@@ -39,27 +39,29 @@
 
 2、小應用：target 如果隨意指定其他名稱？例如：**mywindow**
 
-3、請貼上以下的 style，看看差異：
+3、請在`<head>`區段，貼上以下的 css style，看看差異：
 
-```css
-<style>
-  /* 未點擊過的連結 */
-  a:link{
-    color: #000000;
-  }
-  /* 已點擊過的連結 */
-  a:visited{
-    color: #FF0000;
-  }
-  /* 滑鼠移過去之後，文字的顏色 */
-  a:hover{
-    color: #00FF00;
-  }
-  /* 滑鼠按壓下去不放後，文字的顏色 */
-  a:active{
-    color: #0000FF;
-  }
-</style>
+```html
+<head>
+  <style>
+    /* 未點擊過的連結 */
+    a:link{
+      color: #000000;
+    }
+    /* 已點擊過的連結 */
+    a:visited{
+      color: #FF0000;
+    }
+    /* 滑鼠移過去之後，文字的顏色 */
+    a:hover{
+      color: #00FF00;
+    }
+    /* 滑鼠按壓下去不放後，文字的顏色 */
+    a:active{
+      color: #0000FF;
+    }
+  </style>
+</head>
 ```
 
 
