@@ -8,9 +8,9 @@
 
 語意：表示在文章中另起新的一行。
 
+![](/assets/斷行.png)
+
 ## 水平分隔線 - &lt;hr&gt;
 
 `<hr>`：**h**orizontal **r**ule
-
-
 
