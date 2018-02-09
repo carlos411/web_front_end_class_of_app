@@ -12,12 +12,10 @@
 <dl>
   <dt>www</dt>
   <dd>是 World Wide Web 的縮寫</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
+  <dt>拿鐵咖啡</dt>
+  <dd>加了牛奶的咖啡</dd>
 </dl>
 ```
 
 結果呈現：
-
-
 
