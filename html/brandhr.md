@@ -20,7 +20,17 @@
 
 ## 水平分隔線 - &lt;hr&gt;
 
-`<hr>`：**h**orizontal **r**ule 的縮寫
+`<hr>`：**h**orizontal **r**ule 的縮寫。
 
+範例：
 
+```html
+<p>這是段落<br>另起新的一行</p>
+<hr>
+<p>這是段落<br>另起新的一行</p>
+```
+
+結果呈現：
+
+![](/assets/水平分隔線.png)
 
