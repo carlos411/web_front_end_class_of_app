@@ -36,22 +36,19 @@
   a:link{
     color: #000000;
   }
-        /* 已連結過 */
-        a:visited
-        {
-            color: #FF0000;
-        }
-        /* 滑鼠移至連結 */
-        a:hover
-        {
-            color: #00FF00;
-        }
-        /* 選擇的連結 */
-        a:active
-        {
-            color: #0000FF;
-        }
-    </style>
+  /* 已連結過 */
+  a:visited{
+    color: #FF0000;
+  }
+  /* 滑鼠移至連結 */
+  a:hover{
+    color: #00FF00;
+  }
+  /* 選擇的連結 */
+  a:active{
+    color: #0000FF;
+  }
+</style>
 ```
 
 
