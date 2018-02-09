@@ -15,8 +15,12 @@
 
 屬性 target 的值：
 
-* \_self：這是預設值
-* \_blank：開新分頁
+* \_self：這是預設值，原分頁開 href 所指定的連結。
+* \_blank：開新分頁。
+
+```
+<a href="http://tw.yahoo.com" target="_blank">這是連結</a>
+```
 
 ## 練習
 
