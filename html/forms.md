@@ -17,13 +17,13 @@
 ## 文字框
 
 ```html
-<input type="text">
+<input type="text" name="address">
 ```
 
 ## 多行文字框
 
 ```html
-<textarea>這裡是文字</textarea>
+<textarea name="content">這裡是文字</textarea>
 ```
 
 ## 單選
@@ -38,18 +38,20 @@
 ## 多選
 
 ```html
-<input type="checkbox"> 興趣1
+<input type="checkbox" name="habits"> 興趣1
 ```
 
 ## 下拉選單
 
 ```html
-<select>
-  <option>選項1</option>
-  <option>選項2</option>
-  <option>選項3</option>
+<select name="country">
+  <option value="1">選項1</option>
+  <option value="2">選項2</option>
+  <option value="3">選項3</option>
 </select>
 ```
+
+## 範例 1
 
 
 
