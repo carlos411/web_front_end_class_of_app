@@ -35,7 +35,7 @@
 <input type="radio" name="custom_name" value="2"> 否
 ```
 
-## 多選
+## 勾選
 
 ```html
 <input type="checkbox" name="habits"> 興趣1
@@ -49,6 +49,20 @@
   <option value="2">選項2</option>
   <option value="3">選項3</option>
 </select>
+```
+
+## 按鈕
+
+```html
+<button type="button">這是一般按鈕</button>
+```
+
+## 資料送出按鈕 - submit
+
+```
+<button type="submit">這是資料送出按鈕</button>
+<!-- 或 -->
+<input type="submit" value="這是資料送出按鈕">
 ```
 
 ## 範例 1
