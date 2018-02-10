@@ -41,5 +41,15 @@
 <input type="checkbox"> 興趣1
 ```
 
+## 下拉選單
+
+```html
+<select>
+  <option>選項1</option>
+  <option>選項2</option>
+  <option>選項3</option>
+</select>
+```
+
 
 
