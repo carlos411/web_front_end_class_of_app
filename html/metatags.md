@@ -36,7 +36,3 @@
 
 [更多 Meta Data：https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
 
-## 練習
-
-[5.3 為您的網頁加上meta data](/assignments/htmlmetadata.md)
-
