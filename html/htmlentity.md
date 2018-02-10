@@ -8,7 +8,7 @@
 
 `&copy;`：
 
-```
+```html
 <body>
   &lt;
   <br>
