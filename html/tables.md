@@ -8,6 +8,10 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 ```
 
@@ -52,6 +56,23 @@
 ```
 
 按照定義，`<tfoot>` 需緊接在 `<thead>` 之後，再來才是 `<tbody>`。
+
+
+
+## 範例 1
+
+```html
+<table>
+  <tr>
+    <td>第一列第一欄</td>
+    <td>第一列第二欄</td>
+  </tr>
+  <tr>
+    <td>第二列第一欄</td>
+    <td>第二列第二欄</td>
+  </tr>
+</table>
+```
 
 
 
