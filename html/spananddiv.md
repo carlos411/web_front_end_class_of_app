@@ -27,7 +27,26 @@ span 常用於一般文字的部份。
 </div>
 ```
 
-## inline 與 block 元素
+## 範例 3：理解 行內\(inline\) 與 區塊\(block\) 元素
 
+```
+<div>
+  <a href="#">這是連結一</a>
+  <a href="#">這是連結二</a>
+</div>
+<div>
+  <span>這是 span 1</span>
+  <span>這是 span 2</span>
+</div>
+<div>
+  <p>這是段落一</p>
+  <p>這是段落二</p>
+</div>
+```
 
+簡易判斷方法：若該元素會自動斷行，即會區塊元素。
+
+## 練習
+
+理解 inline 元素 與 block 元素。
 
