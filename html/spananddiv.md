@@ -1,8 +1,8 @@
 # 2.14 span 和 div
 
-`<span>...</span>`：
+`<span>...</span>`：\(不可考\)
 
-`<div>...</div>`：document divisions
+`<div>...</div>`：document divisions。
 
 ## 語意
 
