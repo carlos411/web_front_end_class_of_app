@@ -9,8 +9,30 @@
 ## 結構
 
 ```html
-<iframe src="https://www.w3schools.com"></iframe>
+<iframe src="#"></iframe>
 ```
 
+## 常用屬性
 
+```
+<iframe src="#" width="100%" height="200px" frameborder="0"></iframe>
+```
+
+**width**：指定寬度，可以是 **%**、**px**。
+
+**height**：指定高度，可以是 **%** 、**px**。
+
+**frameborder**：是否要顯示邊框，**0** 表示不顯示，**1** 則為顯示。
+
+## 範例 1
+
+嵌入外部網站的內容
+
+```html
+<iframe src="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/table"></iframe>
+```
+
+## 範例 2
+
+嵌入 youtube 影片
 
