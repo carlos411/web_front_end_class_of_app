@@ -119,7 +119,7 @@
 
 ## 範例 3
 
-```
+```html
 <table>
   <thead>
     <tr>
