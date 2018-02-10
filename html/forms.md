@@ -23,16 +23,21 @@
 ## 多行文字框
 
 ```html
-<textarea></textarea>
+<textarea>這裡是文字</textarea>
 ```
 
 ## 單選
 
 ```html
-<input type="radio" name="custom_name">
+<input type="radio" name="custom_name" value="1"> 是
+<input type="radio" name="custom_name" value="2"> 否
 ```
 
-多選
+## 多選
+
+```
+<input type="checkbox">
+```
 
 
 
