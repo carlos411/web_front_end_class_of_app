@@ -36,10 +36,12 @@
       <th></th>
     </tr>
   </thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 ```
 
