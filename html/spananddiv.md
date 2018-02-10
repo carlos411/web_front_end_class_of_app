@@ -2,7 +2,7 @@
 
 `<span>...</span>`：\(不可考\)
 
-`<div>...</div>`：document divisions。
+`<div>...</div>`：document **div**isions。
 
 ## 語意
 
