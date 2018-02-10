@@ -14,7 +14,11 @@
 <img src="#" alt="圖片未正常出現會出現的文字" title="滑鼠移過，稍微停留會出現的文字">
 ```
 
-範例 1
+## 範例 1
+
+```
+<img src="http://notes.carlos-studio.com/images/butterfly.png" alt="圖片未正常出現會出現的文字" title="滑鼠移過，稍微停留會出現的文字">
+```
 
 
 
