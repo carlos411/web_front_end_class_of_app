@@ -33,13 +33,15 @@
 ```html
 <img src="../images/butterfly.png">
 <!-- 或 -->
-<img src="">
+<img src="/var/www/images/butterfly.png">
 ```
 
 相對路徑：
 
 ```html
 <img src="../images/butterfly.png">
+<!-- 或 -->
+<img src="./images/butterfly.png">
 ```
 
 ## 範例 2
@@ -53,4 +55,12 @@
 結果呈現
 
 ![](/assets/圖片未正常出現.png)
+
+
+
+## 練習
+
+請練習在網頁上呈現圖片，並瞭解 **alt**、**title** 的差異，以及 **src** 路徑方式的使用。
+
+
 
