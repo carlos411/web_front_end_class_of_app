@@ -6,7 +6,7 @@
 
 導覽 - `<nav>…</nav>`
 
-頁面主內容 - `<main>…</main>`
+頁面主內容 - `<main>…</main>`：一個網頁只能有一個 `<main>...</main>` 標籤。
 
 獨立區塊 - `<article>…</article>`
 
