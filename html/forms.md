@@ -14,3 +14,25 @@
 
 **method**：可以是 **get** 或 **post**。若是 get 的話，表示資料會呈現於網址當中，post 則不會出現在網址當中，相對較安全。
 
+## 文字框
+
+```html
+<input type="text">
+```
+
+## 多行文字框
+
+```html
+<textarea></textarea>
+```
+
+## 單選
+
+```html
+<input type="radio" name="custom_name">
+```
+
+多選
+
+
+
