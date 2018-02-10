@@ -59,7 +59,7 @@
 
 ## 資料送出按鈕 - submit
 
-```
+```html
 <button type="submit">這是資料送出按鈕</button>
 <!-- 或 -->
 <input type="submit" value="這是資料送出按鈕">
