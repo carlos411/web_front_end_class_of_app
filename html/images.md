@@ -31,7 +31,7 @@
 絕對路徑：
 
 ```html
-<img src="../images/butterfly.png">
+<img src="http://notes.carlos-studio.com/images/butterfly.png">
 <!-- 或 -->
 <img src="/var/www/images/butterfly.png">
 ```
