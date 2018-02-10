@@ -1,6 +1,6 @@
 # 2.13 嵌入內容 - &lt;iframe&gt;...&lt;/iframe&gt;
 
-`<iframe>`：inline frame
+`<iframe>`：inline frame 的縮寫。
 
 ## 語意
 
