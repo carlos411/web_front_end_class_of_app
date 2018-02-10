@@ -37,8 +37,8 @@
 
 ## 多選
 
-```
-<input type="checkbox">
+```html
+<input type="checkbox"> 興趣1
 ```
 
 
