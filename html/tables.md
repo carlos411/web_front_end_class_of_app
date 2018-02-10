@@ -36,6 +36,12 @@
       <th></th>
     </tr>
   </thead>
+  <tfoot>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tfoot>
   <tbody>
     <tr>
       <td></td>
@@ -44,6 +50,8 @@
   </tbody>
 </table>
 ```
+
+按照定義，`<tfoot>` 需緊接在 `<thead>` 之後，再來才是 `<tbody>`。
 
 
 
