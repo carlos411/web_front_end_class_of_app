@@ -117,3 +117,34 @@
 
 ![](/assets/基本結構2.png)
 
+## 範例 3
+
+```
+<table>
+  <thead>
+    <tr>
+      <th>標題一</th>
+      <th>標題二</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>tfoot 第一欄</td>
+      <td>tfoot 第二欄</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>第一列第一欄</td>
+      <td>第一列第二欄</td>
+    </tr>
+    <tr>
+      <td>第二列第一欄</td>
+      <td>第二列第二欄</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+
+
