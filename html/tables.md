@@ -99,6 +99,10 @@
 ```html
 <table>
   <tr>
+    <th>標題一</th>
+    <th>標題二</th>
+  </tr>
+  <tr>
     <td>第一列第一欄</td>
     <td>第一列第二欄</td>
   </tr>
