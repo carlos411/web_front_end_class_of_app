@@ -26,6 +26,22 @@
 
 ![](/assets/圖片_title_示意.png)
 
+## 路徑
+
+絕對路徑：
+
+```html
+<img src="../images/butterfly.png">
+<!-- 或 -->
+<img src="">
+```
+
+相對路徑：
+
+```html
+<img src="../images/butterfly.png">
+```
+
 ## 範例 2
 
 圖片末正常出現時，顯示 **alt** 的文字。
