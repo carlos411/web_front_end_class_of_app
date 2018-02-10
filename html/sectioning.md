@@ -1,18 +1,18 @@
 # 2.15 結構
 
-# 頁首 - &lt;header&gt;&lt;/header&gt;
+頁首 - `<header>…</header>`
 
-# 頁尾 - &lt;footer&gt;&lt;/footer&gt;
+頁尾 - `<footer>…</footer>`
 
-# 導覽 - &lt;nav&gt;&lt;/nav&gt;
+導覽 - `<nav>…</nav>`
 
-# 頁面主內容 - &lt;main&gt;&lt;/main&gt;
+頁面主內容 - `<main>…</main>`
 
-# 獨立區塊 - &lt;article&gt;&lt;/article&gt;
+獨立區塊 - `<article>…</article>`
 
-# 頁面區段 - &lt;section&gt;&lt;/section&gt;
+頁面區段 - `<section>…</section>`
 
-# 側邊欄 - &lt;aside&gt;&lt;/aside&gt;
+側邊欄 - `<aside>…</aside>`
 
 ## 結構的轉換
 
