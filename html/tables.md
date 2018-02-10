@@ -16,9 +16,26 @@
 ```html
 <table>
   <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
   </tr>
+</table>
+```
+
+進階結構
+
+```
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
   <tr>
     <th></th>
     <th></th>
