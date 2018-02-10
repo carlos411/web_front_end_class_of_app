@@ -28,6 +28,8 @@
 
 ## 單選
 
+**name** 要一樣，才能被視為單選：
+
 ```html
 <input type="radio" name="custom_name" value="1"> 是
 <input type="radio" name="custom_name" value="2"> 否
