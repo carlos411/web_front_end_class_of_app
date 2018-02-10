@@ -16,9 +16,11 @@
 
 ## 範例 1
 
-```
+```html
 <img src="http://notes.carlos-studio.com/images/butterfly.png" alt="圖片未正常出現會出現的文字" title="滑鼠移過，稍微停留會出現的文字">
 ```
 
+結果呈現
 
+![](/assets/圖片_title_示意.png)
 
