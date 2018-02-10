@@ -65,7 +65,33 @@
 <input type="submit" value="這是資料送出按鈕">
 ```
 
-## 範例 1
+## 範例
+
+```html
+<form action="#" method="get">
+  <input type="text" name="address">
+  <br>
+  <textarea name="content">這裡是文字</textarea>
+  <br>
+  <input type="radio" name="custom_name" value="1"> 是
+  <br>
+  <input type="radio" name="custom_name" value="2"> 否
+  <br>
+  <input type="checkbox" name="habits"> 興趣1
+  <br>
+  <select name="country">
+    <option value="1">選項1</option>
+    <option value="2">選項2</option>
+    <option value="3">選項3</option>
+  </select>
+  <br>
+  
+  <button type="submit">這是資料送出按鈕</button>
+  <!-- 或 -->
+  <br>
+  <input type="submit" value="這是資料送出按鈕">
+</form>
+```
 
 
 
