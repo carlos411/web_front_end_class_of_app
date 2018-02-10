@@ -28,7 +28,7 @@
 
 進階結構
 
-```
+```html
 <table>
   <thead>
     <tr>
