@@ -14,7 +14,7 @@
 
 ## 常用屬性
 
-```
+```html
 <iframe src="#" width="100%" height="200px" frameborder="0"></iframe>
 ```
 
