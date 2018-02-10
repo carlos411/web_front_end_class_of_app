@@ -40,8 +40,6 @@
 
 ![](/assets/iframe 嵌入影片.png)
 
-
-
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1UWI7epjcBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
@@ -52,5 +50,5 @@
 
 ## 練習
 
-在您的網頁上試試 &lt;iframe&gt; 的呈現結果。
+請在您的網頁上試試 `<iframe>` 的呈現結果，並瞭解 `<iframe>` 的結構。
 
