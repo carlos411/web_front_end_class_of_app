@@ -38,6 +38,16 @@
 
 嵌入 youtube 影片
 
+
+
+![](/assets/iframe 嵌入影片.png)
+
+![](/assets/iframe 嵌入影片.png)
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1UWI7epjcBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
+
 ## 練習
 
 
