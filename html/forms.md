@@ -85,7 +85,8 @@
     <option value="3">選項3</option>
   </select>
   <br>
-
+  <button type="button">這是一般按鈕</button>
+  <br>
   <button type="submit">這是資料送出按鈕</button>
   <!-- 或 -->
   <br>
