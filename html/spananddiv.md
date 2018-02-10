@@ -34,10 +34,12 @@ span 常用於一般文字的部份。
   <a href="#">這是連結一</a>
   <a href="#">這是連結二</a>
 </div>
+
 <div>
   <span>這是 span 1</span>
   <span>這是 span 2</span>
 </div>
+
 <div>
   <p>這是段落一</p>
   <p>這是段落二</p>
