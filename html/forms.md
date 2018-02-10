@@ -65,7 +65,7 @@
 <input type="submit" value="這是資料送出按鈕">
 ```
 
-## 範例
+## 範例練習
 
 ```html
 <form action="#" method="get">
@@ -85,7 +85,7 @@
     <option value="3">選項3</option>
   </select>
   <br>
-  
+
   <button type="submit">這是資料送出按鈕</button>
   <!-- 或 -->
   <br>
@@ -93,5 +93,7 @@
 </form>
 ```
 
+結果呈現：
 
+![](/assets/表單基礎.png)
 
