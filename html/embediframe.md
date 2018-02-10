@@ -32,6 +32,8 @@
 <iframe src="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/table"></iframe>
 ```
 
+![](/assets/iframe_嵌入外部網站.png)
+
 ## 範例 2
 
 嵌入 youtube 影片
