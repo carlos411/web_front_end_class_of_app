@@ -9,7 +9,7 @@
 
 這時，在 css 中，就可以透過 class 或 id 來套上樣式。例：
 
-```
+```css
 /* . 符號表示 class 的名稱 */
 .title1{
   color: blue;
