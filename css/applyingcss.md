@@ -33,8 +33,10 @@
 
 **index.css** 的內容如下：
 
-```
-
+```css
+p{
+  color: blue;
+}
 ```
 
 
