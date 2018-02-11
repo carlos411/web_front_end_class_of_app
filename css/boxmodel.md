@@ -93,18 +93,18 @@ CSS：
       padding: 10px;
       margin: 20px;
     }
-    
-    span1{
 
+    span1{
+      /* display: */
     }
     .span2{
-    
+      /* display: */
     }
     .para1{
-    
+      /* display: */
     }
     .para2{
-    
+      /* display: */
     }
     </style>
   </head>
