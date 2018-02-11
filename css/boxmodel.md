@@ -66,11 +66,11 @@ CSS：
 
 ## 基本元素類型
 
-行內元素\(inline\)：不會有上、下的 margin
+* 行內元素\(inline\)：不會有上、下的 margin
 
-行內區塊元素\(inline-block\)
+* 行內區塊元素\(inline-block\)
 
-區塊元素\(block\)
+* 區塊元素\(block\)
 
 留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
