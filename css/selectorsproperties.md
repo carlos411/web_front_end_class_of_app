@@ -2,5 +2,5 @@
 
 Selectors 網路上看中文的話，常被翻譯成「選擇子」，參考。
 
-
+![](/assets/selectors和屬性及值.png)
 
