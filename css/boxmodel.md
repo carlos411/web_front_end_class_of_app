@@ -31,5 +31,5 @@ CSS：
 
 ![](/assets/box_model_example.png)
 
-第二步：增加 padding：
+第二步：增加 **padding**。
 
