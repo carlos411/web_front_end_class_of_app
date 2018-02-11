@@ -41,7 +41,7 @@ CSS：
   border:1px solid red;
 
   /* 內容與框線的上、右、下、左，距離都是 5px */
-  padding: 5px;
+  padding: 10px;
 }
 ```
 
