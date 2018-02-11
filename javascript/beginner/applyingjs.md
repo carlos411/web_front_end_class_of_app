@@ -7,7 +7,7 @@
 直接使用 **script** 屬性，加在 html 的標籤內。但因為這樣會使得 html 過於雜亂，且通常 JS 程式碼較多，建議少用此種套用方式。
 
 ```html
-<p style="color: blue;">這是段落，使用 屬性 style 來改變文字樣式。</p>
+<p script="color: blue;">這是段落，使用 屬性 style 來改變文字樣式。</p>
 ```
 
 ## 方式二：嵌入套用
