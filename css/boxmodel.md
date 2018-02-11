@@ -2,3 +2,5 @@
 
 ![](/assets/box_model.png)
 
+註：margin 相鄰時，會合併，並取最大的。
+
