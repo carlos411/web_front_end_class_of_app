@@ -31,8 +31,12 @@
 
 ## 範例
 
-```
+```js
+var job = "web designer";
+var month = 2;
+var day;
 
+day = 21;
 ```
 
 
