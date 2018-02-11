@@ -2,5 +2,12 @@
 
 **布林值\(Boolean\)**：**true** 或 **false**
 
+```js
+var a = true;
+var b = false;
+```
+
+
+
 
 
