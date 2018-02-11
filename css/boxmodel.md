@@ -68,7 +68,7 @@ CSS：
 
 * 行內元素\(inline\)：不會有上、下的 margin
 
-* 行內區塊元素\(inline-block\)：
+* 行內區塊元素\(inline-block\)
 
 * 區塊元素\(block\)
 
