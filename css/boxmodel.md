@@ -64,9 +64,47 @@ CSS：
 
 ![](/assets/box_model_example3.png)
 
-## 行內元素、區塊元素、行內區塊元素
+## 基本元素類型
 
-註1：上下 margin 相鄰時，會合併，並取最大的。
+行內元素\(inline\)：不會有上、下的 margin
 
-註2：inline 元素，上下並不會產生 margin。
+行內區塊元素\(inline-block\)
+
+區塊元素\(block\)
+
+留意：上下 margin 相鄰時，會合併，並取最大的。
+
+
+
+## 練習
+
+請使用以下的程式在瀏覽器中執行，並使用 console 來查看 box model 的各數值。
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>這是網頁標題</title>
+    <style>
+    .span1, .span2, .para1, .para2{
+      border:1px solid red;
+      padding: 10px;
+      margin: 20px;
+    }
+    </style>
+  </head>
+  <body>
+    <span class="span1">這是文字1</span>
+    <span class="span2">這是文字2</span>
+
+    <br><br>
+
+    <p class="para1">這是段落1</p>
+    <p class="para2">這是段落2</p>
+  </body>
+</html>
+```
+
+
 
