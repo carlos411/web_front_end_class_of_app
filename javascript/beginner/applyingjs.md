@@ -18,6 +18,8 @@
 
 ```css
 <body>
+  <p>開啟 alert 提示訊息</p>
+  
   <script type="text/javascript">
     var p = document.getElementsByTagName("p")[0];
     p.addEventListener("click", function(){
