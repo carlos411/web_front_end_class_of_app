@@ -6,6 +6,8 @@
 
 **border**：該元素的邊框。
 
+![](/assets/box_model.png)
+
 ## 範例
 
 第一步：增加 **border**。
@@ -62,11 +64,7 @@ CSS：
 
 ![](/assets/box_model_example3.png)
 
-
-
 ## 行內元素、區塊元素、行內區塊元素
-
-
 
 註1：上下 margin 相鄰時，會合併，並取最大的。
 
