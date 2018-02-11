@@ -40,7 +40,9 @@
 ```css
 .title1{
   color: blue;
-
+}
+.change_size{
+  font-size: 20px;
 }
 ```
 
