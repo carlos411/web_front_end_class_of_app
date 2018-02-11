@@ -119,5 +119,9 @@ CSS：
 
 結果呈現：
 
+試試看瀏覽器中的 **Elements**。
+
+以 Mac 電腦為例，使用 **Chrome 瀏覽器**，快速鍵 `cmd + option + i`，即可看到 **elements** 的頁籤。如圖：
+
 ![](/assets/box_model_example4.png)
 
