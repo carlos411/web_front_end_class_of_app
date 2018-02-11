@@ -50,9 +50,11 @@ p.addEventListener("click", function(){
 而 **index.html** 要載入 **index.js** 這個外部檔案的方式如下：
 
 ```html
-<head>
-  <link href="./css/index.css" rel="stylesheet">
-</head>
+<body>
+  <p>開啟 alert 提示訊息</p>
+  
+  <script src="./js/index.js"></script>
+</body>
 ```
 
 注意 `<link>` 是**沒有**結尾標籤的。**href** 是 **H**ypertext **Ref**erence，**rel** 是 **rel**ationship 的縮寫。
