@@ -47,7 +47,7 @@ p.addEventListener("click", function(){
 });
 ```
 
-而 **index.html** 要載入 **index.css** 這個外部檔案的方式如下：
+而 **index.html** 要載入 **index.js** 這個外部檔案的方式如下：
 
 ```html
 <head>
