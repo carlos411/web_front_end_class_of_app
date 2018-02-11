@@ -42,6 +42,7 @@
   color: blue;
 }
 .change_size{
+  /* 文字大小設定成 20px */
   font-size: 20px;
 }
 ```
