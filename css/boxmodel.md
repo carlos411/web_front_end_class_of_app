@@ -4,7 +4,7 @@
 
 **padding**：內容與 border 的距離。
 
-**border**：該視素的邊框。
+**border**：該元素的邊框。
 
 ![](/assets/box_model.png)
 
@@ -30,6 +30,4 @@ CSS：
 ![](/assets/box_model_example.png)
 
 第二步：增加 padding：
-
-
 
