@@ -6,8 +6,6 @@
 
 **border**：該元素的邊框。
 
-
-
 ## 範例
 
 第一步：增加 **border**。
@@ -61,6 +59,8 @@ CSS：
   margin: 20px;
 }
 ```
+
+![](/assets/box_model_example3.png)
 
 註1：上下 margin 相鄰時，會合併，並取最大的。
 
