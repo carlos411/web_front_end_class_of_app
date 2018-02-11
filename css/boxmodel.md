@@ -16,5 +16,15 @@ border：該視素的邊框。
 <span class="span1">這是文字1</span>
 ```
 
+CSS：
+
+```
+.span1{
+  border:1px solid red;
+  padding: 5px;
+  margin-left: 10px;
+}
+```
+
 
 
