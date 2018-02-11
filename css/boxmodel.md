@@ -12,6 +12,8 @@ border：該視素的邊框。
 
 ## 範例 1
 
+HTML：
+
 ```html
 <span class="span1">這是文字1</span>
 ```
