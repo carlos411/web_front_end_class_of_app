@@ -2,7 +2,7 @@
 
 Selectors 網路上看中文的話，常被翻譯成「選擇子」，參考。
 
-* **Selector**：
+* **Selector**：指的是要套用至 html 的哪個元素。
 * **Attribute\(屬性\)**：
 * **Value\(屬性值\)**：
 
