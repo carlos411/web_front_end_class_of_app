@@ -74,8 +74,6 @@ CSS：
 
 留意：上下 margin 相鄰時，會合併，並取最大的。
 
-
-
 ## 練習
 
 請使用以下的程式在瀏覽器中執行，並使用 console 來查看 box model 的各數值。
@@ -106,5 +104,7 @@ CSS：
 </html>
 ```
 
+結果呈現：
 
+![](/assets/box_model_example4.png)
 
