@@ -68,7 +68,7 @@ CSS：
 
 * 行內元素\(inline\)：不會有上、下的 margin
 
-* 行內區塊元素\(inline-block\)
+* 行內區塊元素\(inline-block\)：
 
 * 區塊元素\(block\)
 
@@ -95,7 +95,6 @@ CSS：
   <body>
     <span class="span1">這是文字1</span>
     <span class="span2">這是文字2</span>
-
 
     <p class="para1">這是段落1</p>
     <p class="para2">這是段落2</p>
