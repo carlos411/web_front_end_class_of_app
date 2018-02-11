@@ -37,10 +37,9 @@
 var job = "web designer";
 var month = 2;
 var day;
+var weight = 30.5;
 
 day = 21;
-
-var weight = 30.5;
 ```
 
 
