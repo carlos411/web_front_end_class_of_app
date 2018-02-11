@@ -25,3 +25,11 @@ var b = false;
 
 `<=`：小於等於。
 
+## 練習
+
+請在瀏覽器中的 console 中輸入來練習。
+
+結果示意
+
+![](/assets/logic_boolean.png)
+
