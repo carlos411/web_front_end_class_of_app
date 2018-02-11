@@ -44,7 +44,7 @@
     * [4.1.1 套用 javascript](javascript/beginner/applyingjs.md)
     * [4.1.2 註解](javascript/beginner/jscomments.md)
     * [4.1.3 變數\(variable\)和資料類型\(data type\)](javascript/beginner/variablesdata.md)
-    * [4.1.4 加減乘除](javascript/beginner/doingmath.md)
+    * [4.1.4 加減乘除及初探 console](javascript/beginner/doingmath.md)
     * [4.1.5 邏輯\(logic\)](javascript/beginner/logic.md)
     * [4.1.6 條件式\(condition\)](javascript/beginner/conditional.md)
     * [4.1.7 迴圈\(loop\)](javascript/beginner/looping.md)
