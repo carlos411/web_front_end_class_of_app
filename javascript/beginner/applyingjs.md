@@ -29,7 +29,7 @@
 </body>
 ```
 
-試著將 `<script>...</script>` 移到 `<head></head>` 區段之中，看是否正常？
+練習：試著將 `<script>...</script>` 移到 `<head></head>` 區段之中，看是否正常？
 
 ## 方式三：外部套用
 
