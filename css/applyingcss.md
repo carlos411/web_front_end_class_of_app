@@ -4,6 +4,8 @@
 
 ## 方式一：行內套用
 
+直接使用 style 屬性，加在 html 的標籤內。
+
 ```html
 <p style="color: blue;">這是段落，使用 屬性 style 來改變文字樣式。</p>
 ```
