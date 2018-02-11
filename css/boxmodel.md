@@ -49,3 +49,17 @@ CSS：
 
 第三步：增加 **margin**。
 
+更改 css 如下：
+
+```css
+.span1{
+  /* 1px 的框線、實線、紅色 */
+  border:1px solid red;
+
+  /* 內容與框線的上、右、下、左，距離都是 10px */
+  padding: 10px;
+}
+```
+
+
+
