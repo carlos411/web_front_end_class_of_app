@@ -35,5 +35,14 @@
 <h1 class="title1 change_size">這是內文標題</h1>
 ```
 
+這時 `<h1>` 會套用以下兩個 CSS 的樣式表：
+
+```css
+.title1{
+  color: blue;
+
+}
+```
+
 
 
