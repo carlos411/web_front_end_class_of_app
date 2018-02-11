@@ -47,5 +47,5 @@ p{
 </head>
 ```
 
-注意 `<link>` 是沒有結尾標籤的。**rel** 是 **relationship** 的縮寫。
+注意 `<link>` 是沒有結尾標籤的。**href** 是 **H**ypertext **Ref**erence，**rel** 是 **rel**ationship 的縮寫。
 
