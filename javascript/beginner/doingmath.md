@@ -20,7 +20,7 @@ var add = a + b;
 var minus = a - b;
 var multiple = a * b;
 var divide = a / b;
-var percentage = a % b;
+var remainder = a % b;
 ```
 
 ## 練習
