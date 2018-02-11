@@ -78,6 +78,8 @@ CSS：
 
 請使用以下的程式在瀏覽器中執行，並學會使用 console 來查看 box model 的各數值。
 
+並試著改變 display 屬性的值，可選的有 `inline`、`inline-block`、`block`：
+
 ```html
 <!doctype html>
 <html>
@@ -91,6 +93,10 @@ CSS：
       padding: 10px;
       margin: 20px;
     }
+    span1{
+    
+    }
+    .span2, .para1, .para2
     </style>
   </head>
   <body>
