@@ -12,6 +12,17 @@
 
 ## 範例
 
+```js
+var a = 5;
+var b = 2;
+
+var add = a + b;
+var minus = a - b;
+var multiple = a * b;
+var divide = a / b;
+var percentage = a % b;
+```
+
 ## 練習
 
 試試看瀏覽器中的 **Console\(控制台\)**。
