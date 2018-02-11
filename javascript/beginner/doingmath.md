@@ -16,7 +16,9 @@
 
 以 Mac 電腦為例，使用 **Chrome 瀏覽器**，快速鍵 `cmd + option + i`，即可看到 **console** 的頁籤。如圖：
 
-![](/assets/console.png)
+![](/assets/console.png)示範結果：
+
+![](/assets/console示範.png)
 
 ## 範例
 
