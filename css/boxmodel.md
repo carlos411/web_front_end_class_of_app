@@ -64,7 +64,7 @@ CSS：
 
 ![](/assets/box_model_example3.png)
 
-## 基本元素類型
+## 基本元素類型\(display\)
 
 * 行內元素\(inline\)：不會有上、下的 margin
 
