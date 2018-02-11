@@ -10,7 +10,7 @@
 
 `%`：取餘數。
 
-## 初探 Console
+## 範例暨初探 Console
 
 試試看瀏覽器中的 **Console\(控制台\)**。
 
@@ -18,11 +18,7 @@
 
 ![](/assets/console.png)
 
-示範結果：
-
-![](/assets/console示範.png)
-
-## 範例
+範例 code：
 
 ```js
 var a = 5;
@@ -36,4 +32,10 @@ var remainder = a % b;
 ```
 
 
+
+
+
+示範結果：
+
+![](/assets/console示範.png)
 
