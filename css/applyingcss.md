@@ -4,7 +4,7 @@
 
 ## 方式一：行內套用
 
-直接使用 style 屬性，加在 html 的標籤內。
+直接使用 style 屬性，加在 html 的標籤內。但因為這樣會使得 html 過於雜亂，建議少用。
 
 ```html
 <p style="color: blue;">這是段落，使用 屬性 style 來改變文字樣式。</p>
