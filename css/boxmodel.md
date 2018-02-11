@@ -62,6 +62,12 @@ CSS：
 
 ![](/assets/box_model_example3.png)
 
+
+
+## 行內元素、區塊元素、行內區塊元素
+
+
+
 註1：上下 margin 相鄰時，會合併，並取最大的。
 
 註2：inline 元素，上下並不會產生 margin。
