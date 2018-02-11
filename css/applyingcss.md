@@ -29,7 +29,7 @@
 一般來說，html、css，會建議寫在各自的檔案，以讓 html 儘可能保持乾淨不雜亂。例：
 
 * index.html
-* index.css
+* css/index.css
 
 **index.css** 的內容如下：
 
@@ -37,6 +37,14 @@
 p{
   color: blue;
 }
+```
+
+而 **index.html** 要載入 **index.css** 這個外部檔案的方式如下：
+
+```html
+<head>
+  <link href="./css/index.css" rel="stylesheet">
+</head>
 ```
 
 
