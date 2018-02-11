@@ -45,5 +45,5 @@ CSS：
 }
 ```
 
-
+![](/assets/box_model_example2.png)
 
