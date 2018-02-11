@@ -1,6 +1,8 @@
 # 4.1.5 邏輯\(logic\)
 
-**布林值\(Boolean\)**：**true** 或 **false**
+變數型態：**布林值\(Boolean\)**：**true** 或 **false**
+
+指的是一個變數，可以存放 **true** 或 **false**，表示該變數是一個布林值。
 
 ```js
 var a = true;
