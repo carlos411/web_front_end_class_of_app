@@ -33,3 +33,16 @@ CSS：
 
 第二步：增加 **padding**。
 
+更改 CSS 如下：
+
+```css
+.span1{
+  /* 1px 的框線、實線、紅色 */
+  border:1px solid red;
+  /* 內容與框線的下、右、下、左，距離都是 5px */
+  padding: 5px;
+}
+```
+
+
+
