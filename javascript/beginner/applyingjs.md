@@ -52,10 +52,10 @@ p.addEventListener("click", function(){
 ```html
 <body>
   <p>開啟 alert 提示訊息</p>
-  
+
   <script src="./js/index.js"></script>
 </body>
 ```
 
-注意 `<link>` 是**沒有**結尾標籤的。**href** 是 **H**ypertext **Ref**erence，**rel** 是 **rel**ationship 的縮寫。
+注意 `<script>` 是**有**結尾標籤的。
 
