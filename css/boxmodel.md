@@ -72,7 +72,7 @@ CSS：
 
 區塊元素\(block\)
 
-留意：上下 margin 相鄰時，會合併，並取最大的。
+留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
 ## 練習
 
