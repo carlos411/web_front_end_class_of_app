@@ -8,5 +8,5 @@ border：該視素的邊框。
 
 ![](/assets/box_model.png)
 
-註：margin 相鄰時，會合併，並取最大的。
+註：上下 margin 相鄰時，會合併，並取最大的。
 
