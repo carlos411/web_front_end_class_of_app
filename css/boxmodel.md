@@ -78,7 +78,7 @@ CSS：
 
 請使用以下的程式在瀏覽器中執行，並學會使用 console 來查看 box model 的各數值。
 
-並試著改變 display 屬性的值，可選的有 `inline`、`inline-block`、`block`：
+並試著改變 display 屬性的值來觀察，可選的有 `inline`、`inline-block`、`block`：
 
 ```html
 <!doctype html>
