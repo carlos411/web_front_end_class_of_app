@@ -33,10 +33,10 @@
 
 ## 方式三：外部套用
 
-一般來說，html、css，會建議寫在各自的檔案，以讓 html 儘可能保持乾淨不雜亂。例：
+一般來說，html、js，會建議寫在各自的檔案，以讓 html 儘可能保持乾淨不雜亂。例：
 
 * index.html
-* css/index.css
+* js/index.js
 
 **index.css** 的內容如下：
 
