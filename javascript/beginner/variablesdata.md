@@ -37,6 +37,8 @@ var month = 2;
 var day;
 
 day = 21;
+
+var weight = 30.5;
 ```
 
 
