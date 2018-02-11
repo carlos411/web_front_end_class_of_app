@@ -17,13 +17,14 @@
 在 html 當中，寫在 `<script>...</script>` 之中。可以在頁面的任何地方出現，但建議一般會放在 `</body>` 結束標籤之前，這樣在內容出現時，元素才會被套用到 JS 的行為。
 
 ```css
-<head>
-  <style>
-    p{
-      color: blue;
-    }
-  </style>
-</head>
+<body>
+  <script type="text/javascript">
+    var p = document.getElementsByTagName("p")[0];
+    p.addEventListener("click", function(){
+      alert("open dialog");
+    });
+  </script>
+</body>
 ```
 
 ## 方式三：外部套用
