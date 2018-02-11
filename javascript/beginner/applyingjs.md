@@ -57,5 +57,5 @@ p.addEventListener("click", function(){
 </body>
 ```
 
-注意 `<script>` 是**有**結尾標籤的。**src** 是 **source** 的縮寫。
+注意 `<script>...</script>` 是**有**結尾標籤的。**src** 是 **source** 的縮寫。
 
