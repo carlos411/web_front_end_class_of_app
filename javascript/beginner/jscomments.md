@@ -10,6 +10,11 @@ JS 註解有二種：
   <p>開啟 alert 提示訊息</p>
 
   <script type="text/javascript">
+    // 這是單行註解
+    /*
+      這是
+      多行註解
+    */
     var p = document.getElementsByTagName("p")[0];
     p.addEventListener("click", function(){
       alert("open dialog");
