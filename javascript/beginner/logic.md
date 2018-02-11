@@ -27,7 +27,7 @@ var b = false;
 
 ## 練習
 
-請在瀏覽器中的 console 中輸入來練習。
+請在瀏覽器中的 console 中輸入來練習。`cmd + option + i` 即可開啟瀏覽器中的 console。
 
 結果示意
 
