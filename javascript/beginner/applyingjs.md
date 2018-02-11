@@ -29,6 +29,8 @@
 </body>
 ```
 
+試著將 &lt;script&gt;...&lt;/script&gt; 移到 &lt;head&gt;&lt;/head&gt; 區段之中，看是否正常？
+
 ## 方式三：外部套用
 
 一般來說，html、css，會建議寫在各自的檔案，以讓 html 儘可能保持乾淨不雜亂。例：
