@@ -72,7 +72,7 @@ CSS：
 
 * 區塊元素\(block\)
 
-留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
+留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。\(不需要記。\)
 
 ## 練習
 
@@ -93,10 +93,19 @@ CSS：
       padding: 10px;
       margin: 20px;
     }
+    
     span1{
+
+    }
+    .span2{
     
     }
-    .span2, .para1, .para2
+    .para1{
+    
+    }
+    .para2{
+    
+    }
     </style>
   </head>
   <body>
