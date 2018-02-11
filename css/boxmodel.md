@@ -10,3 +10,11 @@ border：該視素的邊框。
 
 註：上下 margin 相鄰時，會合併，並取最大的。
 
+## 範例 1
+
+```html
+<span class="span1">這是文字1</span>
+```
+
+
+
