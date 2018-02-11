@@ -89,7 +89,7 @@ CSS：
     <style>
     /* 以逗號區隔，各個樣式都是相同的，只是不同名稱 */
     .span1, .span2, .para1, .para2{
-      border:1px solid red;
+      border: 1px solid red;
       padding: 10px;
       margin: 20px;
     }
