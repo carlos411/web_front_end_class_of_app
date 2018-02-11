@@ -22,6 +22,7 @@ CSS：
 
 ```css
 .span1{
+  /* 1px的框線、實線、紅色 */
   border:1px solid red;
 }
 ```
