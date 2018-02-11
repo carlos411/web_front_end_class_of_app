@@ -76,7 +76,7 @@ CSS：
 
 ## 練習
 
-請使用以下的程式在瀏覽器中執行，並使用 console 來查看 box model 的各數值。
+請使用以下的程式在瀏覽器中執行，並學會使用 console 來查看 box model 的各數值。
 
 ```html
 <!doctype html>
