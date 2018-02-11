@@ -96,7 +96,6 @@ CSS：
     <span class="span1">這是文字1</span>
     <span class="span2">這是文字2</span>
 
-    <br><br>
 
     <p class="para1">這是段落1</p>
     <p class="para2">這是段落2</p>
