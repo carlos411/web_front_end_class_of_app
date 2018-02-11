@@ -38,12 +38,13 @@
 * index.html
 * js/index.js
 
-**index.css** 的內容如下：
+**index.js** 的內容如下：
 
-```css
-p{
-  color: blue;
-}
+```js
+var p = document.getElementsByTagName("p")[0];
+p.addEventListener("click", function(){
+  alert("open dialog");
+});
 ```
 
 而 **index.html** 要載入 **index.css** 這個外部檔案的方式如下：
