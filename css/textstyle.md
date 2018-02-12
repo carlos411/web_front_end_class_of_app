@@ -11,5 +11,5 @@
 * `text-align`：文字對齊，可選的值有 **left**、**right**、**center**。
 * `line-height`：行高。通常以**倍數**來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。當然也可以指定固定的 **24px **這種固定行高。
 
-其它還有：`letter-spacing`、`word-spacing`、text-overflow。
+
 
