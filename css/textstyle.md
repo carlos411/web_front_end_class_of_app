@@ -2,12 +2,12 @@
 
 更改文字的樣式，常用包含：
 
-* `font-size`：文字大小。例：**20px**。
+* `font-size`：文字大小。例：**20px**。文字單位其它還有 **em**、**rem**、**%**。
 * `font-weight`：文字粗體，值有 **100**、**200**、**300**、**400**\(**normal**\)、**500**、**600**、**700**\(**bold**\)、**800**、**900**。
 * `font-style`：可選的值有：**normal**\(這是預設值\)、**italic**\(會顯示成斜體\)。
 * `color`：改變文字顏色。值的格式範例：**red**、**\#999999**。其它格式還有 RGB、RGBA、HSL、HSLA。
 * `text-decoration`：畫線。可選的有 **underline**\(畫底線\)、**overline**\(底線畫在上方\)、**line-through**\(畫刪除線\)、**none**\(不畫線\)。
-* `text-transform`：**capitalize**\(英文每個詞的首字母都會變大寫\)、
+* `text-transform`：**capitalize**\(英文每個詞的首字母都會變大寫\)、**uppercase**\(每個英文字母都變大寫\)、**lowercase**\(每個英文字母都變小寫\)、none\(\)。
 
 
 
