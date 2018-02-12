@@ -2,7 +2,9 @@
 
 運用 **true** 及 **false** 創造條件式。某條件為真，即執行一段程式，反之，則執行另一段程式。
 
-## if
+## if 語法結構
+
+![](/assets/condition_if.png)
 
 ## if else
 
