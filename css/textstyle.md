@@ -6,7 +6,7 @@
 * `font-weight`：文字粗體，值有 **100**、**200**、**300**、**400**\(**normal**\)、**500**、**600**、**700**\(**bold**\)、**800**、**900**。
 * `font-style`：可選的值有：**normal**\(這是預設值\)、**italic**\(會顯示成斜體\)。
 * `color`：改變文字顏色。值的格式範例：**red**、**\#999999**。
-* `text-decoration`：畫線。可選的有 **underline**\(畫底線\)、**overline**\(底線畫在上方\)、**line-through**\(畫刪除線\)、
+* `text-decoration`：畫線。可選的有 **underline**\(畫底線\)、**overline**\(底線畫在上方\)、**line-through**\(畫刪除線\)、**none**\(不畫線\)。
 
 
 
