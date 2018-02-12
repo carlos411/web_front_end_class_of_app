@@ -9,7 +9,7 @@
 * `text-decoration`：畫線。可選的有 **underline**\(畫底線\)、**overline**\(底線畫在上方\)、**line-through**\(畫刪除線\)、**none**\(不畫線\)。
 * `text-transform`：**capitalize**\(英文每個詞的首字母都會變大寫\)、**uppercase**\(每個英文字母都變大寫\)、**lowercase**\(每個英文字母都變小寫\)、**none**\(不轉換\)。
 * `text-align`：文字對齊，可選的值有 **left**、**right**、**center**。
-* `line-height`：行高。通常以倍數來表示，例：此值是 2 的話，而文字大小是16px，則行高就是 32px。也可以指定固定的 **24px **這種固定行高。
+* `line-height`：行高。通常以倍數來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。也可以指定固定的 **24px **這種固定行高。
 
 其它還有：`letter-spacing`、`word-spacing`、text-overflow。
 
