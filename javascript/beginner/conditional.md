@@ -18,5 +18,11 @@
 
 ## switch 語法結構
 
+結構一：
+
 ![](/assets/condition_switch.png)
+
+結構二：
+
+![](/assets/condition_switch_2.png)
 
