@@ -12,5 +12,9 @@
 
 ## if ... else if ... else
 
+`else if` 可以有多個。
+
+![](/assets/condition_if_else_if_else.png)
+
 
 
