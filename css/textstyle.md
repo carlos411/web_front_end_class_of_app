@@ -32,7 +32,7 @@ p{
   text-transform: capitalize;
   text-align: right;
   line-height: 2;
-  font-family: helvetica;
+  font-family: "微軟正黑體", helvetica, serif;
 }
 ```
 
