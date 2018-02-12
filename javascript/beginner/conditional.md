@@ -39,10 +39,8 @@
   <head>
     <meta charset="utf-8">
     <title>這是網頁標題</title>
-
   </head>
   <body>
-
     <script type="text/javascript">
       var a = 5;
       var b = 2;
