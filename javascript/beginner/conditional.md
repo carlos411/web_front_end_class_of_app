@@ -16,9 +16,7 @@
 
 ![](/assets/condition_if_else_if_else.png)
 
-## switch 條件式
-
-
+## switch 語法結構
 
 
 
