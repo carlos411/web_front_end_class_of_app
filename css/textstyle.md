@@ -14,8 +14,23 @@
 
 ## 範例
 
+HTML：
+
 ```html
 <p>這是段落 abcde THE file<p>
+```
+
+CSS：
+
+```
+p{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  color: #999999;
+  text-decoration: line-through;
+  text-transform: capitalize;
+}
 ```
 
 
