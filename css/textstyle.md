@@ -17,7 +17,7 @@
 HTML：
 
 ```html
-<p>這是段落 abcde THE file<p>
+<p>這是段落 abcde THE file</p>
 ```
 
 CSS：
