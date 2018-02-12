@@ -21,8 +21,6 @@
 * 結果為 `true` 的話，前面加上 `!`，那結果就會變成 `false`。
 * 結果為 `false` 的話，前面加上 `!`，那結果就會變成 `true`。
 
-
-
 ## switch 語法結構
 
 結構一：
@@ -35,8 +33,42 @@
 
 ## 範例
 
-```
+```js
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>這是網頁標題</title>
 
+  </head>
+  <body>
+
+    <script type="text/javascript">
+      var a = 5;
+      var b = 2;
+      var c = "a";
+
+      if(5 > 2){ // 試試 !，變成 if(!(5 > 2))
+        alert("5 有大於 2。");
+      }else{
+        alert("5 沒有大於 2 是錯的。")
+      }
+
+      // 試試 拿掉 break、default、改變 c 的值為 "d"，看看各種執行情況
+      switch(c){
+        case "a":
+          alert("是 a");
+          break;
+        case "b":
+          alert("是 b");
+          break;
+        default:
+          alert("這裡是 default");
+      }
+    </script>
+
+  </body>
+</html>
 ```
 
 
