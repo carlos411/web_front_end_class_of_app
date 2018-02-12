@@ -16,6 +16,13 @@
 
 ![](/assets/condition_if_else_if_else.png)
 
+## boolean 反轉符號：!
+
+* 結果為 `true` 的話，前面加上 `!`，那結果就會變成 `false`。
+* 結果為 `false` 的話，前面加上 `!`，那結果就會變成 `true`。
+
+
+
 ## switch 語法結構
 
 結構一：
