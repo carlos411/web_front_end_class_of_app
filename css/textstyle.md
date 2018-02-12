@@ -12,5 +12,11 @@
 * `line-height`：行高。通常以**倍數**來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。當然也可以指定固定的 **24px **這種固定行高。
 * `font-family`：指定字體。例：`font-family: "Times New Roman", arial, helvetica, serif;`。會以最左邊開始尋找，若 "Times New Roman" 在電腦裡有此字體的話，就會以此字體來顯示，然而若沒有的話，就會再尋找下一個 arial。
 
+## 範例
+
+```html
+<p>這是段落 abcde THE file<p>
+```
+
 
 
