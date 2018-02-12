@@ -32,6 +32,7 @@ p{
   text-transform: capitalize;
   text-align: right;
   line-height: 2;
+  font-family: helvetica;
 }
 ```
 
