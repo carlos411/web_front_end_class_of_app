@@ -66,7 +66,6 @@
           alert("這裡是 default");
       }
     </script>
-
   </body>
 </html>
 ```
