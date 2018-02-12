@@ -33,6 +33,7 @@ p{
   text-align: right;
   line-height: 2;
   font-family: "微軟正黑體", helvetica, serif;
+  border: 1px solid blue;
 }
 ```
 
