@@ -8,7 +8,7 @@
 
 ## if else 語法結構
 
-
+![](/assets/condition_if_else.png)
 
 ## if ... else if ... else
 
