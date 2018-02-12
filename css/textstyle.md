@@ -10,6 +10,7 @@
 * `text-transform`：**capitalize**\(英文每個詞的首字母都會變大寫\)、**uppercase**\(每個英文字母都變大寫\)、**lowercase**\(每個英文字母都變小寫\)、**none**\(不轉換\)。
 * `text-align`：文字對齊，可選的值有 **left**、**right**、**center**。
 * `line-height`：行高。通常以**倍數**來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。當然也可以指定固定的 **24px **這種固定行高。
+* `font-family`：指定字體。
 
 
 
