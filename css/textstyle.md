@@ -22,7 +22,7 @@ HTML：
 
 CSS：
 
-```
+```css
 p{
   font-size: 20px;
   font-weight: bold;
