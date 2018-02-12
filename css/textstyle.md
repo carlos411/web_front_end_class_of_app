@@ -30,6 +30,8 @@ p{
   color: #999999;
   text-decoration: line-through;
   text-transform: capitalize;
+  text-align: right;
+  line-height: 2;
 }
 ```
 
