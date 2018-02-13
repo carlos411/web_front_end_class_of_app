@@ -55,6 +55,8 @@ while (i < 5) {
 
 ## do while 迴圈
 
+![](/assets/loop_do_while.png)
+
 ## 練習
 
 請使用瀏覽器進行上述三種迴圈的範例，並瞭解程式的執行流程。
