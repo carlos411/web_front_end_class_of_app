@@ -4,6 +4,15 @@
 
 ![](/assets/loop_for.png)
 
+範例
+
+```
+var x;
+for(x = 0; x < 5; x++){
+  alert(x);
+}
+```
+
 ## while 迴圈
 
 ## do while 迴圈
