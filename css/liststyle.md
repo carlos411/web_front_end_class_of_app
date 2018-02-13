@@ -42,7 +42,52 @@ ul.unorder_list{
 }
 ```
 
-## 範例
+## 範例：各種 list-style 所呈現的標號
+
+HTML
+
+```html
+<ul class="unorder_list">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -circle">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -decimal">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -none">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -inside">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -lower-alpha">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -lower-roman">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -square">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -upper-alpha">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+<ul class="unorder_list -upper-roman">
+  <li>第一項</li>
+  <li>第一項</li>
+</ul>
+```
 
 
 
