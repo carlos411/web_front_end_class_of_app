@@ -89,5 +89,43 @@ HTML
 </ul>
 ```
 
+CSS
 
+```css
+ul.unorder_list{
+}
+ul.unorder_list.-circle{
+  list-style: circle;
+}
+ul.unorder_list.-decimal{
+  list-style: decimal;
+}
+ul.unorder_list.-none{
+  list-style: none;
+}
+ul.unorder_list.-inside{
+  list-style: inside;
+}
+ul.unorder_list.-lower-alpha{
+  list-style: lower-alpha;
+}
+ul.unorder_list.-lower-roman{
+  list-style: lower-roman;
+}
+ul.unorder_list.-square{
+  list-style: square;
+}
+ul.unorder_list.-upper-alpha{
+  list-style: upper-alpha;
+}
+ul.unorder_list.-upper-roman{
+  list-style: upper-roman;
+}
+```
+
+結果
+
+![](/assets/list_basic2.png)
+
+![](/assets/list_inside.png)
 
