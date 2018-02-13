@@ -9,7 +9,9 @@
 
 ## 擬似類別\(Pseudo-class\)
 
-針對連結專有的擬似類別，即這四種：`:link`、`:visited`、`:hover`、`:active`。
+針對**連結**專有的擬似類別，即這四種：`:link`、`:visited`、`:hover`、`:active`。
+
+主要是瀏覽器已判斷到該連結的不同狀態時，可提供額外的設定。
 
 ## 範例
 
@@ -22,8 +24,21 @@ HTML：
 CSS：
 
 ```css
-.link_style{
-
+/* 未點擊過的連結：黑色 */
+a.link_style{
+  color: #000000;
+}
+/* 已點擊過的連結：紅色 */
+a.link_style:visited{
+  color: #FF0000;
+}
+/* 滑鼠移過去之後，文字的顏色：綠色 */
+a.link_style:hover{
+  color: #00FF00;
+}
+/* 滑鼠按壓下去不放後，文字的顏色：藍色 */
+a.link_style:active{
+  color: #0000FF;
 }
 ```
 
