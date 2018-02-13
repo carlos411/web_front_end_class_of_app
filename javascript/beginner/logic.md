@@ -35,6 +35,8 @@ var b = false;
 
 `!`：非。例：
 
+## 三元運算子
+
 ## 練習
 
 請在瀏覽器中的 console 中輸入來練習。`cmd + option + i` 即可開啟瀏覽器中的 console。
