@@ -24,5 +24,13 @@
 
 ## 列表相關 CSS 樣式
 
+`list-style`：可選的常用值有 **circle**、**decimal**、**none**、**inside**、**lower-alpha**、**lower-roman**、**square**、**lower-alpha**、**lower-roman**。
+
+```css
+ul.unorder_list{
+  list-style: circle;
+}
+```
+
 
 
