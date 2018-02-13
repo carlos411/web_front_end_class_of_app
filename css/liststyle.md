@@ -32,5 +32,17 @@ ul.unorder_list{
 }
 ```
 
+可再藉由 **margin** 和 **padding** 將預設的樣式消息。例：
+
+```css
+ul.unorder_list{
+  list-style: circle;
+  margin:0;
+  padding:0;
+}
+```
+
+## 範例
+
 
 
