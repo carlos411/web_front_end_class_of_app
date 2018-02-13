@@ -31,6 +31,20 @@ for(x = 0; x < 5; x++){
 
 ![](/assets/loop_while.png)
 
+範例：
+
+```js
+var i = 0;
+while (i < 5) {
+    alert(i);
+    i++;
+}
+```
+
+範例解讀：
+
+第 1 步：
+
 ## do while 迴圈
 
 ## 練習
