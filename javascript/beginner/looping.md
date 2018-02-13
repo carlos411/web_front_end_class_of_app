@@ -2,11 +2,11 @@
 
 ## for 迴圈
 
+![](/assets/loop_for.png)
+
 ## while 迴圈
 
 ## do while 迴圈
-
-
 
 
 
