@@ -7,7 +7,31 @@
 * 滑鼠移過去之後，文字的顏色\(`:hover`\)
 * 滑鼠按壓下去不放後，文字的顏色\(`:active`\)
 
+
+
+## 擬似類別\(Pseudo-class\)
+
+
+
+
+
 ## 範例
+
+HTML：
+
+```html
+<a href="#" class="link_style">這是連結文字</a>
+```
+
+CSS：
+
+```css
+.link_style{
+  
+}
+```
+
+
 
 
 
