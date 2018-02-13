@@ -41,7 +41,7 @@ var b = false;
 
 ```js
 var a;
-a = ((比較結果) ? value1:value2);
+a = ( (比較結果) ? value1 : value2 );
 ```
 
 如果 **比較結果** 是 **true**，則變數 a 的值就等於 **value1**。
