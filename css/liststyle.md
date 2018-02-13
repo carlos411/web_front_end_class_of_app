@@ -18,9 +18,11 @@
 </ol>
 ```
 
-上面 html 的呈現結果：
+上面 html 的呈現結果：試著觀察預設的列表樣式。
 
 ![](/assets/list_basic_style.png)
 
-試著
+## 列表相關 CSS 樣式
+
+
 
