@@ -127,5 +127,7 @@ ul.unorder_list.-upper-roman{
 
 ![](/assets/list_basic2.png)
 
-觀察 `list-style: inside;` 的樣子：![](/assets/list_inside.png)
+下圖請觀察 `list-style: inside;` 的樣子：
+
+![](/assets/list_inside.png)
 
