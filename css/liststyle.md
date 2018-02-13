@@ -18,5 +18,7 @@
 </ol>
 ```
 
+上面 html 的呈現結果：
 
+![](/assets/list_basic_style.png)
 
