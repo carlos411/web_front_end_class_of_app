@@ -22,7 +22,9 @@ var result = myFunction();
 
 ![](/assets/function_basic2.png)
 
-## 範例
+## 練習
+
+觀察程式的執行流程、函數的使用：
 
 ```js
 <!doctype html>
