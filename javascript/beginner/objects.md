@@ -4,7 +4,7 @@
 
 ![](/assets/object_basic1.png)
 
-任何值可以是數值、函式、字串、物件等任何 JavaScript 合法的型態都可。
+「**任何值**」可以是數值、函式、字串、物件等任何 JavaScript 合法的型態都可。
 
 ## 觀念
 
