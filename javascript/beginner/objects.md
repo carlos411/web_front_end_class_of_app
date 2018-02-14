@@ -34,6 +34,25 @@ car.stop();
 alert(car.brand_name);
 ```
 
+其它語法撰寫模式，以下範例寫法結果是與上面相同的：
+
+```js
+var car = {}; // 宣告 car 為一個空的物件
+car.brand_name = "toyota";
+car.weight = "500kg";
+car.doors = 4;
+car.drive = function(){
+  alert("drive");
+};
+car.stop = function(){
+  alert("stop");
+};
+
+car.drive();
+car.stop();
+alert(car.brand_name);
+```
+
 ## 練習
 
 執行上述範例程式，並瞭解物件結構，以及執行的語法：
