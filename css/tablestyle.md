@@ -82,7 +82,7 @@ border-top-style: solid;
 border-top-color: black;
 ```
 
-也有其它表示方法：
+等同於：
 
 ```css
 border-width: 1px;
