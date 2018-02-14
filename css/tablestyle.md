@@ -74,9 +74,11 @@ border-bottom: 1px solid black;
 border-left: 1px solid black;
 ```
 
-等同於：
+等同於\(以 `border-top` 為例\)：
 
 ```
+border-top-width: 1px;
+border-top-style: solid;
 
 ```
 
