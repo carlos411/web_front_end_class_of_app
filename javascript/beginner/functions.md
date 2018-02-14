@@ -10,6 +10,14 @@
 
 ## 使用函式
 
+範例：
+
+```js
+myFunction();
+
+var result = myFunction();
+```
+
 ## 傳遞參數及回傳結果
 
 
