@@ -4,3 +4,27 @@
 
 ![](/assets/object_basic1.png)
 
+## 觀念
+
+任何人、事、物都可以是物件\(Object\)，都有自己的屬性及動作。
+
+以車子為例，車子本身就是一個物件，屬性有廠牌名稱、總量等；可以執行的動作有開車、停車。
+
+## 範例
+
+```js
+var car = {
+  brand_name: "toyato",
+  weight: "500kg"
+  doors: 4,
+  drive: function(){
+    alert("drive");
+  },
+  stop: function(){
+    alert("stop");
+  }  
+};
+```
+
+
+
