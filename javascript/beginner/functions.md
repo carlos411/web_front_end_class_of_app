@@ -39,7 +39,7 @@ var result = myFunction();
     <script type="text/javascript">
       var a = 1;
       var b = 2;
-      
+
       function add(){
         a = a + 1; // a 結果變成 2
         b = b + 1; // b 結果變成 3
