@@ -82,5 +82,13 @@ border-top-style: solid;
 border-top-color: black;
 ```
 
+也有其它表示方法：
+
+```css
+border-width: 1px;
+border-style: solid;
+border-color: black;
+```
+
 
 
