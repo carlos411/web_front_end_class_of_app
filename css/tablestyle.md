@@ -32,5 +32,7 @@ table td{
 }
 ```
 
+結果：
 
+![](/assets/table_with_border.png)
 
