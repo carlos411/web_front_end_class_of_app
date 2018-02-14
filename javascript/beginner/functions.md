@@ -6,6 +6,8 @@
 
 ## 建立函式
 
+![](/assets/function_basic1.png)
+
 ## 使用函式
 
 ## 傳遞參數及回傳結果
