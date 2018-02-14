@@ -63,7 +63,20 @@ table td{
 
 ```css
 border: 1px solid black;
-/* 等同於 */
+```
+
+等同於：
+
+```css
+border-top: 1px solid black;
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+border-left: 1px solid black;
+```
+
+等同於：
+
+```
 
 ```
 
