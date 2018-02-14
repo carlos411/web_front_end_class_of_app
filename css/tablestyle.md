@@ -19,3 +19,18 @@ HTML 基本結構
 
 ![](/assets/Screen Shot 2018-02-14 at 2.29.35 PM.png)
 
+## 呈現邊框\(border\)
+
+CSS：
+
+```css
+table{
+  border:1px solid black;
+}
+table td{
+  border:1px solid black;
+}
+```
+
+
+
