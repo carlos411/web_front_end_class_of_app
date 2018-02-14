@@ -14,7 +14,7 @@
 
 ```js
 var car = {
-  brand_name: "toyato",
+  brand_name: "toyota",
   weight: "500kg",
   doors: 4,
   drive: function(){
