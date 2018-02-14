@@ -32,7 +32,16 @@ table td{
 }
 ```
 
-結果：
+結果：會發現各欄位的邊框都會有些間距：
 
 ![](/assets/table_with_border.png)
+
+## border-collapse
+
+可選的值有：
+
+* `seperate`：這是預設值。
+* `collapse`：
+
+
 
