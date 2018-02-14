@@ -24,6 +24,10 @@ var car = {
     alert("stop");
   }  
 };
+
+car.drive();
+car.stop();
+alert(car.brand_name);
 ```
 
 
