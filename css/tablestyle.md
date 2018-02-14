@@ -55,5 +55,7 @@ table td{
 }
 ```
 
+結果呈現
 
+![](/assets/table_with_collapse.png)
 
