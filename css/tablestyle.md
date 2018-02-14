@@ -76,7 +76,7 @@ border-left: 1px solid black;
 
 等同於\(以 `border-top` 為例\)：
 
-```
+```css
 border-top-width: 1px;
 border-top-style: solid;
 border-top-color: black;
