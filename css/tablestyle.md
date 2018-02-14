@@ -41,7 +41,19 @@ table td{
 可選的值有：
 
 * `seperate`：這是預設值。
-* `collapse`：
+* `collapse`：可讓各欄位直接緊鄰合併，而邊框還是會存在。
+
+例如 CSS 改成下方：
+
+```css
+table{
+  border:1px solid black;
+  border-collapse: collapse;
+}
+table td{
+  border:1px solid black;
+}
+```
 
 
 
