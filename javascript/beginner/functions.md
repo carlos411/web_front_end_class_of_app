@@ -24,7 +24,7 @@ var result = myFunction();
 
 ## 練習
 
-觀察程式的執行流程、函數的使用：
+於瀏覽器中執行，並觀察程式的執行流程、函數的使用：
 
 ```js
 <!doctype html>
