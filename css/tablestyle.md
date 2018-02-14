@@ -59,3 +59,13 @@ table td{
 
 ![](/assets/table_with_collapse.png)
 
+## 介紹 border
+
+```css
+border: 1px solid black;
+/* 等同於 */
+
+```
+
+
+
