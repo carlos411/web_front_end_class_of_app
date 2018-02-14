@@ -20,7 +20,7 @@ var result = myFunction();
 
 ## 傳遞參數及回傳結果
 
-
+![](/assets/function_basic2.png)
 
 ## 範例
 
