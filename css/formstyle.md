@@ -18,7 +18,7 @@ textarea{
 }
 ```
 
-
+![](/assets/textarea_resize_sample.png)
 
 resize 可選的值有：
 
