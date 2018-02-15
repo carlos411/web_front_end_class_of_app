@@ -53,5 +53,5 @@ textarea{
 * 核取框\(type="checkbox"\)
 * 下拉選單\(select\)
 
-
+![](/assets/form_difficult_customize.png)
 
