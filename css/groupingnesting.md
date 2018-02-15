@@ -25,9 +25,9 @@ div p{
 ```html
 <div>
   <p>段落一</p>
-  <div>
+  <section>
     <p>段落二</p>
-  </div>
+  </section>
 </div>
 ```
 
