@@ -4,8 +4,18 @@
 
 ## 多文字欄位\(textarea\)
 
+HTML
+
+```html
+<textarea rows="3" cols="50">這是內容</textarea>
 ```
 
+CSS
+
+```css
+textarea{
+  resize: both;
+}
 ```
 
 ## 預設無法客製化的項目
