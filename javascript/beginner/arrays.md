@@ -26,5 +26,9 @@ var cars = new Array("Saab", "Volvo", "BMW");
 var tables = []
 ```
 
+## 取得陣列裡的值
+
+
+
 
 
