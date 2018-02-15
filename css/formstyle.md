@@ -57,3 +57,5 @@ textarea{
 
 ![](/assets/form_difficult_customize2.png)
 
+這些項目若要有比較特別的介面，都需要高度客製化，都需再撰寫 html、css 、js 來做介面。
+
