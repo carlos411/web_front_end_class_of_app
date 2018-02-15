@@ -26,6 +26,8 @@
 <textarea name="content" rows="3" cols="50">這裡是文字</textarea>
 ```
 
+實務上 rows 和 cols 較少用，因為可透過 css 來改變。
+
 ## 單選
 
 **name** 要一樣，才能被視為單選：
