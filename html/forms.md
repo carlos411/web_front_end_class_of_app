@@ -37,11 +37,15 @@
 <input type="radio" name="custom_name" value="2"> 否
 ```
 
+`checked`：選取。
+
 ## 勾選
 
 ```html
 <input type="checkbox" name="habits" checked> 興趣1
 ```
+
+`checked`：勾選。
 
 ## 下拉選單
 
@@ -52,6 +56,8 @@
   <option value="3">選項3</option>
 </select>
 ```
+
+`selected`：表示預設為這項。
 
 ## 按鈕
 
