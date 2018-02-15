@@ -40,5 +40,13 @@ var car1 = cars[0]; // car1 的值為 Saab
 cars[1] = "Toyota"; // 這時 cars 陣列會變成是： ["Saab", "Toyota", "BMW"]
 ```
 
+## 取得陣列個數
+
+```js
+var cars = ["Saab", "Volvo", "BMW"];
+
+var cars_total = cars.length; // cars_total 的值為 3
+```
+
 
 
