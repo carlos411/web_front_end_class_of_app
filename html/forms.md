@@ -33,21 +33,21 @@
 **name** 要一樣，才能被視為單選：
 
 ```html
-<input type="radio" name="custom_name" value="1"> 是
+<input type="radio" name="custom_name" value="1" checked> 是
 <input type="radio" name="custom_name" value="2"> 否
 ```
 
 ## 勾選
 
 ```html
-<input type="checkbox" name="habits"> 興趣1
+<input type="checkbox" name="habits" checked> 興趣1
 ```
 
 ## 下拉選單
 
 ```html
 <select name="country">
-  <option value="1">選項1</option>
+  <option value="1" selected>選項1</option>
   <option value="2">選項2</option>
   <option value="3">選項3</option>
 </select>
