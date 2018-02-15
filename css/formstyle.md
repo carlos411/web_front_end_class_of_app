@@ -7,7 +7,16 @@
 HTML
 
 ```
+<input>
+```
 
+CSS
+
+```css
+input.the_text:focus{
+  border:1px solid red;
+  outline:none;
+}
 ```
 
 ## 多文字欄位\(textarea\)
