@@ -3,12 +3,22 @@
 ## 逗號\(,\)
 
 ```css
-h1, p{
+div, p{
   color: red;
 }
 ```
 
-**&lt;h1&gt;** 及 **&lt;p&gt;** 都會套用相同樣式。
+**&lt;div&gt;** 及 **&lt;p&gt;** 都會套用相同樣式。
+
+## 空格
+
+```css
+div p{
+  color: red;
+}
+```
+
+**&lt;div&gt;** 內層的所有 **&lt;p&gt;** 才會套用到樣式。
 
 
 
