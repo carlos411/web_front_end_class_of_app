@@ -51,7 +51,7 @@ textarea{
 
 * 單選框\(type="radio"\)：radio 邊框、背景等皆無法改變。
 * 核取框\(type="checkbox"\)：checkbox 邊框、背景等皆無法改變。
-* 下拉選單\(select\)：僅能部份改變。
+* 下拉選單\(select\)：僅能部份改變。\(option項目無法改變。\)
 
 ![](/assets/form_difficult_customize.png)
 
