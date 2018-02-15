@@ -28,7 +28,7 @@ var cars = new Array("Saab", "Volvo", "BMW");
 var tables = []
 ```
 
-## 取得陣列裡的值
+## 取得及改變陣列裡的值
 
 語法
 
@@ -36,6 +36,8 @@ var tables = []
 var cars = ["Saab", "Volvo", "BMW"];
 
 var car1 = cars[0]; // car1 的值為 Saab
+
+cars[1] = "Toyota"; // 這時 cars 陣列會變成是： ["Saab", "Toyota", "BMW"]
 ```
 
 
