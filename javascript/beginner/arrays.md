@@ -9,7 +9,11 @@
 語法
 
 ```js
+// 宣告 cars 為一個陣列，儲存三個值
 var cars = ["Saab", "Volvo", "BMW"];
+
+// 空陣列的宣告
+var cars = []
 ```
 
 
