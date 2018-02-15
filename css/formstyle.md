@@ -6,18 +6,19 @@
 
 HTML
 
-```
-<input>
+```html
+<input type="text" class="the_text">
 ```
 
 CSS
 
 ```css
 input.the_text:focus{
-  border:1px solid red;
-  outline:none;
+  border:5px solid red;
 }
 ```
+
+這裡會有 outline: none; 的原因：因為多數瀏覽器在 :focus 狀態時，會有預設的效果
 
 ## 多文字欄位\(textarea\)
 
