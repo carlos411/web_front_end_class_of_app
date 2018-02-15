@@ -32,10 +32,10 @@ var tables = []
 
 語法
 
-```
+```js
 var cars = ["Saab", "Volvo", "BMW"];
 
-var car1 = cars[0];
+var car1 = cars[0]; // car1 的值為 Saab
 ```
 
 
