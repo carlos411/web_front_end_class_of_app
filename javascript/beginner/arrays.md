@@ -12,7 +12,7 @@
 // 宣告 cars 為一個陣列，儲存三個值
 var cars = ["Saab", "Volvo", "BMW"];
 
-// 宣告 tables 為一個空的陣列，但沒有儲存任何的值
+// 宣告 tables 為一個空的陣列，但沒有儲存任何東西
 var tables = []
 ```
 
