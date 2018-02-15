@@ -18,7 +18,9 @@ input.the_text:focus{
 }
 ```
 
-這裡會有 outline: none; 的原因：因為多數瀏覽器在 :focus 狀態時，會有預設的效果
+結果呈現：
+
+![](/assets/focus_status.png)
 
 ## 多文字欄位\(textarea\)
 
