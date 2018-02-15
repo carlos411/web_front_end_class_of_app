@@ -14,15 +14,18 @@ CSS
 
 ```css
 textarea{
-  resize: both;
+  /* resize: both; */
 }
 ```
 
+
+
 resize 可選的值有：
 
-* both：這是預設。
+* both：這是預設。使用者可改變 textarea 欄位的寬高。
 * horizontal：使用者可水平將 textarea 欄位變寬。
 * vertical：使用者可垂直將 textarea 欄位變高。
+* none：使用者無法改變 textarea 欄位的寬高。
 
 ## 預設無法客製化的項目
 
