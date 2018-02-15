@@ -2,6 +2,14 @@
 
 ## 文字欄位\(type="text"\)
 
+`:focus`：取得焦點。也可應用在其它輸入框，例： `textarea` 等。
+
+HTML
+
+```
+
+```
+
 ## 多文字欄位\(textarea\)
 
 HTML

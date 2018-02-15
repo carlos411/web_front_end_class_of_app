@@ -17,13 +17,13 @@
 ## 文字框
 
 ```html
-<input type="text" name="address">
+<input type="text" name="address" value="這是內容" placeholder="提示文字">
 ```
 
 ## 多行文字框
 
 ```html
-<textarea name="content" rows="3" cols="50">這裡是文字</textarea>
+<textarea name="content" rows="3" cols="50" placeholder="提示文字">這裡是文字</textarea>
 ```
 
 實務上 rows 和 cols 較少用，因為可透過 CSS 來改變。
