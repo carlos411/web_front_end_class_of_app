@@ -48,5 +48,13 @@ var cars = ["Saab", "Volvo", "BMW"];
 var cars_total = cars.length; // cars_total 的值為 3
 ```
 
+## 增加項目在最右側\(push\)及移除第0項\(shift\)
+
+```
+var cars = ["Saab", "Volvo", "BMW"];
+cars.push("Totoya"); // cars 的結果變成 ["Saab", "Volvo", "BMW", "Toyota"]
+cars.shift(); // cars 的結果變成 ["Volvo", "BMW", "Toyota"]
+```
+
 
 
