@@ -23,7 +23,7 @@
 ## 多行文字框
 
 ```html
-<textarea name="content">這裡是文字</textarea>
+<textarea name="content" rows="3" cols="3">這裡是文字</textarea>
 ```
 
 ## 單選
