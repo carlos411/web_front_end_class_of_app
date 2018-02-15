@@ -18,6 +18,12 @@ textarea{
 }
 ```
 
+resize 可選的值有：
+
+* both：這是預設。
+* horizontal：使用者可水平將 textarea 欄位變寬。
+* vertical：使用者可垂直將 textarea 欄位變高。
+
 ## 預設無法客製化的項目
 
 * 單選框\(type="radio"\)
