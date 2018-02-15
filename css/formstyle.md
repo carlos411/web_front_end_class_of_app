@@ -47,7 +47,7 @@ textarea{
 * vertical：使用者可垂直將 textarea 欄位變高。
 * none：使用者無法改變 textarea 欄位的寬高。
 
-## 預設無法客製化的項目
+## 預設難以客製化的項目
 
 * 單選框\(type="radio"\)
 * 核取框\(type="checkbox"\)
