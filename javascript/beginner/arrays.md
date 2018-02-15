@@ -19,6 +19,9 @@ var cars = [
   "BMW"
 ];
 
+// 也可以這樣寫：
+var cars = new Array("Saab", "Volvo", "BMW");
+
 // 宣告 tables 為一個空的陣列，但沒有儲存任何東西
 var tables = []
 ```
