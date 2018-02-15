@@ -48,7 +48,7 @@ div > p{
   <p>段落一</p>
   <section>
     <p>段落二</p>
-  </div>
+  </section>
 </div>
 ```
 
