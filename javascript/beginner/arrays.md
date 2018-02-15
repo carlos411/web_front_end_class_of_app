@@ -8,8 +8,8 @@
 
 語法
 
-```
-[item1, item2, ...]
+```js
+var cars = ["Saab", "Volvo", "BMW"];
 ```
 
 
