@@ -2,7 +2,7 @@
 
 ## 文字欄位\(type="text"\)
 
-`:focus`：取得焦點。也可應用在其它輸入框，例： `textarea` 等。
+`:focus`：某欄位取得滑鼠焦點時。也可應用在其它輸入框，例： `textarea` 等。
 
 HTML
 
