@@ -50,6 +50,17 @@ add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
+## 範例 5：傳址呼叫\(call by reference\)
+
+```js
+var a = [1, 2];
+function add_number(a){
+  a.push(3);
+}
+add_number(a);
+console.log(a); // 結果為 [1, 2, 3]
+```
+
 ## 範例 5
 
 ```js
@@ -63,4 +74,8 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 ```
 
 ![](/assets/x_not_defined.png)
+
+## 範例 6
+
+
 
