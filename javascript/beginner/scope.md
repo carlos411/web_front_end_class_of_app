@@ -61,7 +61,7 @@ add_number(a);
 console.log(a); // 結果為 [1, 2, 3]
 ```
 
-## 範例 5
+## 範例 6
 
 ```js
 var a = 10;
