@@ -38,30 +38,7 @@ add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
-## 範例 4：傳值呼叫\(Call by Value\)
-
-```js
-var a = 10;
-function add_number(a){
-  a = a + 10;
-  alert(a); // 跳出提示訊息，結果 a 是 20。
-}
-add_number(a);
-alert(a); // 跳出提示訊息，結果 a 是 10。
-```
-
-## 範例 5：傳址呼叫\(Call by Reference\)
-
-```js
-var a = [1, 2];
-function add_number(a){
-  a.push(3);
-}
-add_number(a);
-console.log(a); // 結果為 [1, 2, 3]
-```
-
-## 範例 6
+## 範例 4
 
 ```js
 var a = 10;
@@ -75,7 +52,35 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 
 ![](/assets/x_not_defined.png)
 
-## 範例 6
+
+
+
+
+
+## 範例 5：傳值呼叫\(Call by Value\)
+
+```js
+var a = 10;
+function add_number(a){
+  a = a + 10;
+  alert(a); // 跳出提示訊息，結果 a 是 20。
+}
+add_number(a);
+alert(a); // 跳出提示訊息，結果 a 是 10。
+```
+
+## 範例 6：傳址呼叫\(Call by Reference\)
+
+```js
+var a = [1, 2];
+function add_number(a){
+  a.push(3);
+}
+add_number(a);
+console.log(a); // 結果為 [1, 2, 3]
+```
+
+
 
 
 
