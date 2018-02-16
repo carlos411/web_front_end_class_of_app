@@ -26,6 +26,17 @@ alert(a); // 跳出提示訊息，結果 a 是 20。
 
 ```js
 var a = 10;
+function add_number(){
+  var a = a + 10;
+}
+add_number();
+alert(a); // 跳出提示訊息，結果 a 是 10。
+```
+
+## 範例 4
+
+```js
+var a = 10;
 function add_number(a){
   a = a + 10;
   alert(a); // 跳出提示訊息，結果 a 是 20。
@@ -34,7 +45,7 @@ add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
-## 範例 4
+## 範例 5
 
 ```js
 var a = 10;
@@ -49,4 +60,6 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 ![](/assets/x_not_defined.png)
 
 
-## 範例 5
+
+
+
