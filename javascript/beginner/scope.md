@@ -13,6 +13,8 @@ var a = 10;
 
 ## 範例 2
 
+a 為全域變數
+
 ```js
 var a = 10;
 function add_number(){
