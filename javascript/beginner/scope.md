@@ -26,6 +26,8 @@ alert(a); // 跳出提示訊息，結果 a 是 20。
 
 ## 範例 3
 
+函式裡的 a ，在函式外就不存在。
+
 ```js
 var a = 10;
 function add_number(x){
