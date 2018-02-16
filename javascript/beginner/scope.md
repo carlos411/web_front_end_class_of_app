@@ -34,5 +34,17 @@ add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
+## 範例 4
+
+```js
+var a = 10;
+function add_number(x){
+  a = x + 10;
+}
+add_number(a);
+alert(a); // 跳出提示訊息，結果 a 是 20。
+alert(x);
+```
+
 
 
