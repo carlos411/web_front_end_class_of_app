@@ -28,8 +28,9 @@ alert(a); // 跳出提示訊息，結果 a 是 20。
 var a = 10;
 function add_number(a){
   a = a + 10;
+  alert(a);
 }
-add_number();
+add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
