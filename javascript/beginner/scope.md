@@ -48,3 +48,5 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 
 ![](/assets/x_not_defined.png)
 
+
+## 範例 5
