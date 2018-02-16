@@ -43,8 +43,8 @@ function add_number(x){
 }
 add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 20。
-alert(x); // 跳出提示訊息，結果為 undefined。
+alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 ```
 
-
+![](/assets/x_not_defined.png)
 
