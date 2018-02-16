@@ -13,5 +13,14 @@ var a = 10;
 
 ## 範例 2：
 
+```
+var a = 10;
+function add_number(){
+  a = a + 10;
+}
+add_number();
+alert(a);
+```
+
 
 
