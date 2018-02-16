@@ -54,6 +54,8 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 
 ## 範例 5：傳值呼叫\(Call by Value\)
 
+在傳遞參數時，只會複製其值至參數之中。
+
 ```js
 var a = 10;
 function add_number(a){
