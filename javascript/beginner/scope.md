@@ -43,7 +43,7 @@ function add_number(x){
 }
 add_number(a);
 alert(a); // 跳出提示訊息，結果 a 是 20。
-alert(x);
+alert(x); // 跳出提示訊息，結果為 undefined。
 ```
 
 
