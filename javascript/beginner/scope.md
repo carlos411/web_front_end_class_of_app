@@ -11,15 +11,15 @@ alert(a); // 會跳出提示訊息，內容為 undefined。因為在這行之前
 var a = 10;
 ```
 
-## 範例 2：
+## 範例 2
 
-```
+```js
 var a = 10;
 function add_number(){
   a = a + 10;
 }
 add_number();
-alert(a);
+alert(a); // 跳出提示訊息，結果 a 是 20。
 ```
 
 
