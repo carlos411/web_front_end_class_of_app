@@ -29,6 +29,7 @@ var a = 10;
 function add_number(a){
   a = a + 10;
 }
+add_number();
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
