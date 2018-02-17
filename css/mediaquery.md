@@ -42,7 +42,8 @@
 
 ## 範例四
 
-screen 和 print：
+* screen：彩色螢幕時。
+* print：列印時。
 
 ```css
 @media screen{
@@ -57,8 +58,6 @@ screen 和 print：
   }
 }
 ```
-
-
 
 
 
