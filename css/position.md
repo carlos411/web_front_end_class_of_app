@@ -162,12 +162,12 @@ HTML：
 
 CSS：
 
-```
+```css
 p.the_fixed{
   border:1px solid red;
   margin:0;
   padding:0;
-  
+
   /* 改變定位模式(fixed) */
   position: fixed;
   right:0;
