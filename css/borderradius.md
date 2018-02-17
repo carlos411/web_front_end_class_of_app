@@ -38,6 +38,8 @@ div.test_radius{
 border-radius: 10px 20px 30px 40px;
 ```
 
+![](/assets/border_radius_ex3.png)
+
 圓角順序：左上\(1px\)、右上及左下\(2px\)、右下\(3px\)：
 
 ```css
