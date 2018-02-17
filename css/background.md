@@ -16,6 +16,12 @@ div{
 * project/images/christmas-dark.png  \(註：此圖寬高大小皆為 200px。\)
 * project/index.html
 
+
+
+christmas-dark.png 的圖片為：
+
+![](/assets/christmas-dark.png)
+
 在 index.html 檔案裡，指定如下 CSS：
 
 一、顯示背景圖片，使用 **background-image**：
