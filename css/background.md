@@ -100,7 +100,7 @@ index\_lion.html 檔案：
 
 ![](/assets/background1.png)
 
-使用 **background-size** 來設定背景圖的大小：
+### 使用 **background-size** 來設定背景圖的大小
 
 ```css
 div.place_img{
@@ -139,5 +139,15 @@ div.place_img{
 }
 ```
 
-使用 **background-position** 來設定背景圖的位置：
+結果呈現：目的是要讓圖片能夠在該區域內全部呈現：
+
+![](/assets/background3.png)
+
+如果將div的高度改成100px的話，則結果會變成：
+
+
+
+### 使用 **background-position** 來設定背景圖的位置
+
+
 
