@@ -60,6 +60,12 @@ body{
 * project/images/lion.png  \(註：此圖寬高大小為 640 x 428。\)
 * project/index\_lion.html
 
+lion.png 的圖片為：
+
+![](/assets/lion.jpg)
+
+
+
 index\_lion.html 檔案：
 
 ```html
