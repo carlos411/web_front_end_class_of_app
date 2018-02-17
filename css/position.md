@@ -226,3 +226,7 @@ p.the_relative{
 
 ![](/assets/position_relative2.png)
 
+## 定位模式：absolute
+
+
+
