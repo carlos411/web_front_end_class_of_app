@@ -145,7 +145,7 @@ div.place_img{
 
 如果將div的高度改成100px的話，則結果會變成：
 
-
+![](/assets/background4.png)
 
 ### 使用 **background-position** 來設定背景圖的位置
 
