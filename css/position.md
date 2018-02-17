@@ -11,9 +11,9 @@
 
 不論使用者滑動到頁面的哪個區域， fixed 元素都會固定在螢幕的特定位置，都不會變。例：
 
-HTML
+HTML：
 
-```
+```html
 <p>段落</p>
 <p class="the_fixed">fixed 段落</p>
 <p>段落</p>
