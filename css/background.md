@@ -88,7 +88,7 @@ index\_lion.html 檔案：
 </html>
 ```
 
-結果如下：
+結果如下：背景圖超過 div 的區域，會被遮掉看不到。
 
 ![](/assets/background1.png)
 
