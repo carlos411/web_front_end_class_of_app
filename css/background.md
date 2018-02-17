@@ -34,6 +34,15 @@ body{
 
 二、設定圖片的重覆狀態，使用 **background-repeat**：
 
+```css
+<style>
+body{
+  background-image: url("./images/christmas-dark.png");
+  background-repeat: no-repeat; /* repeat-x repeat-y */
+}
+</style>
+```
+
 可選的值有：
 
 * repeat：預設，指的是圖片向 x 軸、y 軸重覆出現。
@@ -42,8 +51,4 @@ body{
 * no-repeat：不重覆，只出現一次。
 
 ![](/assets/背景重覆.png)
-
-
-
-
 
