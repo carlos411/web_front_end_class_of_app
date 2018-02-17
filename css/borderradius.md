@@ -26,7 +26,7 @@ div.test_radius{
 
 ## 繪製原理
 
-下圖是以「左上角」為例：
+以「左上角」為例：
 
 ![](/assets/border_radius_theory.png)
 
