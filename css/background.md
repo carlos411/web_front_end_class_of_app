@@ -64,8 +64,6 @@ lion.png 的圖片為：
 
 ![](/assets/lion.jpg)
 
-
-
 index\_lion.html 檔案：
 
 ```html
