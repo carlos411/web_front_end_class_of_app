@@ -93,3 +93,25 @@ div.first img{
 
 ![](/assets/flaot4.png)
 
+解法：
+
+修改 CSS 成：
+
+```css
+div.first{
+  width: 500px;
+  border:1px solid red;
+}
+/* 增加 ::after 這個虛擬元素 */
+div.first::after{
+  content:"";
+  display: block;
+  clear:both;
+}
+div.first img{
+  float:right;
+}
+```
+
+
+
