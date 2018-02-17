@@ -68,13 +68,25 @@ div.first img{
 
 當浮動區域的高度超出上層的高度時，上層的高度並不會增加，例：
 
-HTML
+HTML：
 
 ```html
 <div class="first">
   <img src="./images/apple.png">
   這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是
 </div>
+```
+
+CSS：
+
+```css
+div.first{
+  width: 500px;
+  border:1px solid red;
+}
+div.first img{
+  float:right;
+}
 ```
 
 
