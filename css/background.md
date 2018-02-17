@@ -88,5 +88,7 @@ index\_lion.html 檔案：
 </html>
 ```
 
+結果如下：
 
+![](/assets/background1.png)
 
