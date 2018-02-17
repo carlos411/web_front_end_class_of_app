@@ -36,7 +36,7 @@
   * [3.14 排版 - 關於 display 屬性](css/cssdisplay.md)
   * [3.15 排版 - 關於浮動\(float\)](css/float.md)
   * [3.16 排版 - 關於定位\(position\)](css/position.md)
-  * [3.17 排版 - 媒體類型\(Media Query\)](css/mediaquery.md)
+  * [3.17 排版 - 媒體查詢\(Media Query\)](css/mediaquery.md)
 * [4. JavaScript](javascript.md)
   * [4.1 基礎 - 程式語言](javascript/beginner.md)
     * [4.1.1 套用 javascript](javascript/beginner/applyingjs.md)
