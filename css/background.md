@@ -197,6 +197,7 @@ background-position: center center;  /* 水平方向：置中；垂直方向：�
 background-position: right center;   /* 水平方向：置右；垂直方向：置中 */
 background-position: left bottom;    /* 水平方向：置左；垂直方向：置底 */
 background-position: center bottom;  /* 水平方向：置中；垂直方向：置底 */
+background-position: right bottom;   /* 水平方向：置右；垂直方向：置底 */
 ```
 
 
