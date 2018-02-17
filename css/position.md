@@ -183,3 +183,16 @@ p.the_fixed{
 
 相對於自己原來的位置，該如何移動。例：
 
+HTML：
+
+```html
+<p>段落</p>
+<p class="the_relative">fixed 段落</p>
+<p>段落</p>
+<p>段落</p>
+```
+
+
+
+
+
