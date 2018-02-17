@@ -7,7 +7,7 @@
 * relative：相對定位。
 * absolute：絕對定位。找到上層第一個相對定位的元素，相對於它來定位。
 
-## fixed
+## 定位模式：fixed
 
 不論使用者滑動到頁面的哪個區域， fixed 元素都會固定在螢幕的指定位置，都不會變。例：
 
@@ -178,4 +178,8 @@ p.the_fixed{
 結果：
 
 ![](/assets/position_fixed.png)
+
+## 定位模式：relative
+
+
 
