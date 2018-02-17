@@ -32,7 +32,7 @@
 
 當螢幕寬度大於等於 768px 且小於等於 992px 時，&lt;a&gt; 的文字顏色會變成橘色。
 
-```
+```css
 @media (min-width: 768px) and (max-width: 992px){
   a{
     color: orange;
