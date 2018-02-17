@@ -189,12 +189,12 @@ div.place_img{
 所以該圖在區域內，搭配關鍵字的話，共有以下幾種組合：
 
 ```css
-background-position: left top;      /* 水平方向：置左；垂直方向：置頂 */
-background-position: center top;    /* 水平方向：置中；垂直方向：置頂 */
-background-position: right top;     /* 水平方向：置右；垂直方向：置頂 */
-background-position: left center;   /* 水平方向：置左；垂直方向：置中 */
-background-position: center center; /* 水平方向：置中；垂直方向：置中 */
-background-position: right center;  /* 水平方向：置右；垂直方向：置中 */
+background-position: left top;       /* 水平方向：置左；垂直方向：置頂 */
+background-position: center top;     /* 水平方向：置中；垂直方向：置頂 */
+background-position: right top;      /* 水平方向：置右；垂直方向：置頂 */
+background-position: left center;    /* 水平方向：置左；垂直方向：置中 */
+background-position: center center;  /* 水平方向：置中；垂直方向：置中 */
+background-position: right center;   /* 水平方向：置右；垂直方向：置中 */
 ```
 
 
