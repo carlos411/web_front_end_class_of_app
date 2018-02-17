@@ -103,11 +103,18 @@ div.first{
   border:1px solid red;
 }
 /* 增加 ::after 這個虛擬元素 */
+/*
+ 1、在 div.first 的最尾端增加一個元素，可放入內容
+ 2、內容這裡設定成「空」的內容
+ 3、將該元素設定成區塊元素
+ 4、使用 clear: both 來告知左右都不能有任何元素
+*/
 div.first::after{
-  content:"";
+  content:"abc";
   display: block;
   clear:both;
 }
+
 div.first img{
   float:right;
 }
