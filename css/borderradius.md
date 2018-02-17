@@ -32,7 +32,7 @@ div.test_radius{
 
 ## 各種寫法範例
 
-圓角順序：左上\(1px\)、右上\(2px\)、右下\(3px\)、左下\(4px\)：
+圓角順序：左上\(10px\)、右上\(20px\)、右下\(30px\)、左下\(40px\)：
 
 ```css
 border-radius: 10px 20px 30px 40px;
