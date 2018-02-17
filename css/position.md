@@ -175,5 +175,7 @@ p.the_fixed{
 }
 ```
 
+結果：
 
+![](/assets/position_fixed.png)
 
