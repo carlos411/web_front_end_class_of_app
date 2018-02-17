@@ -16,8 +16,6 @@ div{
 * project/images/christmas-dark.png  \(註：此圖寬高大小皆為 200px。\)
 * project/index.html
 
-
-
 christmas-dark.png 的圖片為：
 
 ![](/assets/christmas-dark.png)
@@ -103,6 +101,10 @@ index\_lion.html 檔案：
 ![](/assets/background1.png)
 
 使用 **background-size** 來設定背景圖的大小：
+
+```css
+background-size: 80%;
+```
 
 使用 **background-position** 來設定背景圖的位置：
 
