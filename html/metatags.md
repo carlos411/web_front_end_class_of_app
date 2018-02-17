@@ -23,6 +23,7 @@
   <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="description" content="網站前端教學">
   <meta http-equiv="refresh" content="3">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 </head>
 ```
 
@@ -31,6 +32,8 @@
 `description`：有可能會顯示在 google 搜尋結果的說明當中。
 
 `refresh`：此頁面每隔幾秒會重新整理一次。
+
+`viewport`：指的是可視範圍，桌機版的瀏覽器，viewport 的寬度就等於瀏覽器的寬度。這通常是針對手機版的網頁在使用，指定 width 為設備寬度\(device-width\)
 
 ## 資源
 
