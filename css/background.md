@@ -168,5 +168,19 @@ div.place_img{
 
 ### 使用 **background-position** 來設定背景圖的位置
 
+```css
+div.place_img{
+  width: 300px;
+  height: 300px;
+  border:1px solid red;
+
+  background-image: url("./images/lion.jpg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+
+  background-position: center bottom;
+}
+```
+
 
 
