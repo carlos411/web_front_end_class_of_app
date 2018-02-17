@@ -41,5 +41,9 @@ body{
 * repeat-y：圖片向 y 軸重覆出現。
 * no-repeat：不重覆，只出現一次。
 
+![](/assets/背景重覆.png)
+
+
+
 
 
