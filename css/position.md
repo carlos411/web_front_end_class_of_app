@@ -206,7 +206,7 @@ p.the_relative{
 }
 ```
 
-先看看原位置：
+結果：\(先看看原位置\)
 
 ![](/assets/position_relative1.png)
 
