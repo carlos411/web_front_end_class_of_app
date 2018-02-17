@@ -186,3 +186,12 @@ div.place_img{
 
 ![](/assets/background7.png)
 
+所以該圖在區域內，搭配關鍵字的話，共有以下幾種組合：
+
+```css
+background-position: left center; /* 水平方向：置左；垂直方向：置中 */
+
+```
+
+
+
