@@ -192,7 +192,7 @@ div.place_img{
 background-position: left top; /* 水平方向：置左；垂直方向：置頂 */
 background-position: center top; /* 水平方向：置中；垂直方向：置頂 */
 background-position: right top; /* 水平方向：置右；垂直方向：置頂 */
-background-position: left left; /* 水平方向：置右；垂直方向：置頂 */
+background-position: left center; /* 水平方向：置左；垂直方向：置中 */
 ```
 
 
