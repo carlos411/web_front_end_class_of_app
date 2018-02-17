@@ -192,5 +192,17 @@ HTML：
 <p>段落</p>
 ```
 
+CSS：
+
+```css
+p.the_relative{
+  border:1px solid red;
+
+  position: relative;
+  /*bottom: 10px;
+  left:10px;*/
+}
+```
+
 
 
