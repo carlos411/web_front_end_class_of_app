@@ -124,7 +124,7 @@ div.place_img{
 
 ![](/assets/background2.png)
 
-特殊關鍵字\(**contain**\)
+特殊關鍵字\(**contain**\)：要讓圖片在區域內能夠完整呈現
 
 ```css
 div.place_img{
@@ -139,13 +139,17 @@ div.place_img{
 }
 ```
 
-結果呈現：目的是要讓圖片能夠在該區域內全部呈現：
+結果呈現：
 
 ![](/assets/background3.png)
 
 如果將div的高度改成100px的話，則結果會變成：
 
 ![](/assets/background4.png)
+
+
+
+特殊關鍵字\(**cover**\)：要讓圖片佔滿整個區域
 
 ### 使用 **background-position** 來設定背景圖的位置
 
