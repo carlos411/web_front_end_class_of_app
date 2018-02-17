@@ -263,3 +263,5 @@ p.the_absolute{
 
 結果：
 
+![](/assets/position_absolute.png)
+
