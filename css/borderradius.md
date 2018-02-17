@@ -24,7 +24,7 @@ div.test_radius{
 
 ![](/assets/border_radius1.png)
 
-繪製原理：
+繪製原理\(下圖是以其中一個角為例\)：
 
 ![](/assets/border_radius_theory.png)
 
