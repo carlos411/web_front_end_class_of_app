@@ -114,7 +114,8 @@ div.place_img{
   background-size: 80%; /* 背景圖的寬度會變成佔 div 區域的 80%。 */
   /*
   其它語法：
-  
+  background-size: 50% 50%; /* 背景圖的寬度及高度會變成佔 div 區域的 50%。 */
+
   */
 }
 ```
