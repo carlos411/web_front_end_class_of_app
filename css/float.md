@@ -95,8 +95,6 @@ div.first img{
 
 ## 解法：使用虛擬元素 `::after`
 
-透過 CSS 虛擬元素
-
 修改 CSS 成：
 
 ```css
@@ -115,5 +113,7 @@ div.first img{
 }
 ```
 
+結果：
 
+![](/assets/float5.png)
 
