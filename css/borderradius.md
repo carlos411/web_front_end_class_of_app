@@ -34,7 +34,7 @@ div.test_radius{
 
 圓角順序：左上、右上、右下、左下。
 
-```
+```css
 border-radius: 1px 2px 3px 4px;
 ```
 
