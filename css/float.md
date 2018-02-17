@@ -89,5 +89,7 @@ div.first img{
 }
 ```
 
+結果：
 
+![](/assets/flaot4.png)
 
