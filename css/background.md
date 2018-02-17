@@ -13,7 +13,7 @@ div{
 假設目前檔案結構如下：
 
 * project/
-* project/images/christmas-dark.png
+* project/images/christmas-dark.png  \(註：此圖寬高大小皆為 200px。\)
 * project/index.html
 
 在 index.html 檔案裡，指定如下 CSS：
