@@ -1,6 +1,6 @@
 # 3.13 圓角
 
-## 範例一：基本語法
+## 範例：基本語法
 
 HTML
 
@@ -27,4 +27,14 @@ div.test_radius{
 繪製原理\(下圖是以其中一個角為例\)：
 
 ![](/assets/border_radius_theory.png)
+
+## 各種寫法
+
+圓角順序：左上、右上、右下、左下。
+
+```
+border-radius: 1px 2px 3px 4px;
+```
+
+圓角順序：
 
