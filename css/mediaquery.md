@@ -40,5 +40,25 @@
 }
 ```
 
+## 範例四
+
+screen 和 print：
+
+```css
+@media screen{
+  a{
+    color: purple;
+  }
+}
+
+@media print{
+  a{
+    color: blue;
+  }
+}
+```
+
+
+
 
 
