@@ -92,3 +92,7 @@ index\_lion.html 檔案：
 
 ![](/assets/background1.png)
 
+使用 **background-size** 來設定背景圖的大小：
+
+使用 **background-position** 來設定背景圖的位置：
+
