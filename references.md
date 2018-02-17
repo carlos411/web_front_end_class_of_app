@@ -4,7 +4,7 @@
 
 [更多 Meta Data：https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
 
-[更多的 HTML Entities：\(https://www.w3schools.com/html/html\_entities.asp\)](https://www.w3schools.com/html/html_entities.asp)
+[更多的 HTML Entities：https://www.w3schools.com/html/html\_entities.asp\](https://www.w3schools.com/html/html_entities.asp)
 
 # CSS
 
