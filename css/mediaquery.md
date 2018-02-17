@@ -21,7 +21,7 @@
 當螢幕寬度小於等於 767px 時，&lt;a&gt; 的文字顏色會變成綠色。
 
 ```css
-@media (min-width: 768px){
+@media (max-width: 767px){
   a{
     color: red;
   }
