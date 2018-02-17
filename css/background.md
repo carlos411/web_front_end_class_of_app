@@ -110,9 +110,12 @@ div.place_img{
 
   background-image: url("./images/lion.jpg");
   background-repeat: no-repeat;
-  
+
   background-size: 80%; /* 背景圖的寬度會變成佔 div 區域的 80%。 */
-  /**/
+  /*
+  其它語法：
+  
+  */
 }
 ```
 
