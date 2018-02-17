@@ -2,7 +2,9 @@
 
 ## 背景單色
 
-## 背景漸層
+```css
+background-color: red;
+```
 
 ## 背景圖片
 
