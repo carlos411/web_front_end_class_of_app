@@ -187,12 +187,10 @@ HTML：
 
 ```html
 <p>段落</p>
-<p class="the_relative">fixed 段落</p>
+<p class="the_relative">relative 段落</p>
 <p>段落</p>
 <p>段落</p>
 ```
-
-
 
 
 
