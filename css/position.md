@@ -160,5 +160,20 @@ HTML：
 <p>段落</p>
 ```
 
+CSS：
+
+```
+p.the_fixed{
+  border:1px solid red;
+  margin:0;
+  padding:0;
+  
+  /* 改變定位模式(fixed) */
+  position: fixed;
+  right:0;
+  top:0;
+}
+```
+
 
 
