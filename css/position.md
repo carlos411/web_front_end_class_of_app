@@ -230,7 +230,7 @@ p.the_relative{
 
 找到上層第一個相對定位的元素，相對於它來定位。例：
 
-HTML
+HTML：
 
 ```html
 <p>段落</p>
@@ -240,6 +240,25 @@ HTML
 </div>
 <p>段落</p>
 <p>段落</p>
+```
+
+CSS：
+
+```
+div.relative_block{
+  position: relative;
+  border:1px solid black;
+  width: 300px;
+  height: 300px;
+}
+p.the_absolute{
+  border:1px solid red;
+  margin:0;
+
+  position: absolute;
+  bottom: 10px;
+  right:10px;
+}
 ```
 
 
