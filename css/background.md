@@ -10,18 +10,21 @@ div{
 
 ## 背景圖片
 
-HTML
+假設目前檔案結構如下：
 
-```html
-<div>這裡是 div 的內容區域</div>
-```
+* project/
+* project/images/christmas-dark.png
+* project/index.html
 
-CSS：指定欲顯示的圖片：
+在 index.html 檔案裡，指定如下 CSS：
 
 ```css
-div{
-  background-image: url();
+<style>
+body{
+  background-image: url("./images/christmas-dark.png");
+  background-repeat: no-repeat;
 }
+</style>
 ```
 
 
