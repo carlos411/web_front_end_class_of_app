@@ -17,5 +17,7 @@ HTML：
 </div>
 ```
 
+結果：
 
+![](/assets/float1.png)
 
