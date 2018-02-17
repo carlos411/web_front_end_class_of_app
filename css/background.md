@@ -124,5 +124,20 @@ div.place_img{
 
 ![](/assets/background2.png)
 
+特殊關鍵字\(**contain**\)
+
+```
+div.place_img{
+  width: 300px;
+  height: 300px;
+  border:1px solid red;
+
+  background-image: url("./images/lion.jpg");
+  background-repeat: no-repeat;
+
+  background-size: contain;
+}
+```
+
 使用 **background-position** 來設定背景圖的位置：
 
