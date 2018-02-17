@@ -23,7 +23,7 @@
   <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="description" content="網站前端教學">
   <meta http-equiv="refresh" content="3">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 </head>
 ```
 
