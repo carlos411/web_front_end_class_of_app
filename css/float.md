@@ -17,6 +17,15 @@ HTML：
 </div>
 ```
 
+CSS：
+
+```css
+div.first{
+  width: 500px;
+  border:1px solid red;
+}
+```
+
 結果：
 
 ![](/assets/float1.png)
