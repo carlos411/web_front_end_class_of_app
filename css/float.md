@@ -30,13 +30,23 @@ div.first{
 
 ![](/assets/float1.png)
 
-CSS 新增：
+CSS 變更成：
 
 ```css
+div.first{
+  width: 500px;
+  border:1px solid red;
+}
+
+/* 新增以下 */
 div.first img{
   float:left;
 }
 ```
+
+結果：
+
+![](/assets/float2.png)
 
 
 
