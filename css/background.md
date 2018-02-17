@@ -10,5 +10,13 @@ div{
 
 ## 背景圖片
 
+指定欲顯示的圖片：
+
+```css
+div{
+  background-image: url();
+}
+```
+
 
 
