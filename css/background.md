@@ -178,9 +178,11 @@ div.place_img{
   background-repeat: no-repeat;
   background-size: 80%;
 
-  background-position: center bottom;
+  background-position: center bottom; /* 水平方向：置中；垂直方向：置底 */
 }
 ```
 
+結果如圖：
 
+![](/assets/background7.png)
 
