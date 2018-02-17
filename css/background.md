@@ -103,8 +103,20 @@ index\_lion.html 檔案：
 使用 **background-size** 來設定背景圖的大小：
 
 ```css
-background-size: 80%;
+div.place_img{
+  width: 300px;
+  height: 300px;
+  border:1px solid red;
+
+  background-image: url("./images/lion.jpg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
 ```
+
+結果呈現：
+
+![](/assets/background2.png)
 
 使用 **background-position** 來設定背景圖的位置：
 
