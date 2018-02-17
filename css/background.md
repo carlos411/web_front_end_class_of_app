@@ -208,5 +208,5 @@ background-position: 50px 10px; /* 水平方向：離左側 50px 的距離；垂
 
 結果如圖：
 
-
+![](/assets/background8.png)
 
