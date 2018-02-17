@@ -73,7 +73,21 @@
 }
 ```
 
+## 範例六
 
+```css
+@media screen and (orientation: landscape) {
+  a{
+    color: red;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  a{
+    color: blue;
+  }
+}
+```
 
 
 
