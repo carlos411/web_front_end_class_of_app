@@ -202,3 +202,9 @@ background-position: right bottom;   /* 水平方向：置右；垂直方向：�
 
 也可以指定水平方向、固定方向的距離，單位可以是 px 或 %：
 
+```
+background-position: 50px 10px; /* 水平方向：離左側 50px 的距離；垂直方向：離上側 10px 的 */
+```
+
+
+
