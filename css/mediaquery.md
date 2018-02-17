@@ -45,8 +45,6 @@
 * screen：會套用至彩色螢幕時。
 * print：會套用至列印時。
 
-
-
 在彩色螢幕上，`<a>` 的連結文字會是紫色；但列印時，會是藍色。
 
 ```css
@@ -59,6 +57,18 @@
 @media print{
   a{
     color: blue;
+  }
+}
+```
+
+## 範例五
+
+當是彩色螢幕時，螢幕寬度大於等於 768px 且小於等於 992px 時，`<a>` 的文字顏色會變成紅色。
+
+```css
+@media screen and (min-width: 768px) and (max-width: 992px){
+  a{
+    color: red;
   }
 }
 ```
