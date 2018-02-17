@@ -30,13 +30,25 @@ div.test_radius{
 
 ![](/assets/border_radius_theory.png)
 
-## 各種寫法
+## 各種寫法範例
 
-圓角順序：左上、右上、右下、左下。
+圓角順序：左上\(1px\)、右上\(2px\)、右下\(3px\)、左下\(4px\)。
 
 ```css
 border-radius: 1px 2px 3px 4px;
 ```
 
+圓角順序：左上\(1px\)、右上及左下\(2px\)、右下\(3px\)。
+
+```css
+border-radius: 1px 2px 3px;
+```
+
 圓角順序：
+
+```
+border-radius
+```
+
+
 
