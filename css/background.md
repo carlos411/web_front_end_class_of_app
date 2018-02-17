@@ -126,7 +126,7 @@ div.place_img{
 
 特殊關鍵字\(**contain**\)
 
-```
+```css
 div.place_img{
   width: 300px;
   height: 300px;
