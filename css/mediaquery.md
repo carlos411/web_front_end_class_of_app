@@ -75,6 +75,8 @@
 
 ## 範例六
 
+當是彩色螢幕時，且設備為橫向\(**landscape**\)擺放時，&lt;a&gt; 的文字顏色會是紅色；反之，若設備為直向\(**portrait**\)擺放時，會是藍色。
+
 ```css
 @media screen and (orientation: landscape) {
   a{
