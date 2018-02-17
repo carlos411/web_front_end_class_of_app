@@ -40,7 +40,7 @@ border-radius: 10px 20px 30px 40px;
 
 ![](/assets/border_radius_ex3.png)
 
-圓角順序：左上\(1px\)、右上及左下\(2px\)、右下\(3px\)：
+圓角順序：左上\(10px\)、右上及左下\(20px\)、右下\(40px\)：
 
 ```css
 border-radius: 10px 20px 40px;
