@@ -244,7 +244,7 @@ HTML：
 
 CSS：
 
-```
+```css
 div.relative_block{
   position: relative;
   border:1px solid black;
