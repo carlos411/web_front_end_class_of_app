@@ -62,5 +62,5 @@ div.first img{
 }
 ```
 
-![](/assets/float3.png)
+結果：![](/assets/float3.png)
 
