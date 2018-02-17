@@ -54,5 +54,41 @@ body{
 
 ## 範例2：背景圖片
 
+假設檔案結構如下：
+
+* project/
+* project/images/lion.png  \(註：此圖寬高大小為 640 x 428。\)
+* project/index\_lion.html
+
+index\_lion.html 檔案：
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>這是網頁標題</title>
+
+    <style>
+    div.place_img{
+      width: 300px;
+      height: 300px;
+      border:1px solid red;
+
+      background-image: url("./images/lion.jpg");
+      background-repeat: no-repeat;
+      background-size: 80%;
+      background-position: left top;
+    }
+    </style>
+
+  </head>
+  <body>
+    <div class="place_img">這是 div 的內容</div>
+
+  </body>
+</html>
+```
+
 
 
