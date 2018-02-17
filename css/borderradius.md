@@ -35,7 +35,7 @@ div.test_radius{
 圓角順序：左上\(1px\)、右上\(2px\)、右下\(3px\)、左下\(4px\)：
 
 ```css
-border-radius: 1px 2px 3px 4px;
+border-radius: 10px 20px 30px 40px;
 ```
 
 圓角順序：左上\(1px\)、右上及左下\(2px\)、右下\(3px\)：
@@ -53,4 +53,6 @@ border-radius: 10px 20px;
 ```
 
 ![](/assets/border_radius_ex1.png)
+
+上述的單位，也都可以改用百分比。
 
