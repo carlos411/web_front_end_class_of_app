@@ -18,14 +18,17 @@ div{
 
 在 index.html 檔案裡，指定如下 CSS：
 
+一、顯示背景圖片：
+
 ```css
 <style>
 body{
   background-image: url("./images/christmas-dark.png");
-  background-repeat: no-repeat;
 }
 </style>
 ```
 
+結果呈現：
 
+![](/assets/bg_image.png)
 
