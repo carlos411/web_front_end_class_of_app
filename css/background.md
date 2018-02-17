@@ -77,8 +77,6 @@ index\_lion.html 檔案：
 
       background-image: url("./images/lion.jpg");
       background-repeat: no-repeat;
-      background-size: 80%;
-      background-position: left top;
     }
     </style>
 
