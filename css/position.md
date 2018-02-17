@@ -222,5 +222,7 @@ p.the_relative{
 }
 ```
 
+結果：
 
+![](/assets/position_relative2.png)
 
