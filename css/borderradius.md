@@ -15,7 +15,7 @@ div.test_radius{
   width: 100px;
   height: 100px;
   border:1px solid red;
-  
+
   border-radius: 10px; /* 左上、右上、右下、左下，四個角，都會變成 10px 的圓角 */
 }
 ```
@@ -23,4 +23,8 @@ div.test_radius{
 如圖：
 
 ![](/assets/border_radius1.png)
+
+繪製原理
+
+![](/assets/border_radius_theory.png)
 
