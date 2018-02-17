@@ -41,8 +41,10 @@ border-radius: 1px 2px 3px 4px;
 圓角順序：左上\(1px\)、右上及左下\(2px\)、右下\(3px\)：
 
 ```css
-border-radius: 1px 2px 3px;
+border-radius: 10px 20px 40px;
 ```
+
+![](/assets/border_radius_ex2.png)
 
 圓角順序：左上及右下\(10px\)、右上及左下\(20px\)：
 
