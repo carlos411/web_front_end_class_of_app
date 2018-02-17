@@ -147,9 +147,20 @@ div.place_img{
 
 ![](/assets/background4.png)
 
-
-
 特殊關鍵字\(**cover**\)：要讓圖片佔滿整個區域
+
+```css
+div.place_img{
+  width: 300px;
+  height: 300px;
+  border:1px solid red;
+
+  background-image: url("./images/lion.jpg");
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+```
 
 ### 使用 **background-position** 來設定背景圖的位置
 
