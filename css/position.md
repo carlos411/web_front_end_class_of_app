@@ -210,3 +210,17 @@ p.the_relative{
 
 ![](/assets/position_relative1.png)
 
+將 CSS 改成：
+
+```css
+p.the_relative{
+  border:1px solid red;
+
+  position: relative;
+  bottom: 10px;
+  left:10px;
+}
+```
+
+
+
