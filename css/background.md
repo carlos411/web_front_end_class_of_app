@@ -162,6 +162,10 @@ div.place_img{
 }
 ```
 
+結果如圖：
+
+![](/assets/background6.png)
+
 ### 使用 **background-position** 來設定背景圖的位置
 
 
