@@ -200,5 +200,5 @@ background-position: center bottom;  /* 水平方向：置中；垂直方向：�
 background-position: right bottom;   /* 水平方向：置右；垂直方向：置底 */
 ```
 
-
+也可以指定水平方向、固定方向的距離，單位可以是 px 或 %：
 
