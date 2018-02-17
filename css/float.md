@@ -48,5 +48,19 @@ div.first img{
 
 ![](/assets/float2.png)
 
+CSS 再變更成：
+
+```css
+div.first{
+  width: 500px;
+  border:1px solid red;
+}
+
+/* 新增以下 */
+div.first img{
+  float: right;
+}
+```
+
 
 
