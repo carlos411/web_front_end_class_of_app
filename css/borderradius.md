@@ -30,6 +30,13 @@ div.test_radius{
 
 ![](/assets/border_radius_theory.png)
 
+若要單一指定某一個角的話，分別是
+
+* border-top-left
+* border-top-right
+* border-bottom-right
+* border-bottom-left
+
 ## 各種寫法範例
 
 圓角順序：左上\(10px\)、右上\(20px\)、右下\(30px\)、左下\(40px\)：
