@@ -190,7 +190,8 @@ div.place_img{
 
 ```css
 background-position: left center; /* 水平方向：置左；垂直方向：置中 */
-
+background-position: center top; /* 水平方向：置中；垂直方向：置頂 */
+background-position: right top; /* 水平方向：置右；垂直方向：置頂 */
 ```
 
 
