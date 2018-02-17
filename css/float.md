@@ -64,3 +64,18 @@ div.first img{
 
 結果：![](/assets/float3.png)
 
+## 問題
+
+當浮動區域的高度超出上層的高度時，上層的高度並不會增加，例：
+
+HTML
+
+```html
+<div class="first">
+  <img src="./images/apple.png">
+  這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是
+</div>
+```
+
+
+
