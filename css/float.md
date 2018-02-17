@@ -30,3 +30,13 @@ div.first{
 
 ![](/assets/float1.png)
 
+CSS 新增：
+
+```css
+div.first img{
+  float:left;
+}
+```
+
+
+
