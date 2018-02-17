@@ -93,7 +93,9 @@ div.first img{
 
 ![](/assets/flaot4.png)
 
-解法：
+## 解法：使用虛擬元素 `::after`
+
+透過 CSS 虛擬元素
 
 修改 CSS 成：
 
