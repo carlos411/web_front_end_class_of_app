@@ -63,5 +63,3 @@ border-radius: 10px 20px;
 
 ![](/assets/border_radius_ex1.png)
 
-上述的單位，也都可以改用百分比等單位。
-
