@@ -1,8 +1,6 @@
 # 4.2.2 事件\(event\)和回呼函式\(callback\)
 
-回顧最一開始的範例：
-
-HTML
+回顧最一開始的範例\(HTML 及 JS\)：
 
 ```js
 <h1>這是內文標題</h1>
@@ -49,8 +47,6 @@ HTML
 ```
 
 ```
-
-
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
