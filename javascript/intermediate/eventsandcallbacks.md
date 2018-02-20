@@ -40,9 +40,13 @@
 * onfocus
 * onsubmit
 
+事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
+
+
+
 ## 使用 HTML 事件屬性去觸發
 
-例：
+例：\(留意 html 中的 **onclick 屬性** \)
 
 ```js
 <!doctype html>
@@ -65,6 +69,4 @@
 ```
 
 
-
-事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
