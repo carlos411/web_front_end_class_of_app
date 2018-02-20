@@ -4,13 +4,8 @@
 
 HTML
 
-```html
-<h1>這是內文標題</h1>
-```
-
-JS
-
 ```js
+<h1>這是內文標題</h1>
 <script type="text/javascript">
   var h1 = document.getElementsByTagName("h1")[0];
   h1.addEventListener("click", function(){
@@ -46,6 +41,16 @@ JS
 
 * onfocus
 * onsubmit
+
+## 使用 HTML 事件屬性去觸發
+
+例
+
+```
+
+```
+
+
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
