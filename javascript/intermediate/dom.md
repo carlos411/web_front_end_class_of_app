@@ -2,9 +2,7 @@
 
 DOM = **D**ocument **O**bject **M**odel
 
-
-
 ## DOM
 
-
+![](/assets/dom_tree.png)
 
