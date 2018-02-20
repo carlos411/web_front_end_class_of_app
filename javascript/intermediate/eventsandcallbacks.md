@@ -15,14 +15,31 @@
 
 * **function\(\){...}**：這就是回呼函式\(callback\)，指的是完成一件事之後，所要執行的函式，就叫做 callback。
 
-## 常用事件包含了哪些
+## 常用滑鼠事件
 
-* 
+* onclick：
 
+* ondblclick
+
+* onmousedown
+
+* onmousemove
+
+* onmouseout
+
+* onmouseup
+
+## 常用 window 事件
+
+* onload
+* onresize
+
+## 常用的表單事件
+
+* onfocus
+* onsubmit
 
 
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
-
-
 
