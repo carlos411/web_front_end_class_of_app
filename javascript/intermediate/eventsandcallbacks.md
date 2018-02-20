@@ -2,6 +2,10 @@
 
 回顧最一開始的範例：
 
+```html
+<h1>這是內文標題</h1>
+```
+
 ```js
 <script type="text/javascript">
   var h1 = document.getElementsByTagName("h1")[0];
