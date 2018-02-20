@@ -15,9 +15,14 @@
 
 * **function\(\){...}**：這就是回呼函式\(callback\)，指的是完成一件事之後，所要執行的函式，就叫做 callback。
 
+## 常用事件包含了哪些
+
+* 
 
 
-## 事件包含了哪些
+
+
+事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
 
 
