@@ -10,3 +10,13 @@ DOM = **D**ocument **O**bject **M**odel
 
 ![](/assets/dom_tree2.png)
 
+
+
+## JavaScript 的角色
+
+
+
+
+
+
+
