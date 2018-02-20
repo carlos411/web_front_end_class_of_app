@@ -42,9 +42,9 @@
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
-
-
 ## 使用 HTML 事件屬性去觸發
+
+不建議，通常事件會由 JS 去控制，HTML 儘可能保持乾淨易讀。
 
 例：\(留意 html 中的 **onclick 屬性** \)
 
