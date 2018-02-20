@@ -42,9 +42,26 @@
 
 ## 使用 HTML 事件屬性去觸發
 
-例
+例：
 
-```
+```js
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>這是網頁標題</title>
+
+  </head>
+  <body>
+    <h1 onclick="open_dialog()">這是內文標題</h1>
+
+    <script type="text/javascript">
+      function open_dialog(){
+        alert("open dialog");
+      }
+    </script>
+  </body>
+</html>
 
 ```
 
