@@ -2,9 +2,13 @@
 
 回顧最一開始的範例：
 
+HTML
+
 ```html
 <h1>這是內文標題</h1>
 ```
+
+JS
 
 ```js
 <script type="text/javascript">
