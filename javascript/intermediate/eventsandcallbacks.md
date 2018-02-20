@@ -17,17 +17,17 @@
 
 ## 常用滑鼠事件
 
-* onclick：
+* onclick：滑鼠左鍵按一下。
 
-* ondblclick
+* ondblclick：消鼠左鍵按兩下。
 
-* onmousedown
+* onmousedown：滑鼠左鍵按下未抬起就會觸發。
 
-* onmousemove
+* onmousemove：滑鼠游標在元素上移動。
 
-* onmouseout
+* onmouseout：滑鼠移出元素。
 
-* onmouseup
+* onmouseup：滑鼠左鍵按下後抬起時觸發。
 
 ## 常用 window 事件
 
@@ -38,8 +38,6 @@
 
 * onfocus
 * onsubmit
-
-
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
