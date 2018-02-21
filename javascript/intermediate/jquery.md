@@ -89,6 +89,9 @@ JavaScript 版本
 
 ```js
 var h1 = document.getElementsByTagName("h1")[0];
+h1.addEventListener("click", function(){
+  alert("open dialog");
+});
 ```
 
 jQuery 版本
