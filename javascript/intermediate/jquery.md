@@ -4,7 +4,15 @@
 
 ## 如何在網頁中載入 jQuery 函式庫
 
-## 範例
+方式一：下載後，於網頁中載入
+
+第一步：到此網址： http://jquery.com/download/
+
+第二步：下載
+
+![](/assets/jquery_download.png)
+
+## 使用範例
 
 JavaScript 版本
 
