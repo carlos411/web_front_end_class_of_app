@@ -4,7 +4,7 @@
 
 ## 如何在網頁中載入 jQuery 函式庫
 
-### 方式一：下載後，於網頁中載入
+### 方式一\(建議\)：下載後，於網頁中載入
 
 第一步：瀏覽官網網址： [http://jquery.com/download/](http://jquery.com/download/)
 
@@ -47,7 +47,9 @@
 
 ### 方式二：透過 CDN
 
+第一步：瀏覽官網網址： [http://jquery.com/download/](http://jquery.com/download/)
 
+第二步：
 
 ## 使用範例
 
