@@ -51,6 +51,8 @@
 
 第二步：
 
+![](/assets/jquery_download_by_cdn.png)
+
 ## 使用範例
 
 JavaScript 版本
