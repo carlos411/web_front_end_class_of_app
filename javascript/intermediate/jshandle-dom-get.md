@@ -21,8 +21,8 @@ document.getElementsByClassName("class_name");  // 取得 class="class_name" 的
 
 ```
 $("p");
-$("#the_id");
-$(".class_name");
+$("#the_id"); // # 字號代表後面接的是 id 的名稱
+$(".class_name"); // . 符號代表後面接的是 class 的名稱
 ```
 
 
