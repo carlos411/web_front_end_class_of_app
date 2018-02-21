@@ -54,7 +54,7 @@
     * [4.2.1 文件物件模型\(DOM\)](javascript/intermediate/dom.md)
     * [4.2.2 事件\(event\)和回呼函式\(callback\)](javascript/intermediate/eventsandcallbacks.md)
     * [4.2.3 jQuery 函式庫](javascript/intermediate/jquery.md)
-    * [4.2.4 JS 與 jQuery 操控網對元素 - 取得](javascript/intermediate/jshandle-dom-get.md)
+    * [4.2.4 JS 與 jQuery 操控網頁元素 - 取得](javascript/intermediate/jshandle-dom-get.md)
     * [4.2.5 JS 與 jQuery 操控網頁元素 - 新增](javascript/intermediate/jquerydom.md)
     * [4.2.6 JS 與 jQuery 操控網頁元素 - 更新](javascript/intermediate/jshandle-dom-update.md)
     * [4.2.7 JS 與 jQuery 操控網頁元素 - 刪除](javascript/intermediate/jshandle-dom-delete.md)
