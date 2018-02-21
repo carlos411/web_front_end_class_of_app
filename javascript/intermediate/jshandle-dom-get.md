@@ -11,7 +11,9 @@ document.getElementsByClassName("class_name"); // 取得 class="class_name"
 jQuery：
 
 ```
-
+$("p")
+$("#the_id")
+$(".class_name")
 ```
 
 
