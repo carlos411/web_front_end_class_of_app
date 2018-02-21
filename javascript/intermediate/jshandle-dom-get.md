@@ -17,7 +17,7 @@ document.getElementById("the_id");              // 取得 id="the_id" 的元素
 document.getElementsByClassName("class_name");  // 取得 class="class_name" 的元素
 ```
 
-對應 jQuery：
+對應 jQuery 的版本：
 
 ```js
 $("p");            // 代表取的是 <p> 元素
