@@ -85,7 +85,7 @@
 
 ## 使用範例
 
-JavaScript 版本
+JavaScript 版本：
 
 ```js
 var h1 = document.getElementsByTagName("h1")[0];
@@ -94,7 +94,7 @@ h1.addEventListener("click", function(){
 });
 ```
 
-jQuery 版本
+jQuery 版本：
 
 ```js
 var h1 = $("h1")[0];
