@@ -1,5 +1,12 @@
 # 4.2.4 JS 與 jQuery 操控網頁元素 - 取得
 
+HTML：
+
+```
+<p>這是段落</p>
+<p id="the_id">這是段落</p>
+```
+
 JavaScript：
 
 ```js
@@ -8,12 +15,12 @@ document.getElementById("the_id");              // 取得 id="the_id"
 document.getElementsByClassName("class_name");  // 取得 class="class_name"
 ```
 
-jQuery：
+對應 jQuery：
 
 ```
-$("p")
-$("#the_id")
-$(".class_name")
+$("p");
+$("#the_id");
+$(".class_name");
 ```
 
 
