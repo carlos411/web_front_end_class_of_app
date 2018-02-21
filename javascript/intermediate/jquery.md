@@ -17,8 +17,6 @@
 * js/jquery.js
 * index.html
 
-
-
 ```html
 <!doctype html>
 <html>
@@ -33,7 +31,15 @@
   </head>
   <body>
     <h1>這是內文標題</h1>
+    
+    <!--
+      1. 通常建議放在 body 的尾端，讓 html 結構介面先顯示。
+      2. 若有用到 jQuery 的相關程式，需撰寫在 jQuery 載入完成之後。
+    -->
     <script src="./js/jquery.js">
+    <!--
+      其它 jQuery 相關程式
+    -->
 
   </body>
 </html>
