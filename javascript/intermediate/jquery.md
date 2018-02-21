@@ -6,7 +6,7 @@
 
 ### 方式一：下載後，於網頁中載入
 
-第一步：到此網址： [http://jquery.com/download/](http://jquery.com/download/)
+第一步：到此官網網址： [http://jquery.com/download/](http://jquery.com/download/)
 
 第二步：下載
 
@@ -31,7 +31,7 @@
   </head>
   <body>
     <h1>這是內文標題</h1>
-    
+
     <!--
       1. 通常建議放在 body 的尾端，讓 html 結構介面先顯示。
       2. 若有用到 jQuery 的相關程式，需撰寫在 jQuery 載入完成之後。
