@@ -6,7 +6,7 @@
 
 ### 方式一：下載後，於網頁中載入
 
-第一步：到此官網網址： [http://jquery.com/download/](http://jquery.com/download/)
+第一步：瀏覽官網網址： [http://jquery.com/download/](http://jquery.com/download/)
 
 第二步：下載，會是一個類似 **jquery-3.3.1.min.js** 的一個 js 檔案：
 
@@ -44,6 +44,10 @@
   </body>
 </html>
 ```
+
+### 方式二：透過 CDN
+
+
 
 ## 使用範例
 
