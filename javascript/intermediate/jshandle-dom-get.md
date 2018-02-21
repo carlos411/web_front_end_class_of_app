@@ -6,7 +6,7 @@ HTML：
 <p>這是段落一</p>
 <p id="the_id">這是段落二</p>
 <p class="class_name">這是段落三</p>
-<p class="class_name">這是段落四</p>
+<div class="class_name">這是 div 區塊</div>
 ```
 
 JavaScript：
