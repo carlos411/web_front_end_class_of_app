@@ -93,8 +93,11 @@ var h1 = document.getElementsByTagName("h1")[0];
 
 jQuery 版本
 
-```
-var h1 = $("h1")
+```js
+var h1 = $("h1")[0];
+$(h1).on("click", function(){
+  alert("open dialog2");
+});
 ```
 
 
