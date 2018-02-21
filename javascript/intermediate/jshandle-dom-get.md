@@ -2,7 +2,7 @@
 
 HTML：
 
-```
+```html
 <p>這是段落一</p>
 <p id="the_id">這是段落二</p>
 <p class="class_name">這是段落三</p>
