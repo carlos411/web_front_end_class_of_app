@@ -53,10 +53,7 @@
 
 ![](/assets/jquery_download_by_cdn.png)
 
-第三步：於網頁\(**index.html**\)中載入，假設資料夾的結構如下：
-
-* js/jquery-3.3.1.min.js
-* index.html
+第三步：直接於網頁\(**index.html**\)中載入：
 
 ```html
 <!doctype html>
@@ -77,7 +74,7 @@
       1. 通常建議放在 body 的尾端，讓 html 結構介面先顯示。
       2. 若有用到 jQuery 的相關程式，需撰寫在 jQuery 載入完成之後。
     -->
-    <script src="./js/jquery-3.3.1.min.js">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!--
       其它 jQuery 相關程式
     -->
@@ -85,8 +82,6 @@
   </body>
 </html>
 ```
-
-
 
 ## 使用範例
 
