@@ -12,7 +12,12 @@
 
 ![](/assets/jquery_download.png)
 
-第三步：於網頁中載入
+第三步：於網頁\(**index.html**\)中載入，假設資料夾的結構如下：
+
+* js/jquery.js
+* index.html
+
+
 
 ```html
 <!doctype html>
@@ -28,13 +33,7 @@
   </head>
   <body>
     <h1>這是內文標題</h1>
-
-    <script type="text/javascript">
-      var h1 = document.getElementsByTagName("h1")[0];
-      h1.addEventListener("click", function(){
-        alert("open dialog");
-      });
-    </script>
+    <script src="./js/jquery.js">
 
   </body>
 </html>
