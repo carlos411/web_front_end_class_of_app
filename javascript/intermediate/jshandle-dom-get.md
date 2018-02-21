@@ -2,8 +2,10 @@
 
 JavaScript：
 
-```
-
+```js
+document.getElementsByTagName("p"); // 取得 <p> 元素
+document.getElementById("the_id"); // 取得 id="the_id"
+document.getElementsByClassName("class_name"); // 取得 class="class_name"
 ```
 
 jQuery：
