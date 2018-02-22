@@ -41,9 +41,9 @@ para_ele.removeAttribute("class");
 
 對應的 jQuery 版本：
 
-* .html()：取得元素的內容。透過參數，將元素的內容，整個取代。
-* .attr()：
-* .removeAttr()：
+* .html\(\)：取得元素的內容。透過參數代入，將元素的內容，整個取代。
+* .attr\(\)：
+* .removeAttr\(\)：
 
 ```js
 var para_ele = $("#the_id");
