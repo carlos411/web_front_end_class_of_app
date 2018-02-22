@@ -46,7 +46,9 @@ para_ele.removeAttribute("class");
 * **.removeAttr\(attribute\)**：移除屬性。
 
 ```js
+// 透過 id 取得元素
 var para_ele = $("#the_id");
+
 // 提示訊息出現，得到元素的內容：「這是段落」
 alert($(para_ele).html());
 
