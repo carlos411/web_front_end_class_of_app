@@ -9,7 +9,9 @@ HTML
 JavaScript
 
 * innerHTML：將元素的內容，整個取代。
-* 
+* setAttribute\(attribute, value\)：更新屬性的值。
+
+* removeAttribute\(attribute\)：移除屬性。
 
 ```js
 // 改變該元素的內容
@@ -20,7 +22,7 @@ para_ele.innerHTML = "這是改變的文字";
 para_ele.setAttribute("class", "change_style");
 
 // 移除元素的屬性  
-para_ele.removeAttribute"class");
+para_ele.removeAttribute("class");
 ```
 
 
