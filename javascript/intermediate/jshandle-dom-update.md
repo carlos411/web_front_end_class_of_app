@@ -1,12 +1,21 @@
 # 4.2.5 JS 與 jQuery 操控網頁元素 - 更新
 
-HTML
+HTML：
 
 ```html
 <p id="the_id">這是段落</p>
 ```
 
-JavaScript
+CSS：
+
+```css
+.change_style{
+  color: blue;
+  font-size: 30px;
+}
+```
+
+JavaScript：
 
 * innerHTML：將元素的內容，整個取代。
 * setAttribute\(attribute, value\)：更新屬性的值。
