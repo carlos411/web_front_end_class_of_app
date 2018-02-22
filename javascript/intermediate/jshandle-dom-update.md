@@ -17,7 +17,7 @@ CSS：
 
 JavaScript：
 
-* **innerHTML**：將元素的內容，整個取代。
+* **innerHTML**：取得元素的內容。透過「=」，將元素的內容，整個取代。
 * **setAttribute\(attribute, value\)**：更新屬性的值。
 * **removeAttribute\(attribute\)**：移除屬性。
 
@@ -26,6 +26,7 @@ JavaScript：
 var para_ele = document.getElementById("the_id");
 
 // 改變該元素的內容
+alert(para_ele.innerHTML); // 提示訊息出現，得到元素的內容：「這是段落」
 para_ele.innerHTML = "這是改變的文字";
 
 // 元變元素的某個屬性  
