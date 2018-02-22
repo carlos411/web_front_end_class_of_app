@@ -25,8 +25,10 @@ JavaScript：
 // 透過 id 取得元素
 var para_ele = document.getElementById("the_id");
 
+// 提示訊息出現，得到元素的內容：「這是段落」
+alert(para_ele.innerHTML);
+
 // 改變該元素的內容
-alert(para_ele.innerHTML); // 提示訊息出現，得到元素的內容：「這是段落」
 para_ele.innerHTML = "這是改變的文字";
 
 // 元變元素的某個屬性  
