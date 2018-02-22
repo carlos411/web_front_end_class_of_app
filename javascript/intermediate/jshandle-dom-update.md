@@ -41,3 +41,21 @@ para_ele.removeAttribute("class");
 
 對應的 jQuery 版本：
 
+```js
+var para_ele = $("#the_id");
+// 提示訊息出現，得到元素的內容：「這是段落」
+alert($(para_ele).html());
+
+// 改變該元素的內容
+$(para_ele).html("這是改變的文字");
+
+// 元變元素的某個屬性
+// $(para_ele).attr("style", "color: red;font-size: 30px;");
+$(para_ele).attr("class", "change_style");
+
+// 移除元素的屬性
+$(para_ele).removeAttr("class");
+```
+
+
+
