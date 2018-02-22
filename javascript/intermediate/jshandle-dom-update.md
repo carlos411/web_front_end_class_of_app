@@ -22,7 +22,7 @@ JavaScript：
 * **removeAttribute\(attribute\)**：移除屬性。
 
 ```js
-// 取得元素
+// 透過 id 取得元素
 var para_ele = document.getElementById("the_id");
 
 // 改變該元素的內容
@@ -37,6 +37,4 @@ para_ele.removeAttribute("class");
 ```
 
 對應的 jQuery 版本：
-
-
 
