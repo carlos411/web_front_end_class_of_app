@@ -19,7 +19,6 @@ JavaScript：
 
 * innerHTML：將元素的內容，整個取代。
 * setAttribute\(attribute, value\)：更新屬性的值。
-
 * removeAttribute\(attribute\)：移除屬性。
 
 ```js
