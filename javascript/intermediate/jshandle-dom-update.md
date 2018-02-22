@@ -63,5 +63,7 @@ $(para_ele).attr("class", "change_style");
 $(para_ele).removeAttr("class");
 ```
 
+## 完整範例
 
+所在路徑：**`js/4.2.5/`**。
 
