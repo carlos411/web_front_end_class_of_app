@@ -41,6 +41,8 @@ para_ele.removeAttribute("class");
 
 對應的 jQuery 版本：
 
+* .html\(\)：取得元素的內容。透過參數，將元素的內容，整個取代。
+* 
 ```js
 var para_ele = $("#the_id");
 // 提示訊息出現，得到元素的內容：「這是段落」
