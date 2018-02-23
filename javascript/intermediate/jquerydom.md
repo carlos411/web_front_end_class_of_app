@@ -8,6 +8,8 @@ HTML：
 
 JavaScript：
 
+* **document.createElement\(標籤名稱\)**：建立元素的標籤名稱。
+* 
 ```js
 var para = document.createElement("p");
 var div_block = document.getElementById("div_block");
