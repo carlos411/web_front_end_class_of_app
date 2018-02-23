@@ -33,6 +33,26 @@ para.appendChild(txt);
 
 ![](/assets/js新增元素.png)
 
+對應的 jQuery 版本：
+
+* **$\("&lt;p&gt;"\)**：動態建立 &lt;p&gt; 元素。
+* **{element}.append\(元素\)**：替 {element} 的裡面且最後面，加上新的子元素。
+* **{element}.text\("任何文字"\)**：在 {element} 元素，放入欲新增的文字。
+
+```js
+// 使用 jQuery 來建立 <p> 元素，並存於 para 變數之中
+var para = $("<p>");
+
+// 取得 id 為 div_block 的元素，並存於 div_block 變數之中
+var div_block = $("#div_block");
+
+// 替 div_block 元素，在最尾端新增一個子元素，該元素為 para
+div_block.append(para);
+
+// 替 para 元素，放入文字
+para.text("新貼入的文字");
+```
+
 ## 完整範例
 
 檔案所在路徑：`js/4.2.6/`。
