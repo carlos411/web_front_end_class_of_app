@@ -16,5 +16,11 @@ var txt = document.createTextNode("新貼入的文字");
 para.appendChild(txt);
 ```
 
+結果呈現：
 
+![](/assets/js新增元素.png)
+
+## 完整範例
+
+檔案所在路徑：`js/4.2.6/`。
 
