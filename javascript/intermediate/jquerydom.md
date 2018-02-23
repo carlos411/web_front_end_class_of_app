@@ -25,7 +25,7 @@ div_block.appendChild(para);
 // 建立文字節點，文字為「新貼入的文字」，將此節點存於 txt 變數中
 var txt = document.createTextNode("新貼入的文字");
 
-// para 元素，新加上 txt 節點
+// 替 para 元素，新加上 txt 節點
 para.appendChild(txt);
 ```
 
