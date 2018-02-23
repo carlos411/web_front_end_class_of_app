@@ -1,6 +1,12 @@
 # 4.2.6 JS 與 jQuery 操控網頁元素 - 新增
 
-JavaScript
+HTML：
+
+```html
+<div id="div_block">這是 div 區塊</div>
+```
+
+JavaScript：
 
 ```js
 var para = document.createElement("p");
