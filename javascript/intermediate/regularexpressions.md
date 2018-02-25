@@ -19,7 +19,11 @@ var str = "the book";
 alert(pattern.test(str));
 ```
 
-## 表單驗證
+## 完整範例
+
+檔案所在路徑：`js/4.2.8/`。
+
+
 
 
 
