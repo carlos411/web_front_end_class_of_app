@@ -17,6 +17,14 @@ var div_block_1 = document.getElementById("div_block_1");
 div_block_1.remove();
 ```
 
+結果呈現：
+
+對應的 jQuery 版本：
+
+```
+
+```
+
 ## 完整範例
 
 檔案所在路徑：`js/4.2.7/`。
