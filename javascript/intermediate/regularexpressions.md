@@ -2,6 +2,15 @@
 
 ## 正規表示式 - Regular Expression
 
+```js
+var pattern = /abc\s+book/;
+var str = "abc  book";
+
+alert(pattern.test(str));
+```
+
+
+
 ## 表單驗證
 
 
