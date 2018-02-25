@@ -5,7 +5,7 @@
 定義一個字串的規則格式，例如行動電話號碼
 
 ```js
-var pattern = /the\s+book/;
+var pattern = /the\s{1}book/;
 var str = "the book";
 
 alert(pattern.test(str));
