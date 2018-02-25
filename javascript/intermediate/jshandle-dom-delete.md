@@ -19,6 +19,8 @@ div_block_1.remove();
 
 結果呈現：
 
+![](/assets/js移除元素.png)
+
 對應的 jQuery 版本：
 
 ```
