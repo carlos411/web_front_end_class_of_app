@@ -23,8 +23,12 @@ div_block_1.remove();
 
 對應的 jQuery 版本：
 
-```
+```js
+// 取得 id 為 div_block_1 的元素，並存於 div_block_1 變數之中
+var div_block_1 = $("#div_block_1");
 
+// 將 div_block_1 元素移除
+$(div_block_1).remove();
 ```
 
 ## 完整範例
