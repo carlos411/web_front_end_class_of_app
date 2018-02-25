@@ -10,6 +10,7 @@ HTML：
 JavaScript：
 
 ```js
+// 取得 id 為 div_block_1 的元素，並存於 div_block_1 變數之中
 var div_block_1 = document.getElementById("div_block_1");
 div_block_1.remove();
 ```
