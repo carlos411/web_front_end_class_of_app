@@ -6,8 +6,6 @@
 
 * 再使用 `.test()` 方法，來驗證給定的字串是否符合規則，是的話回傳 `true`，反之回傳 `false`。
 
-
-
 例：
 
 ```js
@@ -17,6 +15,7 @@ var pattern = /the\s{1}book/;
 // 想要比對的字串
 var str = "the book";
 
+// 顯示提示訊息，訊息為 true
 alert(pattern.test(str));
 ```
 
