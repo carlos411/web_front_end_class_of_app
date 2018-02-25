@@ -1,6 +1,6 @@
-# 4.2.8 表單驗證\(validation\) - 正規表示式
+# 4.2.8 正規表示式 - Regular Expression
 
-## 正規表示式 - Regular Expression
+說明：
 
 * 定義一個字串的規則格式：寫法為 `/正規表示式/`。
 
@@ -22,8 +22,4 @@ alert(pattern.test(str));
 ## 完整範例
 
 檔案所在路徑：`js/4.2.8/`。
-
-
-
-
 
