@@ -5,11 +5,9 @@
 * XML = e**X**tensible **M**arkup **L**anguage。HTML 就是 XML 的其中一種。
 * JSON = **J**ava**S**cript **O**bject **N**otation。
 
-## XML 格式
+## 認識 XML 格式
 
-
-
-## JSON 格式
+## 認識 JSON 格式
 
 
 
