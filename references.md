@@ -18,5 +18,7 @@
 
 [json parser](http://json.parser.online.fr/)
 
+[XML Viewer](https://codebeautify.org/xmlviewer)
+
 
 
