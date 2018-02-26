@@ -28,6 +28,8 @@
 </product>
 ```
 
+若想確認 XML 格式是否符合規範的話，可到 [XML Viewer](https://codebeautify.org/xmlviewer) 網站測試。如圖：
+
 ## JSON 格式
 
 物件及陣列兩種格式都屬於 JSON 格式。
@@ -41,7 +43,7 @@
 }
 ```
 
-若不太確定寫的 JSON 格式是否符合規範的話，可到 [json parser](http://json.parser.online.fr/) 網站測試。如圖：
+若想確認 JSON 格式是否符合規範的話，可到 [json parser](http://json.parser.online.fr/) 網站測試。如圖：
 
 ![](/assets/json_parser.png)
 
