@@ -15,7 +15,7 @@
 
 就像寫 HTML 一樣，只是現在可自行定義標籤名稱。
 
-```
+```xml
 <product>
   <brand>the_brand</brand>
   <model>t-123</model>
