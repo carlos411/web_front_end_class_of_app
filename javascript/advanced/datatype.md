@@ -32,7 +32,7 @@
 
 物件及陣列兩種格式都屬於 JSON 格式。
 
-```
+```json
 {
   brand: "the_brand",
   model: "t-123",
