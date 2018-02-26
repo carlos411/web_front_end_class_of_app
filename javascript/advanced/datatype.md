@@ -20,6 +20,7 @@
 <product>
   <brand>the_brand</brand>
   <model>t-123</model>
+  <price>100000</price>
   <pictures>
     <source>http://ex.com/a.png</source>
     <source>http://ex.com/b.png</source>
@@ -28,6 +29,17 @@
 ```
 
 ## JSON 格式
+
+物件及陣列兩種格式都屬於 JSON 格式。
+
+```
+{
+  brand: "the_brand",
+  model: "t-123",
+  price: "100000"
+  pictures:["http://ex.com/a.png", "http://ex.com/b.png"]
+}
+```
 
 
 
