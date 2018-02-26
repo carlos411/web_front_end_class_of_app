@@ -5,9 +5,11 @@
 * XML = e**X**tensible **M**arkup **L**anguage。HTML 就是 XML 的其中一種。
 * JSON = **J**ava**S**cript **O**bject **N**otation。
 
-## 範例
+## 範例假設
 
-有一個產品，品牌為 toyato，型號為 abc價格為 100000。
+有一個產品，品牌為 toyato，型號為 abc，價格為 100000。圖片路徑有 http://ex.com/a.png、http://ex.com/b.png。
+
+請分別用 XML及 JSON 格式來表達：
 
 ## 認識 XML 格式
 
