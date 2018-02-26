@@ -13,11 +13,17 @@
 
 ## XML 格式
 
+就像寫 HTML 一樣，只是現在可自行定義標籤名稱。
+
 ```
-<item>
+<product>
   <brand>the_brand</brand>
   <model>t-123</model>
-</item>
+  <pictures>
+    <source>http://ex.com/a.png</source>
+    <source>http://ex.com/b.png</source>
+  </pictures>
+</product>
 ```
 
 ## JSON 格式
