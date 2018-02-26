@@ -13,7 +13,7 @@
 
 ## XML 格式
 
-就像寫 HTML 一樣，只是現在可自行定義標籤名稱。
+就像寫 HTML 一樣，只是現在可自行定義標籤名稱：
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
