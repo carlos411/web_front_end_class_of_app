@@ -11,7 +11,7 @@
 
 請分別用 XML及 JSON 格式來表達：
 
-## XML 格式
+### XML 格式
 
 就像寫 HTML 一樣，只是現在可自行定義標籤名稱：
 
@@ -31,7 +31,7 @@
 
 ![](/assets/xml_parse.png)
 
-## JSON 格式
+### JSON 格式
 
 物件及陣列兩種格式都屬於 JSON 格式。
 
