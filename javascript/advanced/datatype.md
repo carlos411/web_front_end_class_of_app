@@ -34,12 +34,14 @@
 
 ```json
 {
-  brand: "the_brand",
-  model: "t-123",
-  price: "100000"
-  pictures:["http://ex.com/a.png", "http://ex.com/b.png"]
+  "brand": "the_brand",
+  "model": "t-123",
+  "price": "100000",
+  "pictures":["http://ex.com/a.png", "http://ex.com/b.png"]
 }
 ```
+
+若不太確定寫的 JSON 格式是否符合規範的話，可到 [json parser](http://json.parser.online.fr/) 網站測試。如圖：
 
 
 
