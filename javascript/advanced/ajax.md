@@ -35,5 +35,9 @@ alert("done");
 
 ## 非同步資料請求
 
+運作原理：
+
+![](/assets/ajax_1.png)
+
 
 
