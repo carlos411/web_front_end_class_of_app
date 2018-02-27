@@ -15,6 +15,20 @@ for(var i = 0; i < 5; i++){
 alert("done");
 ```
 
+第 2：下載的先後順序，且一定是 jQuery 程式執行完後，才會執行 bootstrap.js 程式。
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <script type="text/javascript" src="./js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="./js/bootstrap.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
 ## 非同步資料請求
 
 
