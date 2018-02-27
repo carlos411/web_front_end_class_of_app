@@ -9,7 +9,7 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 例 1
 
 ```
-for(var i = 0; i < 10; i++){
+for(var i = 0; i < 5; i++){
   alert(i);
 }
 alert("done");
