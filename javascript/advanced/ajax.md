@@ -17,7 +17,7 @@ for(var i = 0; i < 5; i++){
 alert("done");
 ```
 
-第 2：下載的先後順序，jquery 會先請求下載，再來才是bootstrap程式。
+第 2：下載的先後順序，jquery 會先請求下載，再來才是 bootstrap 程式。
 
 且一定是 jQuery 程式執行完後，才會執行 bootstrap.js 程式。
 
