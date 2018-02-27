@@ -4,20 +4,15 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
 ## 同步
 
-在網頁的載入流程或資料請求的過程當中，一定要是一個接著一個，例如：A 事件完成之後，才能執行 B 事件。
+在程式的執行過程當中，一定要是一個接著一個，例如：第一行程式執行完後才會執行第2行。
 
 例 1
 
 ```
-<html>
-  <head>
-    <link>
-    <script src="./abc.js">
-    <script src="./abc.js">
-  </head>
-  <body>
-  </body>
-</html>
+for(var i = 0; i < 10; i++){
+  alert(i);
+}
+alert("done");
 ```
 
 ## 非同步
