@@ -6,7 +6,7 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
 在程式的執行過程當中，一定要是一個接著一個，例如：第一行程式執行完後才會執行第2行。
 
-例 1：
+例 1：for 迴圈跑完了5次之後，才會執行 `alert("done");`。
 
 ```js
 for(var i = 0; i < 5; i++){
@@ -14,8 +14,6 @@ for(var i = 0; i < 5; i++){
 }
 alert("done");
 ```
-
-
 
 ## 非同步
 
