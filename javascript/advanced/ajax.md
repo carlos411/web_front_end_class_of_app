@@ -1,4 +1,4 @@
-# 4.3.2 非同步技術 AJAX - 使用 JS
+# 4.3.2 非同步的 JavaScript 與 XML 技術 AJAX - 使用 JS
 
 AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
