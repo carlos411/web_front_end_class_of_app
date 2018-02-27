@@ -47,3 +47,23 @@ B 段程式與 C 段程式，沒有先後的相依性，幾乎是同時執行\(�
 
 參考就好，因為現在已經有其它更方便的寫法。
 
+HTML：
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Using XMLHttpRequest</title>
+    <script type="text/javascript" src="./js/ajaxtest.js"></script>
+  </head>
+  <body>
+    <a href="./data/message.txt" onclick="grabFile(this.href); return false;">點擊這裡取得 message.txt 檔案的內容</a>
+  </body>
+</html>
+```
+
+如圖：
+
+
+
