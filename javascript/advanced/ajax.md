@@ -6,14 +6,16 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
 在程式的執行過程當中，一定要是一個接著一個，例如：第一行程式執行完後才會執行第2行。
 
-例 1
+例 1：
 
-```
+```js
 for(var i = 0; i < 5; i++){
   alert(i);
 }
 alert("done");
 ```
+
+
 
 ## 非同步
 
