@@ -110,5 +110,7 @@ message.txt
 此內容是 message.txt 檔案的內容。取得成功。
 ```
 
-如圖：
+執行結果如圖：
+
+![](/assets/ajax_ex1.png)
 
