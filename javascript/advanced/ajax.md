@@ -120,3 +120,5 @@ message.txt
 
 ![](/assets/ajax_ex2.png)
 
+錯誤訊息：Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
+
