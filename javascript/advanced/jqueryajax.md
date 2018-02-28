@@ -2,6 +2,19 @@
 
 jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便於使用。
 
+```
+$.ajax({
+  url: 'http://notes.carlos-studio.com/ajax/example.php', // 將資料傳送出去的網址
+  type: 'get', // 也可以是POST
+  data: 'a=1', // 傳遞的參數
+  dataType: 'json', // 傳回來的資料類型
+  success: function(data){ // 成功後會執行的函式
+    //console.log(data);
+    $("#get_data").html(data.value);
+  }
+});
+```
+
 ## 完整範例
 
 php
