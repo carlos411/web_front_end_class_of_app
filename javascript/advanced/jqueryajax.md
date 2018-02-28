@@ -12,6 +12,7 @@ jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便�
   <body>
     <button type="button" id="the_button">取得資料</button>
     <div id="get_data"></div>
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
       $("#the_button").on("click", function(){
