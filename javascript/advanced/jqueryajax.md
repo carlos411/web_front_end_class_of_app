@@ -2,7 +2,7 @@
 
 jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便於使用。
 
-完整範例
+## 完整範例
 
 php
 
@@ -14,6 +14,8 @@ $arr = array('value' => "回傳的資料");
 echo json_encode($arr); // 產生：{"value":"回傳的資料"}
 ?>
 ```
+
+HTML 和 JavaScript
 
 ```js
 <!doctype html>
