@@ -4,12 +4,12 @@ jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便�
 
 ```js
 $.ajax({
-  url: 'a.html',  //傳送出去的url
-  type: 'GET',	//也可以是POST
-  data: 'ab='+ab,  //傳遞的參數
-  dataType: 'html',   //傳回來的資料類型
-  success: function(data){  //成功後會執行的函式
-    $('#dictionary').html(data);
+  url: 'a.html',            // 傳送出去的url
+  type: 'get',              // 也可以是POST
+  data: 'ab='+ab,           // 傳遞的參數
+  dataType: 'json',         // 傳回來的資料類型
+  success: function(data){  // 成功後會執行的函式
+    console.log(data);
   }
 });
 ```
