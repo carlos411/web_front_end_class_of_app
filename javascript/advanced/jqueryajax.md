@@ -1,4 +1,18 @@
 # 4.3.3 非同步的 JavaScript 與 XML 技術 AJAX - 使用 jQuery
 
+jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便於使用。
+
+```js
+$.ajax({
+  url: 'a.html',  //傳送出去的url
+  type: 'GET',	//也可以是POST
+  data: 'ab='+ab,  //傳遞的參數
+  dataType: 'html',   //傳回來的資料類型
+  success: function(data){  //成功後會執行的函式
+    $('#dictionary').html(data);
+  }
+});
+```
+
 
 
