@@ -57,6 +57,11 @@ HTML 和 JavaScript
           success: function(data){ // 成功後會執行的函式
             //console.log(data);
             $("#get_data").html(data.value);
+          },
+          statusCode: {
+            500: function() {
+              alert( "500 伺服器端錯誤" );
+            }
           }
         });
       });
