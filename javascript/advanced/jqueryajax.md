@@ -22,9 +22,9 @@ php
 ```php
 <?php
 header('Access-Control-Allow-Origin: *');
-$arr = array('value' => "回傳的資料");
+$arr = array('value' => "這個是回傳的資料");
 
-echo json_encode($arr); // 產生：{"value":"回傳的資料"}
+echo json_encode($arr); // 產生：{"value":"這個是回傳的資料"}
 ?>
 ```
 
