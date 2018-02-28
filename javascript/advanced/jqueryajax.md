@@ -47,6 +47,8 @@ HTML 和 JavaScript
 </html>
 ```
 
+執行結果
+
 ## 其它資源
 
 [jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
