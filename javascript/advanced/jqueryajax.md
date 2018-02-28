@@ -75,6 +75,10 @@ HTML 和 JavaScript
 
 ![](/assets/jquery與ajax.png)
 
+結果呈現
+
+![](/assets/jquery與ajax_2.png)
+
 ## 其它資源
 
 [jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
