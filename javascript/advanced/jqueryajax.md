@@ -12,7 +12,7 @@ $.ajax({
     //console.log(data);
     $("#get_data").html(data.value);
   },
-  statusCode: {
+  statusCode: {                                           // 依據伺服器端回傳的狀態碼，來顯示錯誤訊息
     500: function() {
       alert( "500 伺服器端錯誤" );
     }
