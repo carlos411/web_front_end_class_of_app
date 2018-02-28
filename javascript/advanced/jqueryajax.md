@@ -4,7 +4,7 @@ jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便�
 
 ```js
 $.ajax({
-  url: 'a.html',            // 將資料傳送出去的網址
+  url: 'http://notes.carlos-studio.com/ajax/example.php',            // 將資料傳送出去的網址
   type: 'get',              // 也可以是POST
   data: 'ab='+ab,           // 傳遞的參數
   dataType: 'json',         // 傳回來的資料類型
