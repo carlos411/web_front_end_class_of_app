@@ -71,7 +71,7 @@ HTML 和 JavaScript
 </html>
 ```
 
-執行結果
+執行原理
 
 ## 其它資源
 
