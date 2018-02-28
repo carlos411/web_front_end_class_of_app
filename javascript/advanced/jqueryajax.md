@@ -55,7 +55,7 @@ HTML 和 JavaScript
           type: 'get',                                            // 也可以是POST
           data: 'a=1',                                            // 傳遞的參數
           dataType: 'json',                                       // 傳回來的資料類型
-          success: function(data){                                // 成功後會執行的函式
+          success: function(data){                                // 成功接收到資料後，會執行的函式
             //console.log(data);
             $("#get_data").html(data.value);
           },
