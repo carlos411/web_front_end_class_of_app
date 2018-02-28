@@ -14,5 +14,7 @@ $.ajax({
 });
 ```
 
+jQuery 的 Ajax 完整官網資源：http://api.jquery.com/jQuery.ajax/
+
 
 
