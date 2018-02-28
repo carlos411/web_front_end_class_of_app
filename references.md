@@ -14,6 +14,8 @@
 
 # JavaScript
 
+[jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
+
 # 其它連結
 
 [JSON Parser](http://json.parser.online.fr/)
