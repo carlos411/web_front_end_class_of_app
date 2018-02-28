@@ -73,6 +73,8 @@ HTML 和 JavaScript
 
 執行原理
 
+![](/assets/jquery與ajax.png)
+
 ## 其它資源
 
 [jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
