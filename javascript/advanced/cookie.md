@@ -32,11 +32,11 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 
 ![](/assets/cookie_info3.png)
 
+註：[時間格式轉換](http://coderstoolbox.net/unixtimestamp/)
+
 ## 更改 cookie 的值
 
 與建立 cookie 的語法是一樣的，只要 cookie 的名稱相同，就會直接更改相同名稱的 cookie。
-
-
 
 [http://coderstoolbox.net/unixtimestamp/](http://coderstoolbox.net/unixtimestamp/)
 
