@@ -2,7 +2,7 @@
 
 ![](/assets/cookie.png)
 
-## 什麼是 cookie？
+## 什麼是 Cookie？
 
 Cookie 是網站在您瀏覽網頁時儲存在您的電腦上的資料。
 
