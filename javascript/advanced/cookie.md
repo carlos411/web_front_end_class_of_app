@@ -12,7 +12,7 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、�
 
 以 Chrome 瀏覽器為例：如下圖\(`cmd + option + i`，切換到 Application 頁籤\)
 
-![](/assets/cookie_info.png)
+![](/assets/cookie_info1.png)
 
 ## 使用 JS 建立 cooke
 
