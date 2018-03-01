@@ -44,6 +44,8 @@ Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
 ## 刪除 cookie
 
+只要為cookie指定「過去的時間」
+
 ## 取得 cookie 的值
 
 ## 
