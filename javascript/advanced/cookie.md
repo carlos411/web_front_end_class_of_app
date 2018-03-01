@@ -94,5 +94,11 @@ function getCookie(cname) {
 }
 ```
 
-就可以直接使用 `getCookie('school')` 來取得 cookie 的值。
+就可以直接使用 getCookie\(\) 函式來取得 cookie 的值：
+
+```js
+var my_cookie = getCookie('school');
+```
+
+
 
