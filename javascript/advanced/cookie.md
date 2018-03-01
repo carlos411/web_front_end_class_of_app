@@ -104,7 +104,7 @@ var my_cookie = getCookie('school');
 
 cookie 是有網域及路徑上的限定，無法取得其它網站的 cookie。
 
-cookie 的 path 若有指定的話，其他路徑是無法取得。
+cookie 的 path 若有指定的話，其他路徑會無法取得。
 
 例如：設定了一個 cookie，其 path 是在 `/category`，那麼在首頁就會無法取得該 cookie。
 
