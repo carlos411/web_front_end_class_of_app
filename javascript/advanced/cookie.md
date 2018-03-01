@@ -66,5 +66,5 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2017 03:00:00 UTC";
 document.cookie
 ```
 
-
+但這個會所有的 cookie 值。
 
