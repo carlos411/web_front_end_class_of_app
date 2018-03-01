@@ -42,5 +42,7 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 
 ## 取得 cookie 的值
 
+## 刪除 cookie
+
 
 
