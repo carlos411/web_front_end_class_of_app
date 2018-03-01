@@ -44,7 +44,21 @@ Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
 ## 刪除 cookie
 
-只要為cookie指定「過去的時間」
+只要為cookie指定「過去的時間」即可刪除。
+
+例：
+
+建立一個名稱為 school 的 cookie，過期時間定為 `Thu, 18 Dec 2018 03:00:00 UTC`
+
+```js
+document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
+```
+
+若要將 school 刪除\(改成 2017 年即可直接刪除\)：
+
+```js
+document.cookie = "school=某某大學; expires=Thu, 18 Dec 2017 03:00:00 UTC";
+```
 
 ## 取得 cookie 的值
 
