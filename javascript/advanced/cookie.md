@@ -24,3 +24,15 @@ document.cookie = "school=某某大學";
 
 ![](/assets/cookie_info2.png)
 
+## 設定 cookie 的過期時間
+
+```js
+document.cookie = "username=John Doe; expires=Thu, 18 Dec 2013 12:00:00 UTC";
+```
+
+## 更改 cookie 的值
+
+
+
+http://coderstoolbox.net/unixtimestamp/
+
