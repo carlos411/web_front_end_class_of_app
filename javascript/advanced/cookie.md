@@ -40,5 +40,7 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 
 與建立 cookie 的語法是一樣的，只要 cookie 的名稱相同，就會直接更改相同名稱的 cookie。
 
-[http://coderstoolbox.net/unixtimestamp/](http://coderstoolbox.net/unixtimestamp/)
+## 取得 cookie 的值
+
+
 
