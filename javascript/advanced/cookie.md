@@ -20,5 +20,7 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、�
 document.cookie = "school=某某大學";
 ```
 
+通常沒有設定過期的時間的話，整個結束瀏覽器的話，該 cookie 就會自動被刪除。
 
+![](/assets/cookie_info2.png)
 
