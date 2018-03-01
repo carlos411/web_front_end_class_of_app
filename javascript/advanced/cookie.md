@@ -68,10 +68,10 @@ document.cookie
 
 但這個會所有的 cookie 值。例如有兩個 cookie，分別是：
 
-* name1=value1
-* name2=value2
+* school='某某大學'
+* school\_another='另一間'
 
-document.cookie 就會取得 `name1=value1; name2=value2`。
+document.cookie 就會取得 `"school=某某大學; school_another=另一間"`。
 
 其實不方便使用。
 
