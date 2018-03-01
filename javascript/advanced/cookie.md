@@ -36,7 +36,7 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 
 ![](/assets/cookie_info4.png)
 
-1970年1月1日0時0分0秒起至現在的總秒數
+Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
 ## 更改 cookie 的值
 
