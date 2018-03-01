@@ -75,5 +75,24 @@ document.cookie 就會取得 `name1=value1; name2=value2`。
 
 不方便使用。
 
+現成的函式：
 
+```js
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+```
+
+就可以直接使用 getCookie\('school'\) 來取得 cookie 的值。
 
