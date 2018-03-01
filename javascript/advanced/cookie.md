@@ -73,9 +73,9 @@ document.cookie
 
 document.cookie 就會取得 `name1=value1; name2=value2`。
 
-不方便使用。
+其實不方便使用。
 
-現成的函式：
+另有現成的函式，可方便直接取得 cookie 的值：
 
 ```js
 function getCookie(cname) {
