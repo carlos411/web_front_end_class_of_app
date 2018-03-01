@@ -27,10 +27,16 @@ document.cookie = "school=某某大學";
 ## 設定 cookie 的過期時間
 
 ```js
-document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 12:00:00 UTC";
+document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 ```
 
+![](/assets/cookie_info3.png)
+
 ## 更改 cookie 的值
+
+與建立 cookie 的語法是一樣的，只要 cookie 的名稱相同，就會直接更改相同名稱的 cookie。
+
+
 
 [http://coderstoolbox.net/unixtimestamp/](http://coderstoolbox.net/unixtimestamp/)
 
