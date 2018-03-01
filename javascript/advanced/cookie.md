@@ -10,7 +10,7 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、�
 
 ## 在哪裡可看到 cookie 資訊？
 
-以 Chrome 瀏覽器為例：如下圖
+以 Chrome 瀏覽器為例：如下圖\(`cmd + option + i`，切換到 Application 頁籤\)
 
 ![](/assets/cookie_info.png)
 
