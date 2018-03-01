@@ -14,3 +14,7 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、�
 
 ![](/assets/cookie_info.png)
 
+## 使用 JS 建立/刪除 cooke 的值
+
+
+
