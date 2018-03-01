@@ -66,5 +66,14 @@ document.cookie = "school=某某大學; expires=Thu, 18 Dec 2017 03:00:00 UTC";
 document.cookie
 ```
 
-但這個會所有的 cookie 值。
+但這個會所有的 cookie 值。例如有兩個 cookie，分別是：
+
+* name1=value1
+* name2=value2
+
+document.cookie 就會取得 `name1=value1; name2=value2`。
+
+不方便使用。
+
+
 
