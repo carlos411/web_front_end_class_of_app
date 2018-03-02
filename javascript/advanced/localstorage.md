@@ -20,7 +20,7 @@ localStorage["key_name"] = "key_value";
 
 ![](/assets/localstorage_1.png)
 
-註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。可取出後，再透過 parseInt\(\) 函式，轉成整數形態即可。
+註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。可取出後，再透過 `parseInt()` 函式，轉成整數形態即可。
 
 ## 取得
 
