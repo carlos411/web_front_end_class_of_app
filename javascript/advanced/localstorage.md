@@ -20,3 +20,15 @@ localStorage["key_name"] = "key_value";
 
 ![](/assets/localstorage_1.png)
 
+## 取得
+
+```js
+// 語法一
+var get_value = localStorage.getItem("key_name");
+
+// 語法二
+var get_value = localStorage["key_name"];
+```
+
+
+
