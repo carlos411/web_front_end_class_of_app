@@ -24,10 +24,10 @@ localStorage["key_name"] = "key_value";
 
 ```js
 // 語法一
-var get_value = localStorage.getItem("key_name");
+var get_value = localStorage.getItem("key_name"); // get_value 的值為 key_value
 
 // 語法二
-var get_value = localStorage["key_name"];
+var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 ```
 
 
