@@ -6,10 +6,14 @@
 
 ## 儲存
 
-於 console 分頁當中，輸入以下：
+於 console 分頁當中，輸入以下\(有兩種語法\)：
 
 ```js
+// 語法一
 localStorage.setItem("key_name", "key_value");
+
+// 語法二
+localStorage["key_name"] = "key_value";
 ```
 
 下圖可看到在 Application → Storage → Local Storage 中，已儲存了一個「鍵的名稱為 **key\_**_**name**，該鍵之值為 **key\_value**_」
