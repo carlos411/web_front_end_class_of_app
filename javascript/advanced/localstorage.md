@@ -2,7 +2,7 @@
 
 相對於 cookie ，localstorage 有更多的儲存空間\(大約 5MB\)，且有較多的函式可以使用。
 
-隨意開啟一個網頁或瀏覽\(http://carlos-studio.com\)。開啟開發者工具\(`cmd + option + i`\)來測試：
+隨意開啟一個網頁或瀏覽\( http://carlos-studio.com\ )。開啟開發者工具\(`cmd + option + i`\)來測試：
 
 ## 儲存
 
