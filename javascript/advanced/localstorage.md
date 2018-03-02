@@ -32,7 +32,7 @@ var get_value = localStorage.getItem("key_name"); // get_value 的值為 key_val
 var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 ```
 
-## 儲存
+## 刪除
 
 
 
