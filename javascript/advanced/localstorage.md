@@ -22,8 +22,6 @@ localStorage["key_name"] = "key_value";
 
 註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。
 
-
-
 ## 取得
 
 ```js
