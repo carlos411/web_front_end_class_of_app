@@ -12,7 +12,7 @@
 localStorage.setItem("key_name", "key_value");
 ```
 
-下圖可看到在 Local Storage 中，已儲存了一個「鍵的名稱為 **key\_**_**name**，該鍵之值為 **key\_value**_」
+下圖可看到在 Application → Local Storage 中，已儲存了一個「鍵的名稱為 **key\_**_**name**，該鍵之值為 **key\_value**_」
 
 ![](/assets/localstorage_1.png)
 
