@@ -20,6 +20,10 @@ localStorage["key_name"] = "key_value";
 
 ![](/assets/localstorage_1.png)
 
+註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。
+
+
+
 ## 取得
 
 ```js
@@ -29,6 +33,8 @@ var get_value = localStorage.getItem("key_name"); // get_value 的值為 key_val
 // 語法二
 var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 ```
+
+## 儲存
 
 
 
