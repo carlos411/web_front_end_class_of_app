@@ -40,5 +40,7 @@ var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 localStorage.removeItem("key_name");
 ```
 
+## 全部刪除
 
+將 localStorage 中的全部資料都清除：
 
