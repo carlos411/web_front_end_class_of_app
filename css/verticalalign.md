@@ -31,7 +31,7 @@
 </html>
 ```
 
-結果如圖：\(發現「第二項」、「第三項」都到下方了，因為 vertical-align 預設為 baseline 的 關係。\)
+結果如圖：\(發現「第二項」、「第三項」都到下方了，因為 vertical-align 預設為 **baseline** 的關係，會對齊下方。\)
 
 ![](/assets/垂直方向對齊_default.png)
 
