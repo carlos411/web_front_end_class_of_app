@@ -2,9 +2,9 @@
 
 同一個層級的元素當中，垂直方向的對齊方式。主要有三個可設定的值：
 
-* top：垂直方向的對齊位置，上方。
-* middle：垂直方向的對齊位置，中間。
-* bottom：垂直方向的對齊位置，下方。
+* top：垂直方向的對齊位置，上方對齊。
+* middle：垂直方向的對齊位置，中間對齊。
+* bottom：垂直方向的對齊位置，下方對齊。
 
 ## 範例
 
@@ -41,7 +41,8 @@
 ul li{
   display: inline-block;
   border:1px solid red;
-  vertical-align:text-top;
+  /* 垂直方向的對齊方式：上方對齊 */
+  vertical-align:top;
 }
 ```
 
