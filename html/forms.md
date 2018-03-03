@@ -14,7 +14,7 @@
 
 **method**：可以是 **get** 或 **post**。若是 get 的話，表示資料會呈現於網址當中，post 則不會出現在網址當中，相對較安全。
 
-資料呈現於網址中的範例：\`http://carlos-studio.com/**?address=abc&zone-234**\`
+資料呈現於網址中的範例：\`[http://carlos-studio.com/?address=abc&zone-234\`](http://carlos-studio.com/**?address=abc&zone-234**`)
 
 ## 文字框
 
