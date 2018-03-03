@@ -41,6 +41,7 @@
 ul li{
   display: inline-block;
   border:1px solid red;
+  
   /* 垂直方向的對齊方式：上方對齊 */
   vertical-align:top;
 }
