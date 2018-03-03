@@ -39,7 +39,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="radio" name="custom_name" value="2"> 否
 ```
 
-`checked`：選取。
+`checked`：是表示要選取的意思。
 
 ## 勾選
 
