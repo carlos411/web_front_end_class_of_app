@@ -31,7 +31,7 @@
 </html>
 ```
 
-結果如圖：
+結果如圖：\(發現「第二項」、「第三項」都到下方了，因為 vertical-align 為 bottom 的 關係。\)
 
 ![](/assets/垂直方向對齊_default.png)
 
