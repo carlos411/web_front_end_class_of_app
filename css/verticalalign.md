@@ -10,7 +10,6 @@
 
 檔案所在路徑：`css/3.15/`。
 
-
 ```html
 <!doctype html>
 <html>
@@ -34,7 +33,7 @@
 </html>
 ```
 
-結果如圖：\(發現「第二項」、「第三項」都到下方了，因為 vertical-align 預設為 **baseline** 的關係，會對齊下方。\)
+結果如圖：\(發現「第二項」、「第三項」都到下方了，因為 vertical-align 預設為 **baseline** 的關係，實測與 bottom 的結果相同，會對齊下方。\)
 
 ![](/assets/垂直方向對齊_default.png)
 
