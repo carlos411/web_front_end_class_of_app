@@ -49,3 +49,7 @@ ul li{
 
 ![](/assets/垂直對齊方向_top.png)
 
+若將 vertical-align 改成 **middle**，則：
+
+
+
