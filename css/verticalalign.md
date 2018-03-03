@@ -31,7 +31,9 @@
 </html>
 ```
 
+結果如圖：
 
+![](/assets/垂直方向對齊_default.png)
 
 將上述的 CSS 部份改成：
 
