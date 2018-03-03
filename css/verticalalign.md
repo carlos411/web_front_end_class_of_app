@@ -18,7 +18,6 @@
     ul li{
       display: inline-block;
       border:1px solid red;
-      /*vertical-align:text-top;*/
     }
     </style>
   </head>
@@ -34,13 +33,12 @@
 
 將上述的 CSS 部份改成：
 
-```
+```css
 ul li{
   display: inline-block;
   border:1px solid red;
-      /*vertical-align:text-top;*/
-    }
-
+  vertical-align:text-top;
+}
 ```
 
 
