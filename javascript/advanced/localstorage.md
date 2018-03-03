@@ -44,3 +44,9 @@ localStorage.removeItem("key_name");
 
 將 localStorage 中的全部資料都清除：
 
+```js
+localStorage.clear();
+```
+
+
+
