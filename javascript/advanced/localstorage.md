@@ -34,7 +34,7 @@ var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 
 ## 刪除
 
-移除特定key及所對應的值。
+移除特定 key 及所對應的值：
 
 ```js
 localStorage.removeItem("key_name");
