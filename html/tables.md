@@ -150,7 +150,7 @@
 
 ![](/assets/進階結構.png)
 
-## rowspan 與 colspan
+## rowspan 與 colspan 合併欄位
 
 檔案所在路徑：`html/2.12/index.html`
 
