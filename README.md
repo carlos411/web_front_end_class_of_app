@@ -4,7 +4,7 @@
 
 這三者分別代表的意義：
 
-# 1.1 HTML = HyperText Markup Language
+# HTML = HyperText Markup Language
 
 HTML 負責「**結構**」、「**語意**」。
 
@@ -12,15 +12,15 @@ HTML 負責「**結構**」、「**語意**」。
 
 「語意」做的好，對「SEO」有幫助。
 
-# 1.2 CSS = Cascading Style Sheets
+# CSS = Cascading Style Sheets
 
 CSS 負責網頁的「**外觀**」，包含了視覺風格、排版。
 
-# 1.3 JS = JavaScript
+# JS = JavaScript
 
 JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動操作。
 
-# 1.4 練習：第一個網頁
+# 練習：第一個網頁
 
 檔案所在路徑：`簡介/`
 
