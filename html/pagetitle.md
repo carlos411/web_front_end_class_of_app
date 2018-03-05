@@ -1,4 +1,4 @@
-# 2.3.1 網頁標題 - &lt;title&gt;...&lt;/title&gt;
+# 2.3 網頁標題 - &lt;title&gt;...&lt;/title&gt;
 
 ## 語意
 
