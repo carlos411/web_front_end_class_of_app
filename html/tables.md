@@ -182,6 +182,8 @@
 </table>
 ```
 
+![](/assets/table_rowspan.png)
+
 ```html
 <table>
   <tr>
