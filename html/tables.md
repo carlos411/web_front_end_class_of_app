@@ -155,7 +155,18 @@
 * rowspan：以「列」的方向，合併幾個欄位。
 * colspan：以「行」的方向，合併幾個欄位。
 
-
+```html
+<table>
+  <tr>
+    <td>第一列第一欄</td>
+    <td>第一列第二欄</td>
+  </tr>
+  <tr>
+    <td>第二列第一欄</td>
+    <td>第二列第二欄</td>
+  </tr>
+</table>
+```
 
 ```html
 <table>
