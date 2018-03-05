@@ -152,8 +152,8 @@
 
 ## rowspan 與 colspan 合併欄位
 
-* rowspan：以「列」的方向，合併幾個欄位。
-* colspan：以「行」的方向，合併幾個欄位。
+* rowspan：以「列」的方式來算，合併幾個欄位。
+* colspan：以「行」的方式來算，合併幾個欄位。
 
 ```html
 <table>
