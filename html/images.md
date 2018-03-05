@@ -1,6 +1,6 @@
 # 2.11 圖片 - &lt;img&gt;
 
-`<img src="#">`
+`<img src="#">`：src 為圖片的路徑。
 
 `<img>` 為 **im**a**g**e 的縮寫。
 
