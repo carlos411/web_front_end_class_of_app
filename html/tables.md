@@ -152,6 +152,18 @@
 
 ## rowspan 與 colspan 合併欄位
 
+```html
+<table>
+  <tr>
+    <td rowspan="2">第一列第一欄</td>
+    <td>第一列第二欄</td>
+  </tr>
+  <tr>
+    <td>第二列第二欄</td>
+  </tr>
+</table>
+```
+
 檔案所在路徑：`html/2.12/index.html`
 
 ## 練習
