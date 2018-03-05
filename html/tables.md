@@ -168,6 +168,8 @@
 </table>
 ```
 
+![](/assets/table_original.png)
+
 ```html
 <table>
   <tr>
@@ -175,6 +177,18 @@
     <td>第一列第二欄</td>
   </tr>
   <tr>
+    <td>第二列第二欄</td>
+  </tr>
+</table>
+```
+
+```html
+<table>
+  <tr>
+    <td colspan="2">第一列第一欄</td>
+  </tr>
+  <tr>
+    <td>第二列第一欄</td>
     <td>第二列第二欄</td>
   </tr>
 </table>
