@@ -150,6 +150,10 @@
 
 ![](/assets/進階結構.png)
 
+## rowspan 與 colspan
+
+檔案所在路徑：`html/2.12/index.html`
+
 ## 練習
 
 試著將範例於自己的網頁呈現，並瞭解表格的結構。
