@@ -1,4 +1,6 @@
-# 2.1.1 宣告\(Declaration\)
+# 2.1 宣告、標籤、屬性、元素
+
+## 宣告\(Declaration\)
 
 ~~HTML 4.01 Strict~~
 
@@ -18,19 +20,19 @@
 <!DOCTYPE html>
 ```
 
-# 2.1.2 標籤\(Tags\)
+## 標籤\(Tags\)
 
 ![](/assets/標籤.png)
 
-# 2.1.3 屬性\(Attributes\)
+## 屬性\(Attributes\)
 
 ![](/assets/屬性.png)
 
-# 2.1.4 元素\(Elements\)
+## 元素\(Elements\)
 
 ![](/assets/元素.png)
 
-# 2.1.5 撰寫原則及基本觀念
+## 撰寫原則及基本觀念
 
 * 所有標籤一律小寫。
 * 多個連續空格，瀏覽器會視為只有一個空格。
@@ -38,4 +40,6 @@
 * 縮排一律用 2 個空格或 4 個空格。
 * &lt;html&gt; 標籤內只有 &lt;head&gt; 和 &lt;body&gt; 兩個標籤。
 * `<html>` 是 `<head>` 及 `<body>` 的**父元素**；相反地，`<head>` 及 `<body>` 是 `<html>` 的**子元素**。
+
+
 
