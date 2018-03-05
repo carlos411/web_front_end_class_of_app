@@ -196,6 +196,8 @@
 </table>
 ```
 
+![](/assets/table_colspan.png)
+
 ## 練習
 
 檔案所在路徑：`html/2.12/index.html`
