@@ -41,7 +41,7 @@
 
 3、請在`<head>`區段，貼上以下的 css style，看看差異：
 
-```html
+```css
 <head>
   <style>
     /* 未點擊過的連結：黑色 */
