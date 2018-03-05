@@ -1,6 +1,6 @@
 # 2.8 列表
 
-## 2.8.1 有序列表 - &lt;ol&gt;...&lt;/ol&gt;
+## 有序列表 - &lt;ol&gt;...&lt;/ol&gt;
 
 `<ol>`：**o**rder **l**ist
 
@@ -24,7 +24,7 @@
 
 ![](/assets/有序列表.png)
 
-## 2.8.2 無序列表 - &lt;ul&gt;...&lt;/ul&gt;
+## 無序列表 - &lt;ul&gt;...&lt;/ul&gt;
 
 `<ul>`：**u**norder **l**ist
 
