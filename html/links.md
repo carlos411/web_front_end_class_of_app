@@ -7,7 +7,7 @@
 基本語法
 
 ```html
-<a href="http://tw.yahoo.com">這是連結</a>
+<a href="http://dropbox.com">這是連結</a>
 
 <!-- 習慣上，有的時候暫時還沒有連結的時候，習慣先以 # 代替 -->
 <a href="#">這是連結</a>
@@ -21,7 +21,7 @@
 * \_blank：開新分頁。
 
 ```html
-<a href="http://tw.yahoo.com" target="_blank">這是連結</a>
+<a href="http://dropbox.com" target="_blank">這是連結</a>
 ```
 
 ## 其他說明
