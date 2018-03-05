@@ -1,4 +1,4 @@
-# 2.4.1 中介資料\(Meta Data\) - &lt;meta&gt;
+# 2.4 中介資料\(Meta Data\) - &lt;meta&gt;
 
 ## 語意
 
