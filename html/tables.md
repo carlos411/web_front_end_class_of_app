@@ -202,5 +202,7 @@
 
 檔案所在路徑：`html/2.12/index.html`
 
-開啟練習的檔案，試著
+試著畫出下方表格：
+
+![](/assets/table_practice.png)
 
