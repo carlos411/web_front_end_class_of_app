@@ -52,5 +52,5 @@
 
 檔案所在路徑：`html/2.13/index.html`
 
-請開啟練習的檔案，使用了 iframe 載入 youtube 的影片及外站。
+請開啟練習的檔案，使用了 iframe 載入 youtube 的影片及其它網站。
 
