@@ -10,7 +10,9 @@
 
 [如何設計好網站：Don't make me think http://www.books.com.tw/products/0010651534](http://www.books.com.tw/products/0010651534)
 
+[CSS Secrets 中文版：解決網頁設計問題的有效秘訣 http://www.books.com.tw/products/0010702536](http://www.books.com.tw/products/0010702536)
 
+[你所不知道的 JS \| 導讀，型別與文法 \(You Don't Know JS: Up & Going\)](https://www.tenlong.com.tw/products/9789863479666)
 
 ## HTML
 
@@ -39,6 +41,4 @@
 [JSON Parser](http://json.parser.online.fr/)
 
 [XML Viewer](https://codebeautify.org/xmlviewer)
-
-書籍
 
