@@ -34,15 +34,15 @@
 
 ## JavaScript
 
-[w3schools JS](https://www.w3schools.com/js/)
+[w3schools JS https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 
 [jQuery 官網 http://jquery.com/](http://jquery.com/)
 
-[jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
+[jQuery 的 Ajax 完整官網資源 http://api.jquery.com/jQuery.ajax/](http://api.jquery.com/jQuery.ajax/)
 
 ## 其它連結
 
-[JSON Parser](http://json.parser.online.fr/)
+[JSON Parser http://json.parser.online.fr/](http://json.parser.online.fr/)
 
-[XML Viewer](https://codebeautify.org/xmlviewer)
+[XML Viewer https://codebeautify.org/xmlviewer](https://codebeautify.org/xmlviewer)
 
