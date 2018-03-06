@@ -12,7 +12,7 @@
 
 **action**：值是一個網址，代表要將使用者填入的資料，送至此網址。
 
-**method**：可以是 **get** 或 **post**。若是 get 的話，表示資料會呈現於網址當中，post 則不會出現在網址當中，相對較安全。
+**method**：送資料至 action 所指向的網址，傳送的方式基本上有 **get** 或 **post** 兩種方式。若是 get 的話，表示資料會呈現於網址當中，post 則不會出現在網址當中，相對較安全。
 
 get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-studio.com/**?address=abc&zone-234**`)，資料以 **?** 做開始，以 **&** 做分隔。所以 address 是欄位名稱\(name\)，**=** 後面緊接著是 address 的值，
 
