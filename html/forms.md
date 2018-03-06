@@ -94,7 +94,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
   <br>
 
-  <input type="radio" name="custom_name" value="2"> 否
+  <label><input type="radio" name="custom_name" value="2"> 否</label>
 
   <br>
 
@@ -122,5 +122,5 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 結果呈現：
 
-![](/assets/表單基礎.png)
+
 
