@@ -8,7 +8,7 @@
 
 頁面主內容 - `<main>…</main>`：一個網頁只能有一個 `<main>...</main>` 標籤。
 
-獨立區塊 - `<article>…</article>`：表示是獨立的區塊，可在網頁任意地方出現。
+獨立區塊 - `<article>…</article>`：表示是獨立的區塊，可在網頁任意地方重覆出現。
 
 頁面區段 - `<section>…</section>`
 
