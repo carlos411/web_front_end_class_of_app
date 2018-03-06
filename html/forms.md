@@ -83,7 +83,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
   <br>
 
-  <textarea name="content">這裡是文字</textarea>
+  <textarea name="content" rows="5" cols="30">這裡是文字</textarea>
 
   <br>
 
