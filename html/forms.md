@@ -75,7 +75,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="submit" value="這是資料送出按鈕">
 ```
 
-## 範例練習
+## 練習
 
 ```html
 <form action="#" method="get">
