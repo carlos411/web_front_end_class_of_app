@@ -28,6 +28,12 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="password" name="the_password">
 ```
 
+## 文字框：隱藏
+
+```html
+<input type="hidden" name="the_hide_data">
+```
+
 ## 多行文字框
 
 ```html
