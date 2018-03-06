@@ -77,10 +77,12 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 練習
 
+檔案所在路徑：`html/2.16/index.html`
+
 ```html
 <form action="#" method="get">
   <input type="text" name="address">
-  
+
   <br>
   <br>
 
