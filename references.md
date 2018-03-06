@@ -14,6 +14,8 @@
 
 [你所不知道的 JS \| 導讀，型別與文法 \(You Don't Know JS: Up & Going\)](https://www.tenlong.com.tw/products/9789863479666)
 
+[你所不知道的 JS｜範疇與Closures，this與物件原型](https://www.tenlong.com.tw/products/9789864760497)
+
 ## HTML
 
 [所有標籤：https://www.w3schools.com/tags/](https://www.w3schools.com/tags/ "w3schools")
