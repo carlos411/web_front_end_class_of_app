@@ -22,6 +22,12 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="text" name="address" value="這是內容" placeholder="提示文字">
 ```
 
+## 文字框：密碼
+
+```
+<input type="text" name="address" value="這是內容" placeholder="提示文字">
+```
+
 ## 多行文字框
 
 ```html
