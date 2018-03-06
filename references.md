@@ -18,6 +18,8 @@
 
 ## JavaScript
 
+[jQuery 官網 http://jquery.com/](http://jquery.com/)
+
 [jQuery 的 Ajax 完整官網資源](http://api.jquery.com/jQuery.ajax/)
 
 ## 其它連結
