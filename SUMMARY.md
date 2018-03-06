@@ -16,7 +16,7 @@
   * [2.12 表格](html/tables.md)
   * [2.13 嵌入內容](html/embediframe.md)
   * [2.14 span 和 div](html/spananddiv.md)
-  * [2.15 結構](html/sectioning.md)
+  * [2.15 有結構的語意元素](html/sectioning.md)
   * [2.16 表單](html/forms.md)
   * [2.17 HTML Entity\(實體\)](html/htmlentity.md)
 * [3. CSS](css.md)
