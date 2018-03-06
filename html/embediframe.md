@@ -52,5 +52,5 @@
 
 檔案所在路徑：`html/2.13/index.html`
 
-請在您的網頁上試試 `<iframe>` 的呈現結果，並瞭解 `<iframe>` 的結構。
+請開啟練習的檔案，使用了 iframe 載入 youtube 的影片及外站。
 
