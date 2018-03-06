@@ -51,6 +51,8 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 `checked`：勾選。
 
+註：若有加上 `<label>...</label>` 標籤，有助於使用者的操作方便。
+
 ## 下拉選單
 
 ```html
