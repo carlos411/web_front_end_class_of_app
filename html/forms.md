@@ -94,13 +94,13 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
   <input type="radio" name="custom_name" value="1"> 是
 
-  <br>
-
   <label><input type="radio" name="custom_name" value="2"> 否</label>
 
   <br>
 
-  <input type="checkbox" name="habits"> 興趣1
+  <label><input type="checkbox" name="habits"> 興趣1</label>
+
+  <label><input type="checkbox" name="habits"> 興趣2</label>
 
   <br>
 
@@ -113,6 +113,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
   <br>
 
   <button type="button">這是一般按鈕</button>
+
   <br>
 
   <button type="submit">這是資料送出按鈕(使用 button)</button>
