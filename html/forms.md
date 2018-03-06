@@ -80,6 +80,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 ```html
 <form action="#" method="get">
   <input type="text" name="address">
+  
   <br>
   <br>
 
