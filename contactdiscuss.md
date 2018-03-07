@@ -14,5 +14,5 @@ Email：chang.abin@gmail.com
 
 [公司官網\(規劃中\)：iimpressive.com](/iimpressive.com)
 
-社群
+Line 群組
 
