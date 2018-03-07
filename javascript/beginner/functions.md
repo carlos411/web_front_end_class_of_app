@@ -24,6 +24,8 @@ var result = myFunction();
 
 ## 練習
 
+檔案所在路徑：`js/4.1.8/index.html`
+
 於瀏覽器中執行，並觀察程式的執行流程、函數的使用：
 
 ```js
