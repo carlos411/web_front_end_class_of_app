@@ -22,6 +22,8 @@ $.ajax({
 
 ## 完整範例
 
+檔案所在路徑：`js/4.3.3/index.html`
+
 php
 
 ```php
