@@ -53,7 +53,11 @@ div_block.append(para);
 para.text("新貼入的文字");
 ```
 
-## 完整範例
 
-檔案所在路徑：`js/4.2.6/`。
+
+## 練習
+
+開啟以下兩個檔案觀察：
+
+檔案所在路徑：`js/4.2.6/index.html`、`js/4.2.6/index_jquery.html`。
 
