@@ -107,5 +107,5 @@ index.html 點兩下於瀏覽器中直接開啟。
 
 ## 練習之檔案下載
 
-
+[下載連結](http://notes.carlos-studio.com/download/web_front_end_practice.zip)
 
