@@ -97,7 +97,12 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ```html
 <form action="#" method="get">
-  <input type="text" name="address">
+  <input type="text" name="address" placeholder="提示文字">
+
+  <br>
+  <br>
+
+  <input type="password" name="password">
 
   <br>
   <br>
@@ -112,10 +117,10 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
   <br>
 
-  <label><input type="checkbox" name="habits"> 興趣1</label>
+  <input type="checkbox" name="habits"> 興趣1
 
   <label><input type="checkbox" name="habits"> 興趣2</label>
-  
+
   <input type="checkbox" name="habits" id="habit_3"> <label for="habit_3">興趣3</label>
 
   <br>
