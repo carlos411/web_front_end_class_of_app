@@ -31,7 +31,9 @@ var div_block_1 = $("#div_block_1");
 $(div_block_1).remove();
 ```
 
-## 完整範例
+## 練習
 
-檔案所在路徑：`js/4.2.7/`。
+開啟以下兩個檔案觀察：
+
+檔案所在路徑：`js/4.2.7/index.html`、`js/4.2.7/index_jquery.html`。
 
