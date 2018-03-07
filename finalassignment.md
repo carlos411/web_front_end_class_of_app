@@ -12,7 +12,7 @@
 
 2、設定整體版面最小寬度為 768px。
 
-
+3、中間整體內容區需頁面置中。
 
 ![](/assets/assignment_desktop.png)
 
