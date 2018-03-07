@@ -63,7 +63,9 @@ $(para_ele).attr("class", "change_style");
 $(para_ele).removeAttr("class");
 ```
 
-## 完整範例
+## 練習
+
+開啟以下兩個檔案觀察：
 
 檔案所在路徑：`js/4.2.5/index.html`、`js/4.2.5/index_jquery.html`。
 
