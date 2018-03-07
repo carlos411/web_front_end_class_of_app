@@ -115,6 +115,8 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
   <label><input type="checkbox" name="habits"> 興趣1</label>
 
   <label><input type="checkbox" name="habits"> 興趣2</label>
+  
+  <input type="checkbox" name="habits" id="habit_3"> <label for="habit_3">興趣3</label>
 
   <br>
 
