@@ -31,7 +31,9 @@
 
 ![](/assets/condition_switch_2.png)
 
-## 範例
+## 練習
+
+檔案所在路徑：`js/4.1.6/index.html`
 
 請自行創立一個 html 檔案，貼上以下全部程式，用瀏覽器執行，觀察執行情況：
 
