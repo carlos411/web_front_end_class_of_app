@@ -65,5 +65,5 @@ $(para_ele).removeAttr("class");
 
 ## 完整範例
 
-檔案所在路徑：`js/4.2.5/`。
+檔案所在路徑：`js/4.2.5/index.html`、`js/4.2.5/index_jquery.html`。
 
