@@ -8,7 +8,7 @@
 
 ## 範例
 
-檔案所在路徑：`css/3.15/`。
+檔案所在路徑：`css/3.15/index.html`。
 
 ```html
 <!doctype html>
