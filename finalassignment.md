@@ -4,8 +4,6 @@
 
 ![](/assets/assignment_draft.png)
 
-
-
 題目：
 
 1、完成下圖的排版。\(圖片、內容皆可自行變更\)
@@ -19,6 +17,8 @@
 2、設定 768px 以上為桌機版，767以下為行動版。
 
 3、中間整體內容區需頁面置中。
+
+桌機版：
 
 ![](/assets/assignment_desktop.png)
 
