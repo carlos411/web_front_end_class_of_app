@@ -22,3 +22,7 @@
 
 ![](/assets/assignment_desktop.png)
 
+行動版：
+
+![](/assets/assignment_mobile.png)
+
