@@ -2,9 +2,9 @@
 
 一般會提供如下設計稿：
 
-桌機版：
-
 ![](/assets/assignment_draft.png)
+
+
 
 題目：
 
