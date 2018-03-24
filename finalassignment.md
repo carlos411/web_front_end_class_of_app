@@ -18,6 +18,8 @@
 
 3、中間整體內容區需頁面置中。
 
+4、[兩張圖片下載](http://notes.carlos-studio.com/download/web_front_end_practice_assignment.zip)。
+
 \(註：以上說明皆非制式，可自由彈性變更。\)
 
 桌機版：
