@@ -64,7 +64,7 @@ CSS：
 
 ![](/assets/box_model_example3.png)
 
-留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。\(不需要記。\)
+留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
 ## 練習：學會觀察
 
