@@ -30,5 +30,7 @@
 
 ![](/assets/assignment_mobile.png)
 
+## 上傳至 ftp
 
+![](/assets/ftp_dir.png)
 
