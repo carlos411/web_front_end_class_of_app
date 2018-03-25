@@ -32,5 +32,14 @@
 
 ## 上傳至 ftp
 
+進到 **students** 資料夾。然後依照您的學號建立自己的資料夾，上傳至此。
+
+例：學號為 1，則建立以下檔案及資料夾：
+
+* students/1/index.html
+* students/1/images/
+* students/1/css/
+* students/1/js/
+
 ![](/assets/ftp_dir.png)
 
