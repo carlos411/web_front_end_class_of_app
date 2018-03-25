@@ -1,4 +1,4 @@
-# 3.5 區塊模型\(Box Model\)
+# 3.6 區塊模型\(Box Model\)
 
 **margin**：border 往外的距離。
 
@@ -68,7 +68,7 @@ CSS：
 
 ## 練習：學會觀察
 
-檔案所在路徑：`css/3.5/index.html`
+檔案所在路徑：`css/3.6/index.html`
 
 請使用以下的程式在瀏覽器中執行，並學會使用 console 來查看 box model 的各數值。
 
