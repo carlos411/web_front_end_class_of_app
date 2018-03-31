@@ -66,9 +66,9 @@ CSS：
 
 留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
-## 區塊大小\(box-sizing\)
-
 ## 縮寫簡介
+
+## 區塊大小\(box-sizing\)
 
 ## 練習：學會觀察
 
