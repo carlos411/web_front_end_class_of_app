@@ -66,6 +66,10 @@ CSS：
 
 留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
+## 區塊大小\(box-sizing\)
+
+
+
 ## 練習：學會觀察
 
 檔案所在路徑：`css/3.6/index.html`
