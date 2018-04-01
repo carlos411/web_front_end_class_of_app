@@ -114,7 +114,8 @@ css 改成如下：
 div.test_div{
   border:2px solid red;
   width: 100px;
-
+  
+  /* 加上以下這行 */
   box-sizing: border-box;
 }
 ```
