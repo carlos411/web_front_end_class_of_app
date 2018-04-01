@@ -18,7 +18,7 @@ px：固定單位
 
 em：相對單位，相較於父元素
 
-rem：相對單位，相較於 html 根元素
+rem：相對單位，相較於 `<html>` 根元素
 
 html
 
@@ -46,6 +46,10 @@ html{
   */
 }
 div.text1{
+  font-size: 2rem;
+}
+div.text2{
+  font-size: 2em;
 }
 ```
 
