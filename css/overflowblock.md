@@ -26,3 +26,18 @@ div.test_div{
 
 ![](/assets/overflow_1.png)
 
+css 改成…
+
+```css
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+```
+
+結果如圖：
+
+![](/assets/overflow_2.png)
+
