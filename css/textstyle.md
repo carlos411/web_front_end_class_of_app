@@ -20,20 +20,30 @@ em：相對單位，相較於父元素
 
 rem：相對單位，相較於 html 根元素
 
+html
+
 ```html
 <!doctype html>
 <html>
   <head></head>
   <body>
-    <div>
+    <div class="text1">
       文字1
-      <div>文字2</div>
+      <div class="text2">文字2</div>
     </div>
   </body>
 </html>
 ```
 
+css
 
+```
+html{
+  font-size: 10px;
+}
+div.text1{
+}
+```
 
 ## 顏色指定格式
 
