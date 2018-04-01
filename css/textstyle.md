@@ -37,9 +37,13 @@ html
 
 css
 
-```
+```css
 html{
   font-size: 10px;
+  /*
+  或
+  font-size: 62.5%;
+  */
 }
 div.text1{
 }
