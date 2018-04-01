@@ -20,6 +20,21 @@ em：相對單位，相較於父元素
 
 rem：相對單位，相較於 html 根元素
 
+```html
+<!doctype html>
+<html>
+  <head></head>
+  <body>
+    <div>
+      文字1
+      <div>文字2</div>
+    </div>
+  </body>
+</html>
+```
+
+
+
 ## 顏色指定格式
 
 ## 練習
