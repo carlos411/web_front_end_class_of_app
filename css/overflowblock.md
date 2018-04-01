@@ -100,5 +100,18 @@ div.test_div{
 
 ![](/assets/overflow_5.png)
 
-限制單行，超出的話，尾端出現 `…` 符號：
+應用：限制單行，超出的話，尾端出現 `…` 省略符號：
+
+```css
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+  
+  white-space: nowrap;      /* 不斷行 */
+  overflow: hidden;         /* 隱藏 */
+  text-overflow: ellipsis;  /* 出現省略符號 */
+}
+```
+
+
 
