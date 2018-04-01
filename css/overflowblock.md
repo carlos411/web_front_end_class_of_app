@@ -62,8 +62,20 @@ div.test_div{
 
 ## 範例 2：水平方向
 
+html
+
 ```html
 <div class="test_div">這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容</div>
+```
+
+css
+
+```css
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+  white-space: nowrap;
+}
 ```
 
 
