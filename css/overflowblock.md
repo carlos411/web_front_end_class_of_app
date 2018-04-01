@@ -100,3 +100,5 @@ div.test_div{
 
 ![](/assets/overflow_5.png)
 
+限制單行，超出的話，尾端出現 `…` 符號：
+
