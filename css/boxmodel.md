@@ -84,10 +84,10 @@ padding 縮寫形式相同。
 
 ## 區塊大小\(box-sizing\)
 
-常用的有兩個值：**content-box** 和 **border-box**：
+常用的有兩個值：**content-box** 和 **border-box**：定義的是寬度從何處算起。
 
-* `content-box`：
-* `border-box`：
+* `content-box`：設定 width 時，寬度指的是內容寬。
+* `border-box`：設定 width 時，寬度指的是從邊框也算進去。
 
 ## 練習：學會觀察
 
