@@ -119,6 +119,10 @@ div.test_div{
 }
 ```
 
+結果如圖：\(可以發現寬度變成了 100px，也就是 border 及 padding 的寬度也會被包含在 width 所設定的寬度內。\)
+
+![](/assets/box_sizing_2.png)
+
 ## 練習：學會觀察
 
 檔案所在路徑：`css/3.6/index.html`
