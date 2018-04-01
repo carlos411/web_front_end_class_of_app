@@ -3,8 +3,6 @@
 當內容超出元素區域的，用來定義該如何處理超出的內容。常見可選的值有：
 
 * 
-
-
 ## 範例
 
 html
@@ -19,8 +17,11 @@ css
 div.test_div{
   border:2px solid red;
   width: 100px;
+  height: 100px;
 }
 ```
 
+結果如圖：
 
+![](/assets/overflow_1.png)
 
