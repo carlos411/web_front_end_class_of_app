@@ -106,12 +106,14 @@ div.test_div{
 div.test_div{
   border:2px solid red;
   width: 100px;
-  
+
   white-space: nowrap;      /* 不斷行 */
   overflow: hidden;         /* 隱藏 */
   text-overflow: ellipsis;  /* 出現省略符號 */
 }
 ```
 
+結果如圖：
 
+![](/assets/overflow_6.png)
 
