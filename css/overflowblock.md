@@ -89,12 +89,14 @@ div.test_div{
   width: 100px;
 
   white-space: nowrap; /* 遇到空白的話，限制該行不要斷行 */
-  
+
   /* 加上以下兩行 */
   overflow: scroll;
   height: 40px;
 }
 ```
 
+結果如圖：
 
+![](/assets/overflow_5.png)
 
