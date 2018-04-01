@@ -95,7 +95,7 @@ div.first img{
 
 ![](/assets/flaot4.png)
 
-## 解法：使用擬似元素 `::after`
+## 解法：使用擬似元素\(Pseudo Element\) `::after`
 
 修改 CSS 成：
 
@@ -106,7 +106,7 @@ div.first{
 }
 /* 增加 ::after 這個虛擬元素 */
 /*
- 1、在 div.first 的最尾端增加一個元素，可放入內容
+ 1、在 div.first 的最尾端增加一個擬似元素，可放入內容
  2、內容這裡設定成內容為「abc」的內容
  3、將該元素設定成區塊元素
  4、使用 clear: both 來設定此元素的左右側，都不能有任何元素。
