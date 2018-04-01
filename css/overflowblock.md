@@ -4,6 +4,7 @@
 
 * `visible`：這是預設值，即正常出現。
 * `hidden`：直接隱藏。
+* `scroll`：出現捲軸來滑動內容。
 
 ## 範例
 
@@ -34,6 +35,8 @@ div.test_div{
   border:2px solid red;
   width: 100px;
   height: 100px;
+  
+  /* 加上以下這行 */
   overflow: hidden;
 }
 ```
@@ -41,4 +44,19 @@ div.test_div{
 結果如圖：
 
 ![](/assets/overflow_2.png)
+
+或 css 改成如下：
+
+```css
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+  height: 100px;
+  
+  /* 加上以下這行 */
+  overflow: scroll;
+}
+```
+
+
 
