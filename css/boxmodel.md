@@ -89,17 +89,15 @@ padding 縮寫形式相同。
 * `content-box`：設定 width 時，寬度指的是內容寬。
 * `border-box`：設定 width 時，寬度指的是從邊框也算進去。
 
+html：
 
-
-html
-
-css
+css：
 
 ```css
 div.test_div{
-      border:2px solid red;
-      width: 100px;
-    }
+  border:2px solid red;
+  width: 100px;
+}
 ```
 
 ## 練習：學會觀察
