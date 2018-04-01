@@ -100,7 +100,7 @@ div.test_div{
 
 ![](/assets/overflow_5.png)
 
-應用：限制單行，超出的話，尾端出現 `…` 省略符號：
+## 應用：限制單行，超出的話，尾端出現 `…` 省略符號
 
 ```css
 div.test_div{
