@@ -6,7 +6,7 @@
 * `hidden`：直接隱藏。
 * `scroll`：出現捲軸來滑動內容。
 
-## 範例
+## 範例 1：垂直方向
 
 html
 
@@ -59,4 +59,10 @@ div.test_div{
 ```
 
 ![](/assets/overflow_3.png)
+
+## 範例 2：水平方向
+
+
+
+
 
