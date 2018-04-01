@@ -53,7 +53,7 @@ div.text2{
 }
 ```
 
-## 顏色指定格式\(介紹HSLA\)
+## 顏色指定格式\(介紹 HSLA\)
 
 **Hue-Saturation-Lightness-Alpha**
 
