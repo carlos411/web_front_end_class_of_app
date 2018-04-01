@@ -68,6 +68,11 @@ CSS：
 
 ## margin 和 padding 縮寫簡介
 
+分別都有: 
+
+* `margin-top`、`margin-right`、`margin-bottom`、`margin-left`
+* `padding-top`、`padding-right`、`padding-bottom`、`padding-left`
+
 ```
 margin: 10px;                /* 上、右、下、左，皆 10px */
 margin: 10px 20px;           /* 上、下皆 10px；左右皆 20px */
