@@ -110,11 +110,11 @@ div.test_div{
 
 css 改成如下：
 
-```
+```css
 div.test_div{
   border:2px solid red;
   width: 100px;
-  
+
   box-sizing: border-box;
 }
 ```
