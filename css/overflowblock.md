@@ -62,7 +62,9 @@ div.test_div{
 
 ## 範例 2：水平方向
 
-
+```html
+<div class="test_div">這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容</div>
+```
 
 
 
