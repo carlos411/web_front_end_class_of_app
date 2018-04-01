@@ -73,7 +73,7 @@ CSS：
 * `margin-top`、`margin-right`、`margin-bottom`、`margin-left`
 * `padding-top`、`padding-right`、`padding-bottom`、`padding-left`
 
-```
+```css
 margin: 10px;                /* 上、右、下、左，皆 10px */
 margin: 10px 20px;           /* 上、下皆 10px；左右皆 20px */
 margin: 10px 20px 30px;      /* 上 10px；左右皆 20px；下 30px */
@@ -88,6 +88,19 @@ padding 縮寫形式相同。
 
 * `content-box`：設定 width 時，寬度指的是內容寬。
 * `border-box`：設定 width 時，寬度指的是從邊框也算進去。
+
+
+
+html
+
+css
+
+```css
+div.test_div{
+      border:2px solid red;
+      width: 100px;
+    }
+```
 
 ## 練習：學會觀察
 
