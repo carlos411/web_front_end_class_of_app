@@ -91,6 +91,10 @@ padding 縮寫形式相同。
 
 html：
 
+```html
+<div class="test_div">這是 div 的內容</div>
+```
+
 css：
 
 ```css
