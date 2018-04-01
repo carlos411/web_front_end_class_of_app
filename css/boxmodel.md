@@ -68,7 +68,7 @@ CSS：
 
 ## margin 和 padding 縮寫簡介
 
-分別都有: 
+分別都有:
 
 * `margin-top`、`margin-right`、`margin-bottom`、`margin-left`
 * `padding-top`、`padding-right`、`padding-bottom`、`padding-left`
@@ -83,6 +83,11 @@ margin: 10px 20px 30px 40px; /* 按照上、右、下、左的順序，依序為
 padding 縮寫形式相同。
 
 ## 區塊大小\(box-sizing\)
+
+常用的有兩個值：**content-box** 和 **border-box**：
+
+* `content-box`：
+* `border-box`：
 
 ## 練習：學會觀察
 
