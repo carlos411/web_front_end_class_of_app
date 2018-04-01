@@ -75,6 +75,8 @@ margin: 10px 20px 30px;      /* 上 10px；左右皆 20px；下 30px */
 margin: 10px 20px 30px 40px; /* 按照上、右、下、左的順序，依序為 10px、20px、30px、40px */
 ```
 
+padding 縮寫形式相同。
+
 ## 區塊大小\(box-sizing\)
 
 ## 練習：學會觀察
