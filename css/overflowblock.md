@@ -74,7 +74,8 @@ css
 div.test_div{
   border:2px solid red;
   width: 100px;
-  white-space: nowrap;
+  
+  white-space: nowrap;/* 遇到空白的話，限制該行不要斷行 */
 }
 ```
 
