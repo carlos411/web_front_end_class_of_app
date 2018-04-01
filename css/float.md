@@ -104,7 +104,7 @@ div.first{
   width: 500px;
   border:1px solid red;
 }
-/* 增加 ::after 這個虛擬元素 */
+/* 增加 ::after 這個擬似元素 */
 /*
  1、在 div.first 的最尾端增加一個擬似元素，可放入內容
  2、內容這裡設定成內容為「abc」的內容
