@@ -26,7 +26,7 @@ div.first{
 }
 ```
 
-結果：
+結果\(這是預設情況\)：
 
 ![](/assets/float1.png)
 
@@ -95,7 +95,7 @@ div.first img{
 
 ![](/assets/flaot4.png)
 
-## 解法：使用虛擬元素 `::after`
+## 解法：使用擬似元素 `::after`
 
 修改 CSS 成：
 
