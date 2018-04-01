@@ -75,11 +75,25 @@ div.test_div{
   border:2px solid red;
   width: 100px;
 
-  white-space: nowrap;/* 遇到空白的話，限制該行不要斷行 */
+  white-space: nowrap; /* 遇到空白的話，限制該行不要斷行 */
 }
 ```
 
 結果如圖：
 
-![](/assets/overflow_4.png)
+![](/assets/overflow_4.png)將 css 改成：
+
+```css
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+
+  white-space: nowrap; /* 遇到空白的話，限制該行不要斷行 */
+  
+  overflow: scroll;
+  height: 40px;
+}
+```
+
+
 
