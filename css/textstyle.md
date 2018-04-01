@@ -55,6 +55,22 @@ div.text2{
 
 ## 顏色指定格式
 
+**Hue-Saturation-Lightness-Alpha**
+
+```css
+p{
+  color: hsla(0~360, 0 ~ 100%, 0 ~ 100%, 0 ~ 1);
+  background-color:hsla(0~360, 0 ~ 100%, 0 ~ 100%, 0 ~ 1);
+}
+```
+
+* h：色相
+* s：飽和度
+* l：亮度
+* a：透明度
+
+
+
 ## 練習
 
 檔案所在路徑：`css/3.7/index.html`
