@@ -84,10 +84,10 @@ padding 縮寫形式相同。
 
 ## 區塊大小\(box-sizing\)
 
-常用的有兩個值：**content-box** 和 **border-box**：定義的是寬度從何處算起。
+常用的有兩個值：**content-box** 和 **border-box**：定義的是寬高從何處算起。
 
-* `content-box`：設定 width 時，寬度指的是內容寬。\(這是預設值\)
-* `border-box`：設定 width 時，寬度指的是從邊框也算進去。
+* `content-box`：設定 width 或 height 時，寬度、高度指的是內容寬。\(這是預設值\)
+* `border-box`：設定 width 或 height 時，寬度、高度指的是從邊框也算進去，包含 padding。
 
 html：
 
@@ -114,7 +114,7 @@ css 改成如下：
 div.test_div{
   border:2px solid red;
   width: 100px;
-  
+
   /* 加上以下這行 */
   box-sizing: border-box;
 }
