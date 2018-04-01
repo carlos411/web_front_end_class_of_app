@@ -46,10 +46,10 @@ html{
   */
 }
 div.text1{
-  font-size: 2rem;
+  font-size: 2rem; /* 結果：20px */
 }
 div.text2{
-  font-size: 2em;
+  font-size: 2em;  /* 結果：40px */
 }
 ```
 
