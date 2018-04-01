@@ -53,7 +53,7 @@ div.text2{
 }
 ```
 
-## 顏色指定格式
+## 顏色指定格式\(介紹HSLA\)
 
 **Hue-Saturation-Lightness-Alpha**
 
@@ -69,11 +69,9 @@ p{
 * l：亮度：0% ~ 100%，0% 就會變黑色，100% 就變白色。
 * a：透明度\(介於 0 ~ 1 的小數點，1為完全不透明，0為完全透明\)
 
-
-
 ![](/assets/Triangulo_HSV.png)
 
-圖片來源：https://zh.wikipedia.org/wiki/HSL%E5%92%8CHSV%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4
+圖片來源：[https://zh.wikipedia.org/wiki/HSL和HSV色彩空间](https://zh.wikipedia.org/wiki/HSL和HSV色彩空间)
 
 ## 練習
 
