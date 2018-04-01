@@ -86,7 +86,7 @@ padding 縮寫形式相同。
 
 常用的有兩個值：**content-box** 和 **border-box**：定義的是寬度從何處算起。
 
-* `content-box`：設定 width 時，寬度指的是內容寬。
+* `content-box`：設定 width 時，寬度指的是內容寬。\(這是預設值\)
 * `border-box`：設定 width 時，寬度指的是從邊框也算進去。
 
 html：
@@ -101,6 +101,21 @@ css：
 div.test_div{
   border:2px solid red;
   width: 100px;
+}
+```
+
+結果如圖：\(可以得知實際寬度會是 104px。如果有 padding-left、padding-right的話，也會再加上padding 的寬度。\)
+
+![](/assets/box_sizing_1.png)
+
+css 改成如下：
+
+```
+div.test_div{
+  border:2px solid red;
+  width: 100px;
+  
+  box-sizing: border-box;
 }
 ```
 
