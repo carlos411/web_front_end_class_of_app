@@ -28,14 +28,14 @@ div.test_div{
 
 ![](/assets/overflow_1.png)
 
-css 改成…
+css 改成：
 
 ```css
 div.test_div{
   border:2px solid red;
   width: 100px;
   height: 100px;
-  
+
   /* 加上以下這行 */
   overflow: hidden;
 }
@@ -52,7 +52,7 @@ div.test_div{
   border:2px solid red;
   width: 100px;
   height: 100px;
-  
+
   /* 加上以下這行 */
   overflow: scroll;
 }
