@@ -38,8 +38,8 @@
 
 ## 常用的表單事件
 
-* onfocus
-* onsubmit
+* onfocus：欄位取得焦點之後觸發。
+* onsubmit：表單資料送出時觸發。
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
