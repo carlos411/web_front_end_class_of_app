@@ -112,6 +112,13 @@ text_input.addEventListener("keyup", function(e){
 
 關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。
 
+```js
+var the_form = document.getElementById("the_form");
+the_form.addEventListener("submit", function(e){
+  e.preventDefault();
+})
+```
+
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
 ## 使用 HTML 事件屬性去觸發
