@@ -72,7 +72,7 @@ window.addEventListener("resize", function(){
 * onkeyup：鍵盤按下去時，會觸發。
 * onkeydown：鍵盤按下去放開後，會觸發。
 
-```
+```html
 <form id="the_form">
   <input type="text" id="text_input">
 </form>
