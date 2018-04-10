@@ -66,6 +66,7 @@ window.addEventListener("resize", function(){
 ## 常用的表單事件
 
 * onfocus：欄位取得焦點之後觸發。
+* onblur：欄位失去焦點之後，會觸發。
 * onsubmit：表單資料送出時觸發。
 * onchange：欄位內容改變時，會觸發。
 * onkeyup：鍵盤按下去時，會觸發。
