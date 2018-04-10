@@ -120,7 +120,7 @@ the_form.addEventListener("submit", function(e){
 })
 ```
 
-觀察開發者工具的 Network 頁籤。來看 post 資料。
+觀察開發者工具的 Network 頁籤。來看 post 資料中的 Form Data：
 
 ![](/assets/form_network1.png)
 
