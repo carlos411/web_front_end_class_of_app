@@ -41,6 +41,15 @@ h1.addEventListener("dblclick", function(){
 
 ## 常用 window 事件
 
+HTML：
+
+```html
+<h1 class="title1">這是內文標題</h1>
+<h1 class="title2">另一個h1</h1>
+<br>
+<img src="http://notes.carlos-studio.com/images/test_img.jpg" style="width:200px;">
+```
+
 * DOMContentLoaded：DOM 載入完成之後會觸發。
 * onload：頁面中的所有物件\(含圖檔等\)都載入完成之後觸發：
 * onresize：改變瀏覽器寬高時觸發。
