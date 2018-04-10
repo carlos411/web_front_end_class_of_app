@@ -42,7 +42,7 @@ h1.addEventListener("dblclick", function(){
 ## 常用 window 事件
 
 * DOMContentLoaded：DOM 載入完成之後會觸發。
-* onload：頁面中的所有物件\(含圖檔等\)都完載入完成之後觸發：
+* onload：頁面中的所有物件\(含圖檔等\)都載入完成之後觸發：
 * onresize：改變瀏覽器寬高時觸發。
 
 ```js
