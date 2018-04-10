@@ -72,6 +72,12 @@ window.addEventListener("resize", function(){
 * onkeyup：鍵盤按下去時，會觸發。
 * onkeydown：鍵盤按下去放開後，會觸發。
 
+```js
+text_input.addEventListener("focus", function(){
+  console.log("focus event");
+})
+```
+
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
 ## 使用 HTML 事件屬性去觸發
