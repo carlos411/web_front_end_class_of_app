@@ -32,6 +32,13 @@
 
 註：大部份寫在 js 的事件時，前面的 `on` 都可省略。
 
+```
+var h1 = document.getElementsByTagName("h1")[0];
+h1.addEventListener("dblclick", function(){
+  alert("open dialog");
+});
+```
+
 ## 常用 window 事件
 
 * onload：頁面中的所有物件\(含圖檔等\)都完載入完成之後觸發：
