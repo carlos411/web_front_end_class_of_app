@@ -85,12 +85,22 @@ text_input.addEventListener("blur", function(){
 ```
 
 ```js
+text_input.addEventListener("change", function(){
+  console.log("change event");
+})
+```
+
+```js
 text_input.addEventListener("keydown", function(e){
   console.log("keydown event: " + e.which);
 })
 ```
 
-
+```js
+text_input.addEventListener("keyup", function(e){
+  console.log("keyup event");
+})
+```
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
