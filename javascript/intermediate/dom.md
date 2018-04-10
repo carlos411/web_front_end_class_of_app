@@ -14,3 +14,5 @@ DOM = **D**ocument **O**bject **M**odel
 
 操控 DOM，動態地改變這些 DOM 的外觀、內容等等。可以完全的客製化。
 
+
+
