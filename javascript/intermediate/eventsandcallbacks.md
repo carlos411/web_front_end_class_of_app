@@ -78,6 +78,12 @@ text_input.addEventListener("focus", function(){
 })
 ```
 
+```js
+text_input.addEventListener("blur", function(){
+  console.log("blur event");
+})
+```
+
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
 ## 使用 HTML 事件屬性去觸發
