@@ -67,6 +67,9 @@ window.addEventListener("resize", function(){
 
 * onfocus：欄位取得焦點之後觸發。
 * onsubmit：表單資料送出時觸發。
+* onchange：欄位內容改變時，會觸發。
+* onkeyup：鍵盤按下去時，會觸發。
+* onkeydown：鍵盤按下去放開後，會觸發。
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
