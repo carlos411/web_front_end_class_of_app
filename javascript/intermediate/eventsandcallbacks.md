@@ -75,6 +75,7 @@ window.addEventListener("resize", function(){
 ```html
 <form id="the_form" action="#" method="get">
   <input type="text" id="text_input" name="title">
+  <button type="submit">送出</button>
 </form>
 ```
 
