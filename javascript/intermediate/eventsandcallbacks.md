@@ -51,13 +51,13 @@ window.addEventListener("DOMContentLoaded", function(){
 });
 ```
 
-```
+```js
 window.addEventListener("load", function(){
   alert("所有資源載入完成之後觸發。");
 });
 ```
 
-```
+```js
 window.addEventListener("resize", function(){
   console.log("resize")
 });
