@@ -73,8 +73,8 @@ window.addEventListener("resize", function(){
 * onkeydown：鍵盤按下去放開後，會觸發。
 
 ```html
-<form id="the_form">
-  <input type="text" id="text_input">
+<form id="the_form" action="#" method="get">
+  <input type="text" id="text_input" name="title">
 </form>
 ```
 
