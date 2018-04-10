@@ -34,7 +34,7 @@
 
 * onload：頁面中的所有物件\(含圖檔等\)都完載入完成之後觸發：
 * onresize：改變瀏覽器寬高時觸發。
-* DOMContentLoaded：DOM載入完成之後會觸發。
+* DOMContentLoaded：DOM 載入完成之後會觸發。
 
 ## 常用的表單事件
 
