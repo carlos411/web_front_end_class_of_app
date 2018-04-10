@@ -32,7 +32,7 @@
 
 註：大部份寫在 js 的事件時，前面的 `on` 都可省略。
 
-```
+```js
 var h1 = document.getElementsByTagName("h1")[0];
 h1.addEventListener("dblclick", function(){
   alert("open dialog");
@@ -44,6 +44,12 @@ h1.addEventListener("dblclick", function(){
 * onload：頁面中的所有物件\(含圖檔等\)都完載入完成之後觸發：
 * onresize：改變瀏覽器寬高時觸發。
 * DOMContentLoaded：DOM 載入完成之後會觸發。
+
+```js
+window.addEventListener("DOMContentLoaded", function(){
+  alert("DOM 載入完成之後觸發。");
+});
+```
 
 ## 常用的表單事件
 
