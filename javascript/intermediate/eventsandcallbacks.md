@@ -81,12 +81,16 @@ window.addEventListener("resize", function(){
 * onkeydown：鍵盤按下去放開後，會觸發。
 * onsubmit：表單資料送出時觸發。
 
+HTML：
+
 ```html
 <form id="the_form" action="#" method="get">
   <input type="text" id="text_input" name="title">
   <button type="submit">送出</button>
 </form>
 ```
+
+JS：
 
 ```js
 text_input.addEventListener("focus", function(e){
