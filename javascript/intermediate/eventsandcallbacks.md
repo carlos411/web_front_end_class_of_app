@@ -104,7 +104,7 @@ text_input.addEventListener("keyup", function(e){
 })
 ```
 
-關於 e，指的就是 event：
+關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
