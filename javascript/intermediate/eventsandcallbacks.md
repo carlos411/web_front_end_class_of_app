@@ -111,7 +111,7 @@ text_input.addEventListener("keyup", function(e){
 })
 ```
 
-關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。
+關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。最後看一下 form 的 `onsubmit` 事件：
 
 ```js
 var the_form = document.getElementById("the_form");
@@ -120,7 +120,9 @@ the_form.addEventListener("submit", function(e){
 })
 ```
 
-事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
+觀察開發者工具的 Network 頁籤。來看 post 資料
+
+
 
 ## 使用 HTML 事件屬性去觸發
 
@@ -148,5 +150,5 @@ the_form.addEventListener("submit", function(e){
 </html>
 ```
 
-
+事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
