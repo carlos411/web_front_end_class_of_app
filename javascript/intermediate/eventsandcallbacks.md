@@ -115,7 +115,7 @@ text_input.addEventListener("keyup", function(e){
 ```js
 var the_form = document.getElementById("the_form");
 the_form.addEventListener("submit", function(e){
-  e.preventDefault();
+  // e.preventDefault(); 停止預設行為，表示不會送出資料
 })
 ```
 
