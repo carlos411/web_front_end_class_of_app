@@ -73,19 +73,19 @@ window.addEventListener("resize", function(){
 * onkeydown：鍵盤按下去放開後，會觸發。
 
 ```js
-text_input.addEventListener("focus", function(){
+text_input.addEventListener("focus", function(e){
   console.log("focus event");
 })
 ```
 
 ```js
-text_input.addEventListener("blur", function(){
+text_input.addEventListener("blur", function(e){
   console.log("blur event");
 })
 ```
 
 ```js
-text_input.addEventListener("change", function(){
+text_input.addEventListener("change", function(e){
   console.log("change event");
 })
 ```
@@ -98,9 +98,13 @@ text_input.addEventListener("keydown", function(e){
 
 ```js
 text_input.addEventListener("keyup", function(e){
-  console.log("keyup event");
+  console.log("keyup event: " + e.target.value);
 })
 ```
+
+關於 e，指的就是 event：
+
+
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
