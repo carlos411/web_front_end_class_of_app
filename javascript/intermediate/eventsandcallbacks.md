@@ -92,19 +92,19 @@ text_input.addEventListener("change", function(e){
 
 ```js
 text_input.addEventListener("keydown", function(e){
+  console.log(e); // 觀察 e
   console.log("keydown event: " + e.which);
 })
 ```
 
 ```js
 text_input.addEventListener("keyup", function(e){
+  console.log(e); // 觀察 e
   console.log("keyup event: " + e.target.value);
 })
 ```
 
 關於 e，指的就是 event：
-
-
 
 事件列表參考：[https://www.w3schools.com/tags/ref\_eventattributes.asp](https://www.w3schools.com/tags/ref_eventattributes.asp)
 
