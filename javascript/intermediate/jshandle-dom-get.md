@@ -70,7 +70,9 @@ el_the_btn.addEventListener("click", function(){                 // button 的 c
 jQuery：
 
 ```js
-$("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
+$("#the_btn").on("click", function(){
+  console.log($("#the_text").val());
+});
 ```
 
 ## 表單欄位\(textarea\)
