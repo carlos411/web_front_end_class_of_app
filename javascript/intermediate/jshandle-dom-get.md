@@ -80,7 +80,7 @@ html：
 
 JavaScript：
 
-```
+```js
 var el_the_btn = document.getElementById("the_btn");
 el_the_btn.addEventListener("click", function(){ // button 的 click 事件綁定
   var el_the_textarea = document.getElementById("the_textarea");
