@@ -65,7 +65,7 @@ el_the_text.value; // 取得該欄位的值
 
 jQuery：
 
-```
+```js
 $("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
 ```
 
