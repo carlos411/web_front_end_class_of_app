@@ -63,5 +63,11 @@ var el_the_text = document.getElementById("the_text"); // 取得欄位
 el_the_text.value; // 取得該欄位的值
 ```
 
+jQuery：
+
+```
+$("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
+```
+
 
 
