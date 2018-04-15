@@ -50,7 +50,7 @@ $("p").html(); // 取得「這是段落一」，預設會取得第一個 <p> 元
 
 ## 表單欄位\(text\)
 
-html
+html：
 
 ```html
 <input type="text" id="the_text">
@@ -67,6 +67,25 @@ jQuery：
 
 ```js
 $("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
+```
+
+## 表單欄位\(textarea\)
+
+html：
+
+```html
+<textarea id="the_textarea"></textarea>
+<button type="button" id="the_btn">取得值</button>
+```
+
+JavaScript：
+
+```
+var el_the_btn = document.getElementById("the_btn");
+el_the_btn.addEventListener("click", function(){ // button 的 click 事件綁定
+  var el_the_textarea = document.getElementById("the_textarea");
+  console.log(el_the_textarea.value)
+});
 ```
 
 ## 表單欄位\(select\)
@@ -168,7 +187,7 @@ $("#the_btn").on("click", function(){
       console.log($(this).val())            // 取得有選到的該 checkbox 的值
     }
   });
-  
+
 });
 ```
 
