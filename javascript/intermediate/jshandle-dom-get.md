@@ -60,10 +60,10 @@ html：
 JavaScript：
 
 ```js
-var el_the_btn = document.getElementById("the_btn");
+var el_the_btn = document.getElementById("the_btn");             // 取得 button 元素
 el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
-  var el_the_text = document.getElementById("the_text");
-  console.log(el_the_text.value)
+  var el_the_text = document.getElementById("the_text");         // 取得欄位元素
+  console.log(el_the_text.value);                                // 取得值
 });
 ```
 
@@ -88,7 +88,15 @@ JavaScript：
 var el_the_btn = document.getElementById("the_btn");
 el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
   var el_the_textarea = document.getElementById("the_textarea");
-  console.log(el_the_textarea.value)
+  console.log(el_the_textarea.value);
+});
+```
+
+jQuery：
+
+```js
+$("#the_btn").on("click", function(){
+  console.log($("#the_textarea").val());
 });
 ```
 
