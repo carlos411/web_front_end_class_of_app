@@ -135,10 +135,27 @@ $("#the_btn").on("click", function(){
 
 ## 表單欄位\(checkbox\)
 
+html：
+
 ```html
 <input type="checkbox" name="habits" value="1"> 興趣1
 <input type="checkbox" name="habits" value="2"> 興趣2
 <button type="button" id="the_btn">取得值</button>
+```
+
+JavaScript：
+
+```js
+var el_the_btn = document.getElementById("the_btn");            // 取得 button 欄位
+
+el_the_btn.addEventListener("click", function(){                // button 的 click 事件綁定
+  var el_input_checkbox = document.getElementsByTagName("input");  // 取的 input 欄位
+  for(var i = 0; i < el_input_checkbox.length; i++){               // 使用 for 迴圈跑過每個 input 欄位
+    if(el_input_checkbox[i].checked){                              // 如果是有選到的(.checked)
+      console.log(el_input_checkbox[i].value)                      // 這裡可取得選到的那個選項的值(.value)
+    }
+  }
+});
 ```
 
 
