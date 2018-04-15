@@ -102,6 +102,8 @@ function getCookie(cname) {
 var my_cookie = getCookie('school');
 ```
 
+w3schools 已有整理好幾個與 cookie 相關函式，是一般常用到的： [https://www.w3schools.com/js/js\_cookies.asp](https://www.w3schools.com/js/js_cookies.asp)
+
 ## 注意事項
 
 cookie 是有網域及路徑上的限定，無法取得其它網站的 cookie。
