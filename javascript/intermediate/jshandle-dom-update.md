@@ -102,8 +102,17 @@ css：
 
 js：
 
-```
-
+```js
+// jQuery 版本：
+$("#btn_switch_style").on("click", function(){
+  
+  if( $("#new_para").hasClass("another_style") ){
+    $("#new_para").addClass("another_style");
+  }else{
+    $("#new_para").removeClass("another_style");
+  }
+  
+});
 ```
 
 
