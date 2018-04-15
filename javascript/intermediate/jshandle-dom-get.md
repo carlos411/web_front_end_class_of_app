@@ -129,7 +129,7 @@ jQuery：
 
 ```js
 $("#the_btn").on("click", function(){
-  console.log($('input[name=food_type]:checked').val())
+  console.log( $('input[name=food_type]:checked').val() );  // 取得選到的那個選項的值
 });
 ```
 
