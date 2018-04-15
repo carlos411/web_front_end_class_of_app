@@ -84,7 +84,7 @@ $(para_ele).removeAttr("class");
 html：
 
 ```html
-<p class="default_style">這是新增的段落</p>
+<p class="default_style" id="new_para">這是新增的段落</p>
 <button type="button" id="btn_switch_style">新增/移除 another_style 樣式</button>
 ```
 
