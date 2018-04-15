@@ -85,9 +85,10 @@ JavaScript：
 
 ```js
 var el_the_btn = document.getElementById("the_btn");       // 取得 button 欄位
-el_the_btn.addEventListener("click", function(){           // 事件綁定
-  var el_select = document.getElementById("the_select");   
-  console.log(el_select.value)
+
+el_the_btn.addEventListener("click", function(){           // button 的 click 事件綁定
+  var el_select = document.getElementById("the_select");   // 取得 select 下拉選單
+  console.log(el_select.value);                            // 取得 select 目前所選的值
 });
 ```
 
