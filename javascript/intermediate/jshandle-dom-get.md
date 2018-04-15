@@ -125,5 +125,13 @@ el_the_btn.addEventListener("click", function(){                // button 的 cl
 });
 ```
 
+jQuery：
+
+```js
+$("#the_btn").on("click", function(){
+  console.log($('input[name=food_type]:checked').val())
+});
+```
+
 
 
