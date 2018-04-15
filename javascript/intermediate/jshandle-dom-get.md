@@ -133,5 +133,13 @@ $("#the_btn").on("click", function(){
 });
 ```
 
+## 表單欄位\(checkbox\)
+
+```html
+<input type="checkbox" name="habits" value="1"> 興趣1
+<input type="checkbox" name="habits" value="2"> 興趣2
+<button type="button" id="the_btn">取得值</button>
+```
+
 
 
