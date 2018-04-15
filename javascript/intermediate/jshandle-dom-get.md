@@ -32,14 +32,14 @@ $(".class_name");  // . 符號代表後面接的是 class 的名稱
 JavaScript：
 
 ```js
-var el_p = document.getElementsByTagName("p")[0];
-alert( el_p.innerHTML );
+var el_p = document.getElementsByTagName("p")[0]; // 取得元素
+el_p.innerHTML; // 取得「這是段落一」
 ```
 
 對應 jQuery 的版本：
 
 ```js
-$("p")[0].html();
+$("p")[0].html(); // 取得「這是段落一」
 ```
 
 
