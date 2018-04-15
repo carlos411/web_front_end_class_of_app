@@ -69,7 +69,7 @@ jQuery：
 $("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
 ```
 
-表單欄位\(select\)
+## 表單欄位\(select\)
 
 html：
 
