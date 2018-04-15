@@ -41,8 +41,9 @@ para_ele.removeAttribute("class");
 
 針對 css 類別的新增及移除：
 
-* classList.add\("css 類別名稱"\)
-* classList.remove\("css 類別名稱"\)
+* classList.add\("css 類別名稱"\)：新增某類別。
+* classList.remove\("css 類別名稱"\)：移除某類別。
+* classList.contains\("css 類別名稱"\)：回傳 true or false，判斷是否有某個 css 類別。
 
 ## 對應的 jQuery 版本：
 
