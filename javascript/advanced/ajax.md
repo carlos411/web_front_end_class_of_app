@@ -122,3 +122,5 @@ message.txt
 
 錯誤訊息：Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
 
+請用瀏覽器瀏覽此連結：[http://notes.carlos-studio.com/web\_learn/ajax/4.3.2/index.html](http://notes.carlos-studio.com/web_learn/ajax/4.3.2/index.html)
+
