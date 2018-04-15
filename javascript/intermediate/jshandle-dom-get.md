@@ -29,6 +29,12 @@ $(".class_name");  // . 符號代表後面接的是 class 的名稱
 
 ## 元素的內容
 
+html：
+
+```html
+<p>這是段落一</p>
+```
+
 JavaScript：
 
 ```js
@@ -40,6 +46,14 @@ el_p.innerHTML; // 取得「這是段落一」
 
 ```js
 $("p").html(); // 取得「這是段落一」，預設會取得第一個 <p> 元素的內容
+```
+
+## 表單的內容
+
+html
+
+```
+<input type="text" id="the_text">
 ```
 
 
