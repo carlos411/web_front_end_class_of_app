@@ -12,9 +12,9 @@
 
 ## 版本控管 GIT
 
+https://git-scm.com/
+
 ## 網站上線
 
 ![](/assets/web_process.png)
-
-
 
