@@ -1,5 +1,7 @@
 # 4.2.4 JS 與 jQuery 操控網頁元素 - 取得
 
+## 元素
+
 HTML：
 
 ```html
@@ -23,6 +25,21 @@ document.getElementsByClassName("class_name");  // 取得 class="class_name" 的
 $("p");            // 代表取的是 <p> 元素
 $("#the_id");      // # 字號代表後面接的是 id 的名稱
 $(".class_name");  // . 符號代表後面接的是 class 的名稱
+```
+
+## 元素的內容
+
+JavaScript：
+
+```js
+var el_p = document.getElementsByTagName("p")[0];
+alert( el_p.innerHTML );
+```
+
+對應 jQuery 的版本：
+
+```js
+$("p")[0].html();
 ```
 
 
