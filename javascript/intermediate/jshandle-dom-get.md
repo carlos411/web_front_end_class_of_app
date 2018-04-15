@@ -92,5 +92,11 @@ el_the_btn.addEventListener("click", function(){           // button 的 click �
 });
 ```
 
+jQuery：
+
+```
+
+```
+
 
 
