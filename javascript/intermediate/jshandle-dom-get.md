@@ -69,5 +69,27 @@ jQuery：
 $("#the_text").val(); // 取得 id 為 the_text 這個欄位的值
 ```
 
+表單欄位\(select\)
+
+html：
+
+```html
+<select id="the_select">
+  <option value="1">選項一</option>
+  <option value="2">選項二</option>
+</select>
+<button type="button" id="the_btn">取得值</button>
+```
+
+JavaScript：
+
+```js
+var el_the_btn = document.getElementById("the_btn");
+el_the_btn.addEventListener("click", function(){
+  var el_select = document.getElementById("the_select");
+  console.log(el_select.value)
+});
+```
+
 
 
