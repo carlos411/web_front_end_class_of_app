@@ -16,6 +16,8 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、i
 
 ## 使用 JS 建立 cooke
 
+隨意開啟任意網站來測試：
+
 ```js
 document.cookie = "school=某某大學";
 ```
