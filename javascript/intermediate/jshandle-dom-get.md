@@ -94,8 +94,10 @@ el_the_btn.addEventListener("click", function(){           // button 的 click �
 
 jQuery：
 
-```
-
+```js
+$("#the_btn").on("click", function(){
+  console.log($("#the_select").val());
+});
 ```
 
 
