@@ -1,10 +1,10 @@
 # 8. 結語
 
-## HTML5 JS 還有更多
+## 網站前端 還有更多
 
-CANVAS
+CANVAS：網頁動畫
 
-geolocation
+geolocation：地理位置
 
 ## RESTful API
 
