@@ -158,5 +158,19 @@ el_the_btn.addEventListener("click", function(){                   // button 的
 });
 ```
 
+jQuery：
+
+```js
+$("#the_btn").on("click", function(){
+
+  $('input[name=habits]').each(function(){
+    if( $(this).prop("checked") ){          // this 就是每次迴圈，所代表的某個欄位。 .prop("checked") 表示有選到的話，回傳 true
+      console.log($(this).val())            // 取得有選到的該 checkbox 的值
+    }
+  });
+  
+});
+```
+
 
 
