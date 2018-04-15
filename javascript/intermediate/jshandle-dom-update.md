@@ -75,17 +75,17 @@ $(para_ele).removeAttr("class");
 
 ## 練習
 
-開啟以下兩個檔案觀察：
+一、開啟以下兩個檔案觀察：
 
 檔案所在路徑：`js/4.2.5/index.html`、`js/4.2.5/index_jquery.html`。
 
-練習 css 類別的新增及移除
+二、練習 css 類別的新增及移除：
+
+html：
 
 ```html
 <p class="default_style">這是新增的段落</p>
 ```
-
-
 
 
 
