@@ -112,13 +112,14 @@ html：
 
 JavaScript：
 
-```
-var el_the_btn = document.getElementById("the_btn");
-el_the_btn.addEventListener("click", function(){
-  var el_input_radio = document.getElementsByTagName("input");
-  for(var i = 0; i < el_input_radio.length; i++){
-    if(el_input_radio[i].checked){
-      console.log(el_input_radio[i].value)
+```js
+var el_the_btn = document.getElementById("the_btn");            // 取得 button 欄位
+
+el_the_btn.addEventListener("click", function(){                // button 的 click 事件綁定
+  var el_input_radio = document.getElementsByTagName("input");  // 取的 input 欄位
+  for(var i = 0; i < el_input_radio.length; i++){               // 使用 for 迴圈跑過每個 input 欄位
+    if(el_input_radio[i].checked){                              // 如果是有選到的(.checked)
+      console.log(el_input_radio[i].value)                      // 這裡可取得選到的那個選項的值(.value)
     }
   }
 });
