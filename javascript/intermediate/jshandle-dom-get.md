@@ -84,9 +84,9 @@ html：
 JavaScript：
 
 ```js
-var el_the_btn = document.getElementById("the_btn");
-el_the_btn.addEventListener("click", function(){
-  var el_select = document.getElementById("the_select");
+var el_the_btn = document.getElementById("the_btn");       // 取得 button 欄位
+el_the_btn.addEventListener("click", function(){           // 事件綁定
+  var el_select = document.getElementById("the_select");   
   console.log(el_select.value)
 });
 ```
