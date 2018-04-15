@@ -71,8 +71,9 @@ $(para_ele).removeAttr("class");
 
 針對 css 類別的新增及移除：
 
-* addClass\("css 類別名稱"\)
-* removeClass\("css 類別名稱"\)
+* addClass\("css 類別名稱"\)：新增某類別。
+* removeClass\("css 類別名稱"\)：移除某類別。
+* hasClass\("css 類別名稱"\)：回傳 true or false，判斷是否有某個 css 類別。
 
 ## 練習
 
