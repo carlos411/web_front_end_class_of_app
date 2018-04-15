@@ -58,7 +58,7 @@ html
 
 JavaScript：
 
-```
+```js
 var el_the_text = document.getElementById("the_text"); // 取得欄位
 el_the_text.value; // 取得該欄位的值
 ```
