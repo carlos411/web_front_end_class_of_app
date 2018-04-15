@@ -22,7 +22,7 @@ document.getElementsByClassName("class_name");  // 取得 class="class_name" 的
 對應 jQuery 的版本：
 
 ```js
-$("p");            // 代表取的是 <p> 元素，預設會直接取得第 1 個
+$("p");            // 代表取的是 <p> 元素
 $("#the_id");      // # 字號代表後面接的是 id 的名稱
 $(".class_name");  // . 符號代表後面接的是 class 的名稱
 ```
@@ -39,8 +39,10 @@ el_p.innerHTML; // 取得「這是段落一」
 對應 jQuery 的版本：
 
 ```js
-$("p")[0].html(); // 取得「這是段落一」
+$("p").html(); // 取得「這是段落一」，預設會取得第一個 <p> 元素的內容
 ```
+
+
 
 
 
