@@ -146,9 +146,9 @@ html：
 JavaScript：
 
 ```js
-var el_the_btn = document.getElementById("the_btn");            // 取得 button 欄位
+var el_the_btn = document.getElementById("the_btn");               // 取得 button 欄位
 
-el_the_btn.addEventListener("click", function(){                // button 的 click 事件綁定
+el_the_btn.addEventListener("click", function(){                   // button 的 click 事件綁定
   var el_input_checkbox = document.getElementsByTagName("input");  // 取的 input 欄位
   for(var i = 0; i < el_input_checkbox.length; i++){               // 使用 for 迴圈跑過每個 input 欄位
     if(el_input_checkbox[i].checked){                              // 如果是有選到的(.checked)
