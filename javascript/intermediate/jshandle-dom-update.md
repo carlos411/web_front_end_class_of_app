@@ -44,7 +44,7 @@ para_ele.removeAttribute("class");
 * classList.add\("css 類別名稱"\)
 * classList.remove\("css 類別名稱"\)
 
-對應的 jQuery 版本：
+## 對應的 jQuery 版本：
 
 * **.html\(\)**：取得元素的內容。透過參數代入，將元素的內容，整個取代。
 * **.attr\(attribute, value\)**：更新屬性的值。
