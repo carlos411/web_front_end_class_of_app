@@ -85,6 +85,25 @@ html：
 
 ```html
 <p class="default_style">這是新增的段落</p>
+<button type="button" id="btn_switch_style">新增/移除 another_style 樣式</button>
+```
+
+css：
+
+```css
+.default_style{
+  color: red;
+}
+
+.another_style{
+  font-size: 30px;
+}
+```
+
+js：
+
+```
+
 ```
 
 
