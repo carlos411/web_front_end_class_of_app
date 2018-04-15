@@ -81,3 +81,11 @@ $(para_ele).removeAttr("class");
 
 練習 css 類別的新增及移除
 
+```html
+<p class="default_style">這是新增的段落</p>
+```
+
+
+
+
+
