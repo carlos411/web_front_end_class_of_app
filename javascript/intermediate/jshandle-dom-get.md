@@ -54,13 +54,17 @@ html：
 
 ```html
 <input type="text" id="the_text">
+<button type="button" id="the_btn">取得值</button>
 ```
 
 JavaScript：
 
 ```js
-var el_the_text = document.getElementById("the_text"); // 取得欄位
-el_the_text.value; // 取得該欄位的值
+var el_the_btn = document.getElementById("the_btn");
+el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
+  var el_the_text = document.getElementById("the_text");
+  console.log(el_the_text.value)
+});
 ```
 
 jQuery：
@@ -82,7 +86,7 @@ JavaScript：
 
 ```js
 var el_the_btn = document.getElementById("the_btn");
-el_the_btn.addEventListener("click", function(){ // button 的 click 事件綁定
+el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
   var el_the_textarea = document.getElementById("the_textarea");
   console.log(el_the_textarea.value)
 });
