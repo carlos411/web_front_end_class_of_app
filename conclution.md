@@ -14,5 +14,7 @@
 
 ## 網站上線
 
+![](/assets/web_process.png)
+
 
 
