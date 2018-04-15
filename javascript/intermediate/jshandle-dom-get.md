@@ -48,15 +48,20 @@ el_p.innerHTML; // 取得「這是段落一」
 $("p").html(); // 取得「這是段落一」，預設會取得第一個 <p> 元素的內容
 ```
 
-## 表單的內容
+## 表單欄位
 
 html
 
-```
+```html
 <input type="text" id="the_text">
 ```
 
+JavaScript：
 
+```
+var el_the_text = document.getElementById("the_text"); // 取得欄位
+el_the_text.value; // 取得該欄位的值
+```
 
 
 
