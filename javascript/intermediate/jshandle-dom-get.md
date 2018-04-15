@@ -100,5 +100,29 @@ $("#the_btn").on("click", function(){
 });
 ```
 
+## 表單欄位\(radio\)
+
+html：
+
+```html
+<input type="radio" name="food_type" value="1"> 葷
+<input type="radio" name="food_type" value="2"> 素
+<button type="button" id="the_btn">取得值</button>
+```
+
+JavaScript：
+
+```
+var el_the_btn = document.getElementById("the_btn");
+el_the_btn.addEventListener("click", function(){
+  var el_input_radio = document.getElementsByTagName("input");
+  for(var i = 0; i < el_input_radio.length; i++){
+    if(el_input_radio[i].checked){
+      console.log(el_input_radio[i].value)
+    }
+  }
+});
+```
+
 
 
