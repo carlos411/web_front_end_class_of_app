@@ -39,6 +39,11 @@ para_ele.setAttribute("class", "change_style");
 para_ele.removeAttribute("class");
 ```
 
+針對 css 類別的新增及移除：
+
+* classList.add\("css 類別名稱"\)
+* classList.remove\("css 類別名稱"\)
+
 對應的 jQuery 版本：
 
 * **.html\(\)**：取得元素的內容。透過參數代入，將元素的內容，整個取代。
@@ -62,6 +67,11 @@ $(para_ele).attr("class", "change_style");
 // 移除元素的屬性
 $(para_ele).removeAttr("class");
 ```
+
+針對 css 類別的新增及移除：
+
+* addClass\("css 類別名稱"\)
+* removeClass\("css 類別名稱"\)
 
 ## 練習
 
