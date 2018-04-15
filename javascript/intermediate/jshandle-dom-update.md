@@ -103,6 +103,18 @@ css：
 js：
 
 ```js
+// 樣式的新增/移除：
+var el_btn_switch_style = document.getElementById("btn_switch_style");
+el_btn_switch_style.addEventListener("click", function(){
+  var el_new_para = document.getElementById("new_para");
+  if( el_new_para.classList.contains("another_style") ){
+    el_new_para.classList.remove("another_style");
+  }else{
+    el_new_para.classList.add("another_style");
+  }
+});
+
+
 // jQuery 版本：
 $("#btn_switch_style").on("click", function(){
 
