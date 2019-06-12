@@ -2,7 +2,7 @@
 
 ## 1 簡介
 
-所有的練習會於課堂上s，提供原始碼供學生使用。
+所有的練習會於課堂上，提供原始碼供學生使用。
 
 網站前端開發，核心技術為 **HTML**、**CSS**、**JavaScript**，從這三個前端技術開始紮根，未來可應用至其他領域\(例：網頁動畫、元件、資料視覺化等\)。故 HTML、CSS、JavaScript 是網站開發中一切的基礎。
 
@@ -56,26 +56,25 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 ### 第二步：撰寫 CSS
 
 ```markup
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>這是網頁標題</title>
-
-    <style>
-    h1{
-      color: red;
-    }
-    </style>
-
-  </head>
-  <body>
-    <h1>這是內文標題</h1>
-  </body>
-</html>
+<style>
+  h1{
+    color: red;
+  }
+</style>
 ```
 
 ### 第三步：撰寫 JS
+
+```markup
+<script type="text/javascript">
+  var h1 = document.getElementsByTagName("h1")[0];
+  h1.addEventListener("click", function(){
+    alert("open dialog");
+  });
+</script>
+```
+
+### 組合
 
 ```markup
 <!doctype html>
@@ -102,8 +101,6 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
   </body>
 </html>
 ```
-
-### 完成
 
 index.html 點兩下於瀏覽器中直接開啟。
 
