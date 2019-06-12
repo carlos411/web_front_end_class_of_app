@@ -8,7 +8,7 @@
 
 ## 範例 1
 
-```html
+```markup
 <h1 class="title1">這是內文標題</h1>
 <p id="the_para">這是段落</p>
 ```
@@ -29,9 +29,9 @@
 
 ## 範例 2
 
-同一個元素，可以套用多個樣式名稱，以 **空格 **來做區隔，如下範例，會套用 **title1** 和 **change\_size** 這兩個樣式：
+同一個元素，可以套用多個樣式名稱，以 **空格** 來做區隔，如下範例，會套用 **title1** 和 **change\_size** 這兩個樣式：
 
-```html
+```markup
 <h1 class="title1 change_size">這是內文標題</h1>
 ```
 

@@ -7,5 +7,5 @@ Selectors 網路上看中文的話，常被翻譯成「選擇子」，僅供參�
 * **Value\(屬性值\)**：針對所選的屬性，要套用什麼值，例如color 的 **blue**，就是將文字顏色改成藍色。
 * 一個元素，可被套用很多個屬性及其值。
 
-![](/assets/selectors和屬性及值.png)
+![](../.gitbook/assets/selectors-he-shu-xing-ji-zhi.png)
 

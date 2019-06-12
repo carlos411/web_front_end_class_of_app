@@ -9,20 +9,18 @@
 * `text-decoration`：畫線。可選的有 **underline**\(畫底線\)、**overline**\(底線畫在上方\)、**line-through**\(畫刪除線\)、**none**\(不畫線\)。
 * `text-transform`：**capitalize**\(英文每個詞的首字母都會變大寫\)、**uppercase**\(每個英文字母都變大寫\)、**lowercase**\(每個英文字母都變小寫\)、**none**\(不轉換\)。
 * `text-align`：文字對齊，可選的值有 **left**、**right**、**center**。
-* `line-height`：行高。通常以**倍數**來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。當然也可以指定固定的 **24px **這種固定行高。
+* `line-height`：行高。通常以**倍數**來表示，例：此值是 **2** 的話，而文字大小是16px，則行高就是 32px。當然也可以指定固定的 **24px** 這種固定行高。
 * `font-family`：指定字體。例：`font-family: "Times New Roman", arial, helvetica, serif;`。會以最左邊開始尋找，若 "Times New Roman" 在電腦裡有此字體的話，就會以此字體來顯示，然而若沒有的話，就會再尋找下一個 arial。
 
 ## 文字大小單位
 
 * px：固定單位
-
 * em：相對單位，相較於父元素
-
 * rem：相對單位，相較於 `<html>` 根元素
 
 html
 
-```html
+```markup
 <!doctype html>
 <html>
   <head></head>
@@ -69,7 +67,7 @@ p{
 * l：亮度：0% ~ 100%，0% 就會變黑色，100% 就變白色。
 * a：透明度\(介於 0 ~ 1 的小數點，1為完全不透明，0為完全透明\)
 
-![](/assets/Triangulo_HSV.png)
+![](../.gitbook/assets/triangulo_hsv.png)
 
 圖片來源：[https://zh.wikipedia.org/wiki/HSL和HSV色彩空间](https://zh.wikipedia.org/wiki/HSL和HSV色彩空间)
 
@@ -79,7 +77,7 @@ p{
 
 HTML：
 
-```html
+```markup
 <p>這是段落 abcde THE file</p>
 ```
 
@@ -102,5 +100,5 @@ p{
 
 結果呈現：
 
-![](/assets/文字樣式.png)
+![](../.gitbook/assets/wen-zi-yang-shi.png)
 

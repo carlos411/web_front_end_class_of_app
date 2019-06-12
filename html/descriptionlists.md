@@ -1,4 +1,4 @@
-# 2.9 清單 - &lt;dl&gt;...&lt;/dl&gt;
+# 2.9 清單
 
 `<dl>`：**d**efinition **l**ist
 
@@ -8,7 +8,7 @@
 
 範例：
 
-```html
+```markup
 <dl>
   <dt>www</dt>
   <dd>是 World Wide Web 的縮寫</dd>
@@ -19,5 +19,5 @@
 
 結果呈現：
 
-![](/assets/清單.png)
+![](../.gitbook/assets/qing-dan.png)
 

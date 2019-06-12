@@ -1,10 +1,10 @@
-# 2.16 表單 - &lt;form&gt;...&lt;/form&gt;
+# 2.16 表單
 
 提供許多欄位，讓使用者填入後，送出資料。
 
 ## 基本結構
 
-```html
+```markup
 <form action="#" method="#">
   ...
 </form>
@@ -18,25 +18,25 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 文字框
 
-```html
+```markup
 <input type="text" name="address" value="這是內容" placeholder="提示文字">
 ```
 
 ## 文字框：密碼
 
-```html
+```markup
 <input type="password" name="the_password">
 ```
 
 ## 文字框：隱藏
 
-```html
+```markup
 <input type="hidden" name="the_hide_data">
 ```
 
 ## 多行文字框
 
-```html
+```markup
 <textarea name="content" rows="3" cols="50" placeholder="提示文字">這裡是文字</textarea>
 ```
 
@@ -46,7 +46,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 **name** 要一樣，才能被視為單選：
 
-```html
+```markup
 <input type="radio" name="custom_name" value="1" checked> 是
 <input type="radio" name="custom_name" value="2"> 否
 ```
@@ -57,7 +57,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 勾選
 
-```html
+```markup
 <input type="checkbox" name="habits" checked> 興趣1
 ```
 
@@ -67,7 +67,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 下拉選單
 
-```html
+```markup
 <select name="country">
   <option value="1" selected>選項1</option>
   <option value="2">選項2</option>
@@ -79,13 +79,13 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 按鈕
 
-```html
+```markup
 <button type="button">這是一般按鈕</button>
 ```
 
 ## 資料送出按鈕 - submit
 
-```html
+```markup
 <button type="submit">這是資料送出按鈕</button>
 <!-- 或 -->
 <input type="submit" value="這是資料送出按鈕">
@@ -95,7 +95,7 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 檔案所在路徑：`html/2.16/index.html`
 
-```html
+```markup
 <form action="#" method="get">
   <input type="text" name="address" placeholder="提示文字">
 
@@ -146,5 +146,5 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 結果呈現：
 
-![](/assets/表單基礎.png)
+![](../.gitbook/assets/biao-dan-ji-chu.png)
 

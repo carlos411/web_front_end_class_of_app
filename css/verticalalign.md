@@ -1,4 +1,4 @@
-# 3.15 關於 vertical-align 對齊
+# 3.15 排版 - 關於 vertical-align 對齊
 
 同一個層級的元素當中，垂直方向的對齊方式。主要有三個可設定的值：
 
@@ -10,7 +10,7 @@
 
 檔案所在路徑：`css/3.15/index.html`。
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -35,7 +35,7 @@
 
 結果如圖：\(發現「第二項」、「第三項」都到下方了，通常可透過修改 `vertical-align` 來改變對齊方式\)
 
-![](/assets/垂直方向對齊_default.png)
+![](../.gitbook/assets/chui-zhi-fang-xiang-dui-qi-default.png)
 
 將上述的 CSS 部份改成：
 
@@ -49,9 +49,9 @@ ul li{
 }
 ```
 
-![](/assets/垂直對齊方向_top.png)
+![](../.gitbook/assets/chui-zhi-dui-qi-fang-xiang-top.png)
 
 若將 vertical-align 改成 **middle**，則：
 
-![](/assets/垂直對齊方向_middle.png)
+![](../.gitbook/assets/chui-zhi-dui-qi-fang-xiang-middle.png)
 

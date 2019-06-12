@@ -1,4 +1,4 @@
-# 2.13 嵌入內容 - &lt;iframe&gt;...&lt;/iframe&gt;
+# 2.13 嵌入內容
 
 `<iframe>`：inline frame 的縮寫。
 
@@ -8,13 +8,13 @@
 
 ## 結構
 
-```html
+```markup
 <iframe src="#"></iframe>
 ```
 
 ## 常用屬性
 
-```html
+```markup
 <iframe src="#" width="100%" height="200px" frameborder="0"></iframe>
 ```
 
@@ -28,25 +28,25 @@
 
 嵌入外部網站的內容
 
-```html
+```markup
 <iframe src="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/table"></iframe>
 ```
 
-![](/assets/iframe_嵌入外部網站.png)
+![](../.gitbook/assets/iframe-qian-ru-wai-bu-wang-zhan.png)
 
 ## 範例 2
 
 嵌入 youtube 影片
 
-![](/assets/iframe 嵌入影片.png)
+![](../.gitbook/assets/iframe-qian-ru-ying-pian.png)
 
-```html
+```markup
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1UWI7epjcBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 
 結果呈現
 
-![](/assets/iframe 嵌入影片結果.png)
+![](../.gitbook/assets/iframe-qian-ru-ying-pian-jie-guo.png)
 
 ## 練習
 

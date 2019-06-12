@@ -2,7 +2,7 @@
 
 HTML 基本結構
 
-```html
+```markup
 <table>
   <tr>
     <td>第1列，第1欄</td>
@@ -17,7 +17,7 @@ HTML 基本結構
 
 結果\(會發現預設的狀態是毫無邊框的\)：
 
-![](/assets/Screen Shot 2018-02-14 at 2.29.35 PM.png)
+![](../.gitbook/assets/screen-shot-2018-02-14-at-2.29.35-pm.png)
 
 ## 呈現邊框\(border\)
 
@@ -34,7 +34,7 @@ table td{
 
 結果：會發現各欄位的邊框都會有些間距：
 
-![](/assets/table_with_border.png)
+![](../.gitbook/assets/table_with_border.png)
 
 ## border-collapse
 
@@ -57,7 +57,7 @@ table td{
 
 結果呈現
 
-![](/assets/table_with_collapse.png)
+![](../.gitbook/assets/table_with_collapse.png)
 
 ## 介紹 border
 
@@ -89,6 +89,4 @@ border-top-width: 1px;
 border-top-style: solid;
 border-top-color: black;
 ```
-
-
 

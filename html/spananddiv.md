@@ -12,7 +12,7 @@
 
 span 常用於一般文字的部份。
 
-```html
+```markup
 <p>這是一般文字，加<span>粗體</span>可能較好。</p>
 ```
 
@@ -20,7 +20,7 @@ span 常用於一般文字的部份。
 
 常用於將多個元素群組化成同一個。
 
-```html
+```markup
 <div>
   <p>這是段落一</p>
   <p>這是段落二</p>
@@ -29,7 +29,7 @@ span 常用於一般文字的部份。
 
 ## 範例 3：認識 行內\(inline\) 與 區塊\(block\) 元素
 
-```html
+```markup
 <div>
   <a href="#">這是連結一</a>
   <a href="#">這是連結二</a>
@@ -46,7 +46,7 @@ span 常用於一般文字的部份。
 </div>
 ```
 
-結果呈現：![](/assets/理解行內與區塊差異.png)
+結果呈現：![](../.gitbook/assets/li-jie-hang-nei-yu-qu-kuai-cha-yi.png)
 
 簡易判斷方法：若該元素會自動斷行，即為區塊\(block\)元素。
 

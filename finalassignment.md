@@ -2,7 +2,7 @@
 
 一般會提供如下設計稿：
 
-![](/assets/assignment_draft.png)
+![](.gitbook/assets/assignment_draft.png)
 
 題目：
 
@@ -24,11 +24,11 @@
 
 桌機版：
 
-![](/assets/assignment_desktop.png)
+![](.gitbook/assets/assignment_desktop.png)
 
 行動版：
 
-![](/assets/assignment_mobile.png)
+![](.gitbook/assets/assignment_mobile.png)
 
 ## 上傳至 ftp
 
@@ -41,5 +41,5 @@
 * students/1/css/
 * students/1/js/
 
-![](/assets/ftp_dir.png)
+![](.gitbook/assets/ftp_dir.png)
 

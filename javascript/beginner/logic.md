@@ -4,7 +4,7 @@
 
 指的是一個變數，可以存放 **true** 或 **false**，表示該變數是一個布林值。例：
 
-```js
+```javascript
 var a = true;
 var b = false;
 ```
@@ -39,7 +39,7 @@ var b = false;
 
 ## 三元運算子\(?:\)
 
-```js
+```javascript
 var a;
 a = ( (比較結果) ? value1 : value2 );
 ```
@@ -54,11 +54,11 @@ a = ( (比較結果) ? value1 : value2 );
 
 如下範例，結果示意：
 
-![](/assets/logic_boolean.png)
+![](../../.gitbook/assets/logic_boolean.png)
 
 ## 練習2
 
 試試三元運算子，瞭解語法即可：
 
-![](/assets/三元運算子.png)
+![](../../.gitbook/assets/san-yuan-yun-suan-zi.png)
 

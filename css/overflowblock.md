@@ -10,7 +10,7 @@
 
 html
 
-```html
+```markup
 <div class="test_div">這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容</div>
 ```
 
@@ -26,7 +26,7 @@ div.test_div{
 
 結果如圖：
 
-![](/assets/overflow_1.png)
+![](../.gitbook/assets/overflow_1.png)
 
 css 改成：
 
@@ -43,7 +43,7 @@ div.test_div{
 
 結果如圖：
 
-![](/assets/overflow_2.png)
+![](../.gitbook/assets/overflow_2.png)
 
 或 css 改成如下：
 
@@ -58,13 +58,13 @@ div.test_div{
 }
 ```
 
-![](/assets/overflow_3.png)
+![](../.gitbook/assets/overflow_3.png)
 
 ## 範例 2：水平方向
 
 html
 
-```html
+```markup
 <div class="test_div">這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容這是 div 的內容</div>
 ```
 
@@ -81,7 +81,7 @@ div.test_div{
 
 結果如圖：
 
-![](/assets/overflow_4.png)將 css 改成：
+![](../.gitbook/assets/overflow_4.png)將 css 改成：
 
 ```css
 div.test_div{
@@ -98,7 +98,7 @@ div.test_div{
 
 結果如圖：
 
-![](/assets/overflow_5.png)
+![](../.gitbook/assets/overflow_5.png)
 
 ## 應用：限制單行，超出的話，尾端出現 `…` 省略符號
 
@@ -115,5 +115,5 @@ div.test_div{
 
 結果如圖\(文字超出部份，直接出現省略符號\)：
 
-![](/assets/overflow_6.png)
+![](../.gitbook/assets/overflow_6.png)
 

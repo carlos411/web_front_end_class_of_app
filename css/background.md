@@ -20,7 +20,7 @@ div{
 
 christmas-dark.png 的圖片為：
 
-![](/assets/christmas-dark.png)
+![](../.gitbook/assets/christmas-dark.png)
 
 在 index.html 檔案裡，指定如下 CSS：
 
@@ -36,7 +36,7 @@ body{
 
 結果呈現：會發現此圖在 &lt;body&gt; 區域內，不斷地水平、垂直反覆出現圖片。
 
-![](/assets/bg_image.png)
+![](../.gitbook/assets/bg_image.png)
 
 二、設定圖片的重覆狀態，使用 **background-repeat**：
 
@@ -56,7 +56,7 @@ body{
 * repeat-y：圖片向 y 軸重覆出現。
 * no-repeat：不重覆，只出現一次。
 
-![](/assets/背景重覆.png)
+![](../.gitbook/assets/bei-jing-zhong-fu.png)
 
 ## 範例2：背景圖片
 
@@ -70,11 +70,11 @@ body{
 
 lion.png 的圖片為：
 
-![](/assets/lion.jpg)
+![](../.gitbook/assets/lion.jpg)
 
 index\_lion.html 檔案：
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -102,7 +102,7 @@ index\_lion.html 檔案：
 
 結果如下：背景圖超過 div 的區域，會被遮掉看不到。
 
-![](/assets/background1.png)
+![](../.gitbook/assets/background1.png)
 
 ### 使用 **background-size** 來設定背景圖的大小
 
@@ -126,7 +126,7 @@ div.place_img{
 
 結果呈現：
 
-![](/assets/background2.png)
+![](../.gitbook/assets/background2.png)
 
 特殊關鍵字\(**contain**\)：要讓圖片在區域內能夠完整呈現
 
@@ -145,11 +145,11 @@ div.place_img{
 
 結果呈現：
 
-![](/assets/background3.png)
+![](../.gitbook/assets/background3.png)
 
 如果將div的高度改成100px的話，則結果會變成：
 
-![](/assets/background4.png)
+![](../.gitbook/assets/background4.png)
 
 特殊關鍵字\(**cover**\)：要讓圖片佔滿整個區域
 
@@ -168,7 +168,7 @@ div.place_img{
 
 結果如圖：
 
-![](/assets/background6.png)
+![](../.gitbook/assets/background6.png)
 
 ### 使用 **background-position** 來設定背景圖的位置
 
@@ -188,7 +188,7 @@ div.place_img{
 
 結果如圖：
 
-![](/assets/background7.png)
+![](../.gitbook/assets/background7.png)
 
 所以該圖在區域內，搭配關鍵字的話，共有以下幾種組合：
 
@@ -212,5 +212,5 @@ background-position: 50px 10px; /* 水平方向：離左側 50px 的距離；垂
 
 結果如圖：
 
-![](/assets/background8.png)
+![](../.gitbook/assets/background8.png)
 

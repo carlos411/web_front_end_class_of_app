@@ -1,4 +1,4 @@
-# 4.1.1 套用 JS
+# 4.1.1 套用 javascript
 
 套用 JS，讓原來沒有任何**行為**的 html，加上一些互動效果，使之可與使用者互動。主要常用的 JS 套用方式有以下幾種：
 
@@ -6,17 +6,17 @@
 
 直接使用一些屬性，加在 html 的標籤內。但因為這樣會使得 html 過於雜亂，且通常 JS 程式碼較多，建議少用此種套用方式。
 
-```html
+```markup
 <p onclick="alert('open dialog');">開啟 alert 提示訊息</p>
 ```
 
-![](/assets/js套用.png)
+![](../../.gitbook/assets/js-tao-yong.png)
 
 ## 方式二：嵌入套用
 
 在 html 當中，寫在 `<script>...</script>` 之中。可以在頁面的任何地方出現，但建議一般會放在 `</body>` 結束標籤之前，這樣在內容出現時，元素才會被套用到 JS 的行為。
 
-```js
+```javascript
 <body>
   <p>開啟 alert 提示訊息</p>
 
@@ -40,7 +40,7 @@
 
 **index.js** 的內容如下：
 
-```js
+```javascript
 var p = document.getElementsByTagName("p")[0];
 p.addEventListener("click", function(){
   alert("open dialog");
@@ -49,7 +49,7 @@ p.addEventListener("click", function(){
 
 而 **index.html** 要載入 **index.js** 這個外部檔案的方式如下：
 
-```html
+```markup
 <body>
   <p>開啟 alert 提示訊息</p>
 

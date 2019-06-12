@@ -2,7 +2,7 @@
 
 回顧最一開始的範例\(HTML 及 JS\)：
 
-```js
+```javascript
 <h1>這是內文標題</h1>
 <script type="text/javascript">
   var h1 = document.getElementsByTagName("h1")[0];
@@ -13,26 +13,20 @@
 ```
 
 * **click**：就是一個事件，指的是滑鼠左鍵按一下，這樣的行為，就是一種事件\(event\)。
-
 * **function\(\){...}**：這就是回呼函式\(callback\)，指的是完成一件事之後，所要執行的函式，就叫做 callback。
 
 ## 常用滑鼠事件
 
 * onclick：滑鼠左鍵按一下。
-
 * ondblclick：消鼠左鍵按兩下。
-
 * onmousedown：滑鼠左鍵按下未抬起就會觸發。
-
 * onmousemove：滑鼠游標在元素上移動。
-
 * onmouseout：滑鼠移出元素。
-
 * onmouseup：滑鼠左鍵按下後抬起時觸發。
 
 註：大部份寫在 js 的事件時，前面的 `on` 都可省略。
 
-```js
+```javascript
 var h1 = document.getElementsByTagName("h1")[0];
 h1.addEventListener("dblclick", function(){
   alert("open dialog");
@@ -43,7 +37,7 @@ h1.addEventListener("dblclick", function(){
 
 HTML：
 
-```html
+```markup
 <h1 class="title1">這是內文標題</h1>
 <h1 class="title2">另一個h1</h1>
 <br>
@@ -54,19 +48,19 @@ HTML：
 * onload：頁面中的所有物件\(含圖檔等\)都載入完成之後觸發：
 * onresize：改變瀏覽器寬高時觸發。
 
-```js
+```javascript
 window.addEventListener("DOMContentLoaded", function(){
   alert("DOM 載入完成之後觸發。");
 });
 ```
 
-```js
+```javascript
 window.addEventListener("load", function(){
   alert("所有資源載入完成之後觸發。");
 });
 ```
 
-```js
+```javascript
 window.addEventListener("resize", function(){
   console.log("resize")
 });
@@ -83,7 +77,7 @@ window.addEventListener("resize", function(){
 
 HTML：
 
-```html
+```markup
 <form id="the_form" action="#" method="get">
   <input type="text" id="text_input" name="title">
   <button type="submit">送出</button>
@@ -92,32 +86,32 @@ HTML：
 
 JS：
 
-```js
+```javascript
 text_input.addEventListener("focus", function(e){
   console.log("focus event");
 })
 ```
 
-```js
+```javascript
 text_input.addEventListener("blur", function(e){
   console.log("blur event");
 })
 ```
 
-```js
+```javascript
 text_input.addEventListener("change", function(e){
   console.log("change event");
 })
 ```
 
-```js
+```javascript
 text_input.addEventListener("keydown", function(e){
   console.log(e); // 觀察 e
   console.log("keydown event: " + e.which);
 })
 ```
 
-```js
+```javascript
 text_input.addEventListener("keyup", function(e){
   console.log(e); // 觀察 e
   console.log("keyup event: " + e.target.value);
@@ -126,7 +120,7 @@ text_input.addEventListener("keyup", function(e){
 
 關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。最後看一下 form 的 `onsubmit` 事件：
 
-```js
+```javascript
 var the_form = document.getElementById("the_form");
 the_form.addEventListener("submit", function(e){
   // e.preventDefault(); 停止預設行為，表示不會送出資料
@@ -135,9 +129,9 @@ the_form.addEventListener("submit", function(e){
 
 觀察開發者工具\(`Cmd + Option + i`\)的 Network 頁籤。來看 post 資料中的 Form Data：
 
-![](/assets/form_network1.png)
+![](../../.gitbook/assets/form_network1.png)
 
-![](/assets/form_network2.png)
+![](../../.gitbook/assets/form_network2.png)
 
 ## 使用 HTML 事件屬性去觸發
 
@@ -145,7 +139,7 @@ the_form.addEventListener("submit", function(e){
 
 例：\(留意 html 中的 **onclick 屬性** \)
 
-```js
+```javascript
 <!doctype html>
 <html>
   <head>

@@ -2,7 +2,7 @@
 
 儲存多個值，在同一個變數裡。
 
-![](/assets/array_syntax.png)
+![](../../.gitbook/assets/array_syntax.png)
 
 陣列裡的項目，起始項目是從 0 開始算起，以上圖範例來看，item1 是第 0 項、 item2 是第 1 項…以此類推。
 
@@ -10,7 +10,7 @@
 
 語法
 
-```js
+```javascript
 // 宣告 cars 為一個陣列，儲存三個值
 var cars = ["Saab", "Volvo", "BMW"];
 
@@ -32,7 +32,7 @@ var tables = []
 
 語法
 
-```js
+```javascript
 var cars = ["Saab", "Volvo", "BMW"];
 
 var car1 = cars[0]; // car1 的值為 Saab
@@ -42,7 +42,7 @@ cars[1] = "Toyota"; // 這時 cars 陣列會變成是： ["Saab", "Toyota", "BMW
 
 ## 取得陣列個數\(array.length\)
 
-```js
+```javascript
 var cars = ["Saab", "Volvo", "BMW"];
 
 var cars_total = cars.length; // cars_total 的值為 3
@@ -53,11 +53,9 @@ var cars_total = cars.length; // cars_total 的值為 3
 * 使用 **array.push\(item\)** 來增加項目在最後面。
 * 使用 **array.shift\(\)** 移除第 0 項。
 
-```js
+```javascript
 var cars = ["Saab", "Volvo", "BMW"];
 cars.push("Totoya"); // cars 的結果變成 ["Saab", "Volvo", "BMW", "Toyota"]
 cars.shift(); // cars 的結果變成 ["Volvo", "BMW", "Toyota"]
 ```
-
-
 

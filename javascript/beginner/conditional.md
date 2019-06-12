@@ -4,17 +4,17 @@
 
 ## if 語法結構
 
-![](/assets/condition_if.png)
+![](../../.gitbook/assets/condition_if.png)
 
 ## if else 語法結構
 
-![](/assets/condition_if_else.png)
+![](../../.gitbook/assets/condition_if_else.png)
 
 ## if ... else if ... else 語法結構
 
 `else if` 可以有多個。
 
-![](/assets/condition_if_else_if_else.png)
+![](../../.gitbook/assets/condition_if_else_if_else.png)
 
 ## boolean 反轉符號：!
 
@@ -25,11 +25,11 @@
 
 結構一：
 
-![](/assets/condition_switch.png)
+![](../../.gitbook/assets/condition_switch.png)
 
 結構二：
 
-![](/assets/condition_switch_2.png)
+![](../../.gitbook/assets/condition_switch_2.png)
 
 ## 練習
 
@@ -37,7 +37,7 @@
 
 用瀏覽器執行，觀察執行情況：
 
-```js
+```javascript
 <!doctype html>
 <html>
   <head>
@@ -71,6 +71,4 @@
   </body>
 </html>
 ```
-
-
 

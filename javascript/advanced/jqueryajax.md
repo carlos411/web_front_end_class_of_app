@@ -1,8 +1,8 @@
-# 4.3.3 非同步的 JavaScript 與 XML 技術 AJAX - 使用 jQuery
+# 4.3.3 非同步技術 AJAX - 使用 jQuery
 
 jQuery 將原來需要寫很多行的 JavaScript，包裝成單一函式，便於使用。
 
-```js
+```javascript
 $.ajax({
   url: 'http://notes.carlos-studio.com/ajax/example.php', // 將資料傳送出去的網址
   type: 'get',                                            // 也可以是 post
@@ -37,7 +37,7 @@ echo json_encode($arr); // 產生：{"value":"這個是回傳的資料"}
 
 HTML 和 JavaScript
 
-```js
+```javascript
 <!doctype html>
 <html>
   <head>
@@ -75,11 +75,11 @@ HTML 和 JavaScript
 
 執行原理
 
-![](/assets/jquery與ajax.png)
+![](../../.gitbook/assets/jquery-yu-ajax.png)
 
 結果呈現
 
-![](/assets/jquery與ajax_2.png)
+![](../../.gitbook/assets/jquery-yu-ajax2.png)
 
 ## 其它資源
 

@@ -1,4 +1,4 @@
-# 4.1.8 函式\(Function\)
+# 4.1.8 函式\(function\)
 
 什麼是函式？
 
@@ -6,13 +6,13 @@
 
 ## 建立函式
 
-![](/assets/function_basic1.png)
+![](../../.gitbook/assets/function_basic1.png)
 
 ## 使用函式
 
 範例：
 
-```js
+```javascript
 myFunction();
 
 var result = myFunction();
@@ -20,7 +20,7 @@ var result = myFunction();
 
 ## 傳遞參數及回傳結果
 
-![](/assets/function_basic2.png)
+![](../../.gitbook/assets/function_basic2.png)
 
 ## 練習
 
@@ -28,7 +28,7 @@ var result = myFunction();
 
 於瀏覽器中執行，並觀察程式的執行流程、函數的使用：
 
-```js
+```javascript
 <!doctype html>
 <html>
   <head>
@@ -68,6 +68,4 @@ var result = myFunction();
   </body>
 </html>
 ```
-
-
 

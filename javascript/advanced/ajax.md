@@ -1,4 +1,4 @@
-# 4.3.2 非同步的 JavaScript 與 XML 技術 AJAX - 使用 JS
+# 4.3.2 非同步技術 AJAX - 使用 JS
 
 AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
@@ -6,11 +6,11 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
 在程式的執行過程當中，一定要是一個接著一個，例如：第一行程式執行完後才會執行第2行。
 
-![](/assets/同步與ajax非同步_1.png)
+![](../../.gitbook/assets/tong-bu-yu-ajax-fei-tong-bu-1.png)
 
 例 1：for 迴圈跑完了5次之後，才會執行 `alert("done");`。絕對不可能先跑 `alert("done");`。
 
-```js
+```javascript
 for(var i = 0; i < 5; i++){
   alert(i);
 }
@@ -21,7 +21,7 @@ alert("done");
 
 且一定是 jQuery 程式執行完後，才會執行 bootstrap.js 程式。
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -37,7 +37,7 @@ alert("done");
 
 運作原理：
 
-![](/assets/ajax_1.png)
+![](../../.gitbook/assets/ajax_1.png)
 
 B 段程式與 C 段程式，沒有先後的相依性，幾乎是同時執行\(或者B或C先執行\)。
 
@@ -49,7 +49,7 @@ B 段程式與 C 段程式，沒有先後的相依性，幾乎是同時執行\(�
 
 HTML：
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -65,7 +65,7 @@ HTML：
 
 JavaScript：
 
-```js
+```javascript
 function getHTTPObject() {
   var xhr = false;
   if (window.XMLHttpRequest) {
@@ -106,19 +106,19 @@ function displayResponse(request) {
 
 message.txt
 
-```
+```text
 此內容是 message.txt 檔案的內容。取得成功。
 ```
 
 執行結果如圖：
 
-![](/assets/ajax_ex1.png)
+![](../../.gitbook/assets/ajax_ex1.png)
 
 ## 完整範例
 
 檔案所在路徑：`js/4.3.2/index.html`。\(註：JS 因為安全性考量，不支援跨網域存取資料，除非伺服器端有設定允許。同時僅支援特定協定才能執行，所以此範例執行會有錯誤訊息的提示，如下圖\)：
 
-![](/assets/ajax_ex2.png)
+![](../../.gitbook/assets/ajax_ex2.png)
 
 錯誤訊息：Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
 

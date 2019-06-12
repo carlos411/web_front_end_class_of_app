@@ -12,7 +12,7 @@
 
 範例：
 
-```html
+```markup
 <ol>
   <li>第一項</li>
   <li>第二項</li>
@@ -22,7 +22,7 @@
 
 結果呈現：
 
-![](/assets/有序列表.png)
+![](../.gitbook/assets/you-xu-lie-biao.png)
 
 ## 無序列表 - &lt;ul&gt;...&lt;/ul&gt;
 
@@ -36,7 +36,7 @@
 
 範例：
 
-```html
+```markup
 <ul>
   <li>第一項</li>
   <li>第二項</li>
@@ -46,5 +46,5 @@
 
 結果呈現：
 
-![](/assets/無序列表.png)
+![](../.gitbook/assets/wu-xu-lie-biao.png)
 

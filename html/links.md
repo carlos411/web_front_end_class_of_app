@@ -1,4 +1,4 @@
-# 2.10 連結 - &lt;a&gt;...&lt;/a&gt;
+# 2.10 連結
 
 `<a>`：anchor，表示錨點的意思。
 
@@ -6,7 +6,7 @@
 
 基本語法
 
-```html
+```markup
 <a href="http://dropbox.com">這是連結</a>
 
 <!-- 習慣上，有的時候暫時還沒有連結的時候，習慣先以 # 代替 -->
@@ -20,7 +20,7 @@
 * \_self：這是預設值，原分頁開 href 所指定的連結。
 * \_blank：開新分頁。
 
-```html
+```markup
 <a href="http://dropbox.com" target="_blank">這是連結</a>
 ```
 
@@ -65,6 +65,4 @@
   </style>
 </head>
 ```
-
-
 

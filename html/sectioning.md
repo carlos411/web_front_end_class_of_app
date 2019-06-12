@@ -16,11 +16,11 @@
 
 ## 結構的轉換
 
-在還沒有 HTML5 之前，是單純使用 `<div>` 來創造頁面的各個區塊，如下圖：![](/assets/純div.png)
+在還沒有 HTML5 之前，是單純使用 `<div>` 來創造頁面的各個區塊，如下圖：![](../.gitbook/assets/chun-div.png)
 
 但 `<div>` 本身是沒有語意的，不利於 SEO。所以在 HTML5 開始之後，有了新的規範，讓以上各個頁面區塊，重新賦予實際的意義：
 
-![](/assets/html5新結構.png)
+![](../.gitbook/assets/html5-xin-jie-gou.png)
 
 這樣就能更加瞭解各個頁面的區塊實際上所代表的意涵。
 

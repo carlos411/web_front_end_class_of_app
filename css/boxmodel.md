@@ -6,7 +6,7 @@
 
 **border**：該元素的邊框。
 
-![](/assets/box_model.png)
+![](../.gitbook/assets/box_model.png)
 
 ## 範例
 
@@ -14,7 +14,7 @@
 
 HTML：
 
-```html
+```markup
 <span class="span1">這是文字1</span>
 ```
 
@@ -27,7 +27,7 @@ CSS：
 }
 ```
 
-![](/assets/box_model_example.png)
+![](../.gitbook/assets/box_model_example.png)
 
 第二步：增加 **padding**。
 
@@ -43,7 +43,7 @@ CSS：
 }
 ```
 
-![](/assets/box_model_example2.png)
+![](../.gitbook/assets/box_model_example2.png)
 
 第三步：增加 **margin**。
 
@@ -62,7 +62,7 @@ CSS：
 }
 ```
 
-![](/assets/box_model_example3.png)
+![](../.gitbook/assets/box_model_example3.png)
 
 留意：上下 margin 與其他 margin 或 padding 相鄰時，有時會被自動合併，取最大值。
 
@@ -91,7 +91,7 @@ padding 縮寫形式相同。
 
 html：
 
-```html
+```markup
 <div class="test_div">這是 div 的內容</div>
 ```
 
@@ -106,7 +106,7 @@ div.test_div{
 
 結果如圖：\(可以得知實際寬度會是 104px。如果有 padding-left、padding-right的話，也會再加上padding 的寬度。\)
 
-![](/assets/box_sizing_1.png)
+![](../.gitbook/assets/box_sizing_1.png)
 
 css 改成如下：
 
@@ -122,7 +122,7 @@ div.test_div{
 
 結果如圖：\(可以發現寬度變成了 100px，也就是 border 及 padding 的寬度也會被包含在 width 所設定的寬度內。\)
 
-![](/assets/box_sizing_2.png)
+![](../.gitbook/assets/box_sizing_2.png)
 
 ## 練習：學會觀察
 
@@ -132,7 +132,7 @@ div.test_div{
 
 並試著改變 display 屬性的值來觀察，可選的有 `inline`、`inline-block`、`block`：
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -175,5 +175,5 @@ div.test_div{
 
 以 Mac 電腦為例，使用 **Chrome 瀏覽器**，快速鍵 `cmd + option + i`，即可看到 **elements** 的頁籤。如圖：
 
-![](/assets/box_model_example4.png)
+![](../.gitbook/assets/box_model_example4.png)
 

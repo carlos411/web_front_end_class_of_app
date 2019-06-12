@@ -1,4 +1,6 @@
-# 1 簡介
+# 1. 簡介
+
+## 1 簡介
 
 所有的練習會於課堂上，提供原始碼供學生使用。
 
@@ -6,7 +8,7 @@
 
 這三者分別代表的意義：
 
-# HTML = HyperText Markup Language
+## HTML = HyperText Markup Language
 
 HTML 負責「**結構**」、「**語意**」。
 
@@ -14,15 +16,15 @@ HTML 負責「**結構**」、「**語意**」。
 
 「語意」做的好，對「SEO」有幫助。
 
-# CSS = Cascading Style Sheets
+## CSS = Cascading Style Sheets
 
 CSS 負責網頁的「**外觀**」，包含了視覺風格、排版。
 
-# JS = JavaScript
+## JS = JavaScript
 
 JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動操作。
 
-# 練習：第一個網頁
+## 練習：第一個網頁
 
 檔案所在路徑：`簡介/`
 
@@ -36,9 +38,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 編輯 index.html：
 
-## 第一步：撰寫 html
+### 第一步：撰寫 html
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -51,9 +53,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 </html>
 ```
 
-## 第二步：撰寫 CSS
+### 第二步：撰寫 CSS
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -73,9 +75,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 </html>
 ```
 
-## 第三步：撰寫 JS
+### 第三步：撰寫 JS
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -101,11 +103,11 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 </html>
 ```
 
-## 完成
+### 完成
 
 index.html 點兩下於瀏覽器中直接開啟。
 
-## 練習之檔案下載
+### 練習之檔案下載
 
 [下載連結](http://notes.carlos-studio.com/download/web_front_end_practice.zip)
 

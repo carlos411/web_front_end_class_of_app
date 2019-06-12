@@ -2,14 +2,14 @@
 
 HTML：
 
-```html
+```markup
 <div id="div_block_1">這是第一個 div 區塊</div>
 <div id="div_block_2">這是第二個 div 區塊</div>
 ```
 
 JavaScript：
 
-```js
+```javascript
 // 取得 id 為 div_block_1 的元素，並存於 div_block_1 變數之中
 var div_block_1 = document.getElementById("div_block_1");
 
@@ -19,11 +19,11 @@ div_block_1.remove();
 
 結果呈現：
 
-![](/assets/js移除元素.png)
+![](../../.gitbook/assets/js-yi-chu-yuan-su.png)
 
 對應的 jQuery 版本：
 
-```js
+```javascript
 // 取得 id 為 div_block_1 的元素，並存於 div_block_1 變數之中
 var div_block_1 = $("#div_block_1");
 

@@ -2,7 +2,7 @@
 
 如遇特殊符號，可嚐試使用 HTML Entity 來顯示，例：
 
-```html
+```markup
 <body>
   &lt;
   <br>
@@ -20,9 +20,9 @@
 
 結果呈現：
 
-![](/assets/HTML Entities.png)
+![](../.gitbook/assets/html-entities.png)
 
 ## 資源
 
-[更多 HTML Entities  \(https://www.w3schools.com/html/html\_entities.asp\)](https://www.w3schools.com/html/html_entities.asp)
+[更多 HTML Entities \(https://www.w3schools.com/html/html\_entities.asp\)](https://www.w3schools.com/html/html_entities.asp)
 

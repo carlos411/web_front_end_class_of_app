@@ -1,6 +1,6 @@
 # 4.3.4 儲存機制 - cookie
 
-![](/assets/cookie.png)
+![](../../.gitbook/assets/cookie.png)
 
 ## 什麼是 Cookie？
 
@@ -12,31 +12,31 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、i
 
 以 Chrome 瀏覽器為例：如下圖\(`cmd + option + i`，切換到 Application 頁籤\)
 
-![](/assets/cookie_info1.png)
+![](../../.gitbook/assets/cookie_info1.png)
 
 ## 使用 JS 建立 cooke
 
 本地端 file:// 模式無法測試，可隨意開啟任意網站來測試：
 
-```js
+```javascript
 document.cookie = "school=某某大學";
 ```
 
 通常沒有設定過期的時間的話，整個結束瀏覽器的話，該 cookie 就會自動被刪除。
 
-![](/assets/cookie_info2.png)
+![](../../.gitbook/assets/cookie_info2.png)
 
 ## 設定 cookie 的過期時間
 
-```js
+```javascript
 document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 ```
 
-![](/assets/cookie_info3.png)
+![](../../.gitbook/assets/cookie_info3.png)
 
 註：[時間格式轉換](http://coderstoolbox.net/unixtimestamp/)
 
-![](/assets/cookie_info4.png)
+![](../../.gitbook/assets/cookie_info4.png)
 
 Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
@@ -52,19 +52,19 @@ Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
 建立一個名稱為 school 的 cookie，過期時間定為 `Thu, 18 Dec 2018 03:00:00 UTC`
 
-```js
+```javascript
 document.cookie = "school=某某大學; expires=Thu, 18 Dec 2018 03:00:00 UTC";
 ```
 
 若要將 school 刪除\(改成 2017 年即可直接刪除\)：
 
-```js
+```javascript
 document.cookie = "school=某某大學; expires=Thu, 18 Dec 2017 03:00:00 UTC";
 ```
 
 ## 取得 cookie 的值
 
-```js
+```javascript
 document.cookie
 ```
 
@@ -79,7 +79,7 @@ document.cookie 就會取得 `"school=某某大學; school_another=另一間"`�
 
 另有現成的函式，可方便直接取得 cookie 的值：
 
-```js
+```javascript
 function getCookie(cname) {
     var name = cname + "=";
     var ca = document.cookie.split(';');
@@ -98,7 +98,7 @@ function getCookie(cname) {
 
 就可以直接使用 getCookie\(\) 函式來取得 cookie 的值：
 
-```js
+```javascript
 var my_cookie = getCookie('school');
 ```
 

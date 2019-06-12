@@ -4,7 +4,7 @@
 
 HTML：
 
-```html
+```markup
 <p>這是段落一</p>
 <p id="the_id">這是段落二</p>
 <p class="class_name">這是段落三</p>
@@ -13,7 +13,7 @@ HTML：
 
 JavaScript：
 
-```js
+```javascript
 document.getElementsByTagName("p");             // 取得 所有 <p> 元素
 document.getElementById("the_id");              // 取得 id="the_id" 的元素
 document.getElementsByClassName("class_name");  // 取得 class="class_name" 的元素
@@ -21,7 +21,7 @@ document.getElementsByClassName("class_name");  // 取得 class="class_name" 的
 
 對應 jQuery 的版本：
 
-```js
+```javascript
 $("p");            // 代表取的是 <p> 元素
 $("#the_id");      // # 字號代表後面接的是 id 的名稱
 $(".class_name");  // . 符號代表後面接的是 class 的名稱
@@ -31,20 +31,20 @@ $(".class_name");  // . 符號代表後面接的是 class 的名稱
 
 html：
 
-```html
+```markup
 <p>這是段落一</p>
 ```
 
 JavaScript：
 
-```js
+```javascript
 var el_p = document.getElementsByTagName("p")[0]; // 取得元素
 console.log( el_p.innerHTML ); // 取得「這是段落一」
 ```
 
 對應 jQuery 的版本：
 
-```js
+```javascript
 console.log( $("p").html() ); // 取得「這是段落一」，預設會取得第一個 <p> 元素的內容
 ```
 
@@ -52,14 +52,14 @@ console.log( $("p").html() ); // 取得「這是段落一」，預設會取得�
 
 html：
 
-```html
+```markup
 <input type="text" id="the_text">
 <button type="button" id="the_btn">取得值</button>
 ```
 
 JavaScript：
 
-```js
+```javascript
 var el_the_btn = document.getElementById("the_btn");             // 取得 button 元素
 el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
   var el_the_text = document.getElementById("the_text");         // 取得欄位元素
@@ -69,7 +69,7 @@ el_the_btn.addEventListener("click", function(){                 // button 的 c
 
 jQuery：
 
-```js
+```javascript
 $("#the_btn").on("click", function(){
   console.log($("#the_text").val());
 });
@@ -79,14 +79,14 @@ $("#the_btn").on("click", function(){
 
 html：
 
-```html
+```markup
 <textarea id="the_textarea"></textarea>
 <button type="button" id="the_btn">取得值</button>
 ```
 
 JavaScript：
 
-```js
+```javascript
 var el_the_btn = document.getElementById("the_btn");
 el_the_btn.addEventListener("click", function(){                 // button 的 click 事件綁定
   var el_the_textarea = document.getElementById("the_textarea");
@@ -96,7 +96,7 @@ el_the_btn.addEventListener("click", function(){                 // button 的 c
 
 jQuery：
 
-```js
+```javascript
 $("#the_btn").on("click", function(){
   console.log($("#the_textarea").val());
 });
@@ -106,7 +106,7 @@ $("#the_btn").on("click", function(){
 
 html：
 
-```html
+```markup
 <select id="the_select">
   <option value="1">選項一</option>
   <option value="2">選項二</option>
@@ -116,7 +116,7 @@ html：
 
 JavaScript：
 
-```js
+```javascript
 var el_the_btn = document.getElementById("the_btn");       // 取得 button 欄位
 
 el_the_btn.addEventListener("click", function(){           // button 的 click 事件綁定
@@ -127,7 +127,7 @@ el_the_btn.addEventListener("click", function(){           // button 的 click �
 
 jQuery：
 
-```js
+```javascript
 $("#the_btn").on("click", function(){
   console.log($("#the_select").val());
 });
@@ -137,7 +137,7 @@ $("#the_btn").on("click", function(){
 
 html：
 
-```html
+```markup
 <input type="radio" name="food_type" value="1"> 葷
 <input type="radio" name="food_type" value="2"> 素
 <button type="button" id="the_btn">取得值</button>
@@ -145,7 +145,7 @@ html：
 
 JavaScript：
 
-```js
+```javascript
 var el_the_btn = document.getElementById("the_btn");            // 取得 button 欄位
 
 el_the_btn.addEventListener("click", function(){                // button 的 click 事件綁定
@@ -160,7 +160,7 @@ el_the_btn.addEventListener("click", function(){                // button 的 cl
 
 jQuery：
 
-```js
+```javascript
 $("#the_btn").on("click", function(){
   console.log( $('input[name=food_type]:checked').val() );  // 取得選到的那個選項的值
 });
@@ -170,7 +170,7 @@ $("#the_btn").on("click", function(){
 
 html：
 
-```html
+```markup
 <input type="checkbox" name="habits" value="1"> 興趣1
 <input type="checkbox" name="habits" value="2"> 興趣2
 <button type="button" id="the_btn">取得值</button>
@@ -178,7 +178,7 @@ html：
 
 JavaScript：
 
-```js
+```javascript
 var el_the_btn = document.getElementById("the_btn");               // 取得 button 欄位
 
 el_the_btn.addEventListener("click", function(){                   // button 的 click 事件綁定
@@ -193,7 +193,7 @@ el_the_btn.addEventListener("click", function(){                   // button 的
 
 jQuery：
 
-```js
+```javascript
 $("#the_btn").on("click", function(){
 
   $('input[name=habits]').each(function(){
@@ -204,6 +204,4 @@ $("#the_btn").on("click", function(){
 
 });
 ```
-
-
 

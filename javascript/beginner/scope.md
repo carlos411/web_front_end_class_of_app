@@ -6,7 +6,7 @@
 
 ## 範例 1：先後順序
 
-```js
+```javascript
 alert(a); // 會跳出提示訊息，內容為 undefined。因為在這行之前，a 並沒有被宣告成變數過。
 var a = 10;
 ```
@@ -15,7 +15,7 @@ var a = 10;
 
 a 為全域變數
 
-```js
+```javascript
 var a = 10;
 function add_number(){
   a = a + 10;
@@ -28,7 +28,7 @@ alert(a); // 跳出提示訊息，結果 a 是 20。
 
 函式裡的 a 及 x ，在函式外就不存在。
 
-```js
+```javascript
 var a = 10;
 function add_number(x){
   var a = x + 10;
@@ -40,7 +40,7 @@ alert(a); // 跳出提示訊息，結果 a 是 10。
 
 ## 範例 4
 
-```js
+```javascript
 var a = 10;
 function add_number(x){
   a = x + 10;
@@ -50,13 +50,13 @@ alert(a); // 跳出提示訊息，結果 a 是 20。
 alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 ```
 
-![](/assets/x_not_defined.png)
+![](../../.gitbook/assets/x_not_defined.png)
 
 ## 範例 5：傳值呼叫\(Call by Value\)
 
 在傳遞參數時，只會複製其值至參數之中。
 
-```js
+```javascript
 var a = 10;
 function add_number(a){
   a = a + 10;
@@ -70,7 +70,7 @@ alert(a); // 跳出提示訊息，結果 a 是 10。
 
 **物件**、**陣列**皆為傳址呼叫的型態，即在傳遞參數時，是共用相同的記憶體區塊。
 
-```js
+```javascript
 var a = [1, 2];
 function add_number(a){
   a.push(3);
@@ -78,6 +78,4 @@ function add_number(a){
 add_number(a);
 console.log(a); // 結果為 [1, 2, 3]
 ```
-
-
 

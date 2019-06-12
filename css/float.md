@@ -1,4 +1,4 @@
-# 3.15 排版 - 關於浮動\(float\)
+# 3.16 排版 - 關於浮動\(float\)
 
 決定一個元素，在某區域的浮動狀態，可設定的值有：
 
@@ -10,7 +10,7 @@
 
 HTML：
 
-```html
+```markup
 <div class="first">
   <img src="./images/apple.png">
   這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容
@@ -28,7 +28,7 @@ div.first{
 
 結果\(這是預設情況\)：
 
-![](/assets/float1.png)
+![](../.gitbook/assets/float1.png)
 
 CSS 變更成：
 
@@ -46,7 +46,7 @@ div.first img{
 
 結果：
 
-![](/assets/float2.png)
+![](../.gitbook/assets/float2.png)
 
 CSS 再變更成：
 
@@ -62,7 +62,7 @@ div.first img{
 }
 ```
 
-結果：![](/assets/float3.png)
+結果：![](../.gitbook/assets/float3.png)
 
 ## 練習：問題
 
@@ -72,7 +72,7 @@ div.first img{
 
 HTML：
 
-```html
+```markup
 <div class="first">
   <img src="./images/apple.png">
   這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是內容這是
@@ -93,7 +93,7 @@ div.first img{
 
 結果：發現紅框的高度，並沒有跟著圖片來增加，因為該圖已設定成浮動元素
 
-![](/assets/flaot4.png)
+![](../.gitbook/assets/flaot4.png)
 
 ## 解法：使用擬似元素\(Pseudo Element\) `::after`
 
@@ -124,7 +124,7 @@ div.first img{
 
 結果：
 
-![](/assets/float6.png)
+![](../.gitbook/assets/float6.png)
 
-故將 `content: "abc";` 改成 `content: "";`，即變成：![](/assets/float5.png)
+故將 `content: "abc";` 改成 `content: "";`，即變成：![](../.gitbook/assets/float5.png)
 

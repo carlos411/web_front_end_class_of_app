@@ -2,7 +2,7 @@
 
 HTML：
 
-```html
+```markup
 <div id="div_block">這是 div 區塊</div>
 ```
 
@@ -12,7 +12,7 @@ JavaScript：
 * **{element}.appendChild\(元素\)**：替 {element} 的裡面且最後面，加上新的子元素。
 * **document.createTextNode\("任何文字"\)**：建立文字節點。
 
-```js
+```javascript
 // 使用 JS 來建立 <p> 元素，並存於 para 變數之中
 var para = document.createElement("p");
 
@@ -31,7 +31,7 @@ para.appendChild(txt);
 
 結果呈現：
 
-![](/assets/js新增元素.png)
+![](../../.gitbook/assets/js-xin-zeng-yuan-su.png)
 
 對應的 jQuery 版本：
 
@@ -39,7 +39,7 @@ para.appendChild(txt);
 * **{element}.append\(元素\)**：替 {element} 的裡面且最後面，加上新的子元素。
 * **{element}.text\("任何文字"\)**：在 {element} 元素，放入欲新增的文字。
 
-```js
+```javascript
 // 使用 jQuery 來建立 <p> 元素，並存於 para 變數之中
 var para = $("<p>");
 
@@ -52,8 +52,6 @@ div_block.append(para);
 // 替 para 元素，放入文字
 para.text("新貼入的文字");
 ```
-
-
 
 ## 練習
 

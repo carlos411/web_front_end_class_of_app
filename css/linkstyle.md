@@ -19,7 +19,7 @@
 
 HTML：
 
-```html
+```markup
 <a href="#" class="link_style">這是連結文字</a>
 ```
 
@@ -43,6 +43,4 @@ a.link_style:active{
   color: #0000FF;
 }
 ```
-
-
 

@@ -18,7 +18,7 @@
 
 ## HTML
 
-[所有標籤：https://www.w3schools.com/tags/](https://www.w3schools.com/tags/ "w3schools")
+[所有標籤：https://www.w3schools.com/tags/](https://www.w3schools.com/tags/)
 
 [更多 Meta Data：https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
 

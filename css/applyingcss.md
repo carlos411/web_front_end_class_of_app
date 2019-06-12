@@ -6,7 +6,7 @@
 
 直接使用 style 屬性，加在 html 的標籤內。但因為這樣會使得 html 過於雜亂，建議少用。
 
-```html
+```markup
 <p style="color: blue;">這是段落，使用 屬性 style 來改變文字樣式。</p>
 ```
 
@@ -41,7 +41,7 @@ p{
 
 而 **index.html** 要載入 **index.css** 這個外部檔案的方式如下：
 
-```html
+```markup
 <head>
   <link href="./css/index.css" rel="stylesheet">
 </head>

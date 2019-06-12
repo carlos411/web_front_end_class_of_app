@@ -1,4 +1,4 @@
-# 2.4 中介資料\(Meta Data\) - &lt;meta&gt;
+# 2.4 中介資料\(Meta Data\)
 
 ## 語意
 
@@ -8,17 +8,17 @@
 
 ## 範例
 
-```html
+```markup
 <head>
   <meta charset="utf-8">
 </head>
 ```
 
-瀏覽器會解讀：該網頁的字元集編碼為** utf-8**。即支援大多數的文字種類。
+瀏覽器會解讀：該網頁的字元集編碼為 **utf-8**。即支援大多數的文字種類。
 
 ## 其他 Meta 範例
 
-```html
+```markup
 <head>
   <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="description" content="網站前端教學">
@@ -39,11 +39,11 @@
 
 **沒有指定 viewport 時的狀況，顯示了桌機版的網頁版本\(下圖出自於博客來官網\)：**
 
-![](/assets/viewport_no.png)
+![](../.gitbook/assets/viewport_no.png)
 
 **有指定 viewport 的正確情況，顯示了行動版的網頁：**
 
-![](/assets/viewport_yes.png)
+![](../.gitbook/assets/viewport_yes.png)
 
 ## 資源
 

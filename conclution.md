@@ -1,4 +1,4 @@
-# 8. 結語，NEXT...
+# 8. 結語
 
 ## 自我學習：網站前端還有更多
 
@@ -16,7 +16,7 @@
 
 ## 網站上線
 
-![](/assets/web_process.png)
+![](.gitbook/assets/web_process.png)
 
 ## 作業
 
@@ -32,6 +32,4 @@
 * [http://notes.carlos-studio.com/web\_learn/students/C1800061/index.html](http://notes.carlos-studio.com/web_learn/students/C1800061/index.html)
 * [http://notes.carlos-studio.com/web\_learn/students/students8/work.html](http://notes.carlos-studio.com/web_learn/students/students8/work.html)
 * [http://notes.carlos-studio.com/web\_learn/teacher/index.html](http://notes.carlos-studio.com/web_learn/teacher/index.html)
-
-
 

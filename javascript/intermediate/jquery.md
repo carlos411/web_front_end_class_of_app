@@ -10,14 +10,14 @@
 
 第二步：下載，會是一個類似 **jquery-3.3.1.min.js** 的一個 js 檔案：
 
-![](/assets/jquery_download.png)
+![](../../.gitbook/assets/jquery_download.png)
 
 第三步：於網頁\(**index.html**\)中載入，假設資料夾的結構如下：
 
 * js/jquery-3.3.1.min.js
 * index.html
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -51,11 +51,11 @@
 
 第二步：
 
-![](/assets/jquery_download_by_cdn.png)
+![](../../.gitbook/assets/jquery_download_by_cdn.png)
 
 第三步：直接於網頁\(**index.html**\)中載入：
 
-```html
+```markup
 <!doctype html>
 <html>
   <head>
@@ -87,7 +87,7 @@
 
 JavaScript 版本：
 
-```js
+```javascript
 var h1 = document.getElementsByTagName("h1")[0];
 h1.addEventListener("click", function(){
   alert("open dialog");
@@ -96,12 +96,10 @@ h1.addEventListener("click", function(){
 
 jQuery 版本：
 
-```js
+```javascript
 var h1 = $("h1")[0];
 $(h1).on("click", function(){
   alert("open dialog2");
 });
 ```
-
-
 

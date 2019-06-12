@@ -1,12 +1,12 @@
-# 4.1.7 迴圈\(Loop\)
+# 4.1.7 迴圈\(loop\)
 
 ## for 迴圈
 
-![](/assets/loop_for.png)
+![](../../.gitbook/assets/loop_for.png)
 
 範例：
 
-```js
+```javascript
 var x;
 for(x = 0; x < 5; x++){
   alert(x);
@@ -26,15 +26,15 @@ for(x = 0; x < 5; x++){
 
 第 5 步：跑完大括號裡的程式號，進行 `x++`，`x++` 的意思，等同於 `x = x + 1`，故 x 的結果變成是 1，然後回到第3步繼續判斷。
 
-**注意：避免創造無窮迴圈。\(例如將 **`x++`** 改成 **`x--`**\)。**
+**注意：避免創造無窮迴圈。\(例如將** `x++` **改成** `x--`**\)。**
 
 ## while 迴圈
 
-![](/assets/loop_while.png)
+![](../../.gitbook/assets/loop_while.png)
 
 範例：
 
-```js
+```javascript
 var i = 0;
 while (i < 5) {
     alert(i);
@@ -57,11 +57,11 @@ while (i < 5) {
 
 ## do while 迴圈
 
-![](/assets/loop_do_while.png)
+![](../../.gitbook/assets/loop_do_while.png)
 
 範例：
 
-```js
+```javascript
 var i = 0;
 do{
   alert(i);
@@ -83,6 +83,4 @@ do{
 **do 區塊在一開始一定會執行 1 次，這是與 while 迴圈的主要差異之處。**
 
 想想看，如果 i 的初始值是 6 的執行情況？
-
-
 

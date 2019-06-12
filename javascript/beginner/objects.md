@@ -2,7 +2,7 @@
 
 結構語法
 
-![](/assets/object_basic1.png)
+![](../../.gitbook/assets/object_basic1.png)
 
 「**任何值**」可以是數值、函式、字串、物件等任何 JavaScript 合法的型態都可。
 
@@ -18,7 +18,7 @@
 
 瞭解物件結構，以及如何使用物件：
 
-```js
+```javascript
 var car = {
   brand_name: "toyota",
   weight: "500kg",
@@ -38,7 +38,7 @@ alert(car.brand_name);
 
 其它語法撰寫模式，以下範例寫法結果是與上面相同的：
 
-```js
+```javascript
 var car = {}; // 宣告 car 為一個空的物件
 car.brand_name = "toyota";
 car.weight = "500kg";
@@ -54,8 +54,4 @@ car.drive();
 car.stop();
 alert(car.brand_name);
 ```
-
-
-
-
 

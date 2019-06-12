@@ -1,4 +1,4 @@
-# 3.11 表單樣式
+# 3.11 表單樣式
 
 ## 文字欄位\(type="text"\)
 
@@ -6,7 +6,7 @@
 
 HTML
 
-```html
+```markup
 <input type="text" class="the_text">
 ```
 
@@ -20,13 +20,13 @@ input.the_text:focus{
 
 結果呈現：
 
-![](/assets/focus_status.png)
+![](../.gitbook/assets/focus_status.png)
 
 ## 多文字欄位\(textarea\)
 
 HTML
 
-```html
+```markup
 <textarea rows="3" cols="50">這是內容</textarea>
 ```
 
@@ -40,7 +40,7 @@ textarea{
 
 結果如下：
 
-![](/assets/textarea_resize_sample.png)resize 可選的值有：
+![](../.gitbook/assets/textarea_resize_sample.png)resize 可選的值有：
 
 * both：這是預設。使用者可改變 textarea 欄位的寬高。
 * horizontal：使用者可水平將 textarea 欄位變寬。
@@ -53,9 +53,9 @@ textarea{
 * 核取框\(type="checkbox"\)：checkbox 邊框、背景等皆無法改變。
 * 下拉選單\(select\)：僅能部份改變。\(option 項目無法改變。\)
 
-![](/assets/form_difficult_customize.png)
+![](../.gitbook/assets/form_difficult_customize.png)
 
-![](/assets/form_difficult_customize2.png)
+![](../.gitbook/assets/form_difficult_customize2.png)
 
 這些項目若要有比較特別的介面，都需要高度客製化，都需再撰寫 html、css 、js 來做介面。
 

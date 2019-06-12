@@ -1,4 +1,4 @@
-# 2.5.1 斷行與水平分隔線
+# 2.5 斷行與水平分隔線
 
 共同特性：**沒有結束標籤**。
 
@@ -10,13 +10,13 @@
 
 範例：
 
-```html
+```markup
 <p>這是段落<br>另起新的一行</p>
 ```
 
 結果呈現：
 
-![](/assets/斷行.png)
+![](../.gitbook/assets/duan-hang.png)
 
 ## 水平分隔線 - &lt;hr&gt;
 
@@ -24,11 +24,11 @@
 
 範例：
 
-```html
+```markup
 <p>這是段落<br>另起新的一行</p>
 <hr>
 <p>這是段落<br>另起新的一行</p>
 ```
 
-結果呈現：![](/assets/水平分隔線.png)
+結果呈現：![](../.gitbook/assets/shui-ping-fen-ge-xian.png)
 

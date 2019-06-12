@@ -1,4 +1,4 @@
-# 4.1.4 加減乘除及初探 Console
+# 4.1.4 加減乘除及初探 console
 
 `+`：加法。
 
@@ -16,11 +16,11 @@
 
 以 Mac 電腦為例，使用 **Chrome 瀏覽器**，快速鍵 `cmd + option + i`，即可看到 **console** 的頁籤。如圖：
 
-![](/assets/console.png)
+![](../../.gitbook/assets/console.png)
 
 範例 code：
 
-```js
+```javascript
 var a = 5;
 var b = 2;
 
@@ -31,11 +31,7 @@ var divide = a / b;
 var remainder = a % b;
 ```
 
-
-
-
-
 示範結果：
 
-![](/assets/console示範.png)
+![](../../.gitbook/assets/console-shi-fan.png)
 

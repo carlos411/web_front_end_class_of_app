@@ -1,4 +1,4 @@
-# 2.12 表格 - &lt;table&gt;...&lt;/table&gt;
+# 2.12 表格
 
 ## 語意
 
@@ -20,7 +20,7 @@
 
 基本結構 1
 
-```html
+```markup
 <table>
   <tr>
     <td></td>
@@ -35,7 +35,7 @@
 
 基本結構 2
 
-```html
+```markup
 <table>
   <tr>
     <th></th>
@@ -50,7 +50,7 @@
 
 進階結構
 
-```html
+```markup
 <table>
   <thead>
     <tr>
@@ -77,7 +77,7 @@
 
 ## 範例 1
 
-```html
+```markup
 <table>
   <tr>
     <td>第一列第一欄</td>
@@ -92,11 +92,11 @@
 
 結果呈現
 
-![](/assets/基本結構1.png)
+![](../.gitbook/assets/ji-ben-jie-gou-1.png)
 
 ## 範例 2
 
-```html
+```markup
 <table>
   <tr>
     <th>標題一</th>
@@ -115,11 +115,11 @@
 
 結果呈現
 
-![](/assets/基本結構2.png)
+![](../.gitbook/assets/ji-ben-jie-gou-2.png)
 
 ## 範例 3
 
-```html
+```markup
 <table>
   <thead>
     <tr>
@@ -148,14 +148,14 @@
 
 結果呈現
 
-![](/assets/進階結構.png)
+![](../.gitbook/assets/jin-jie-jie-gou.png)
 
 ## rowspan 與 colspan 合併欄位
 
 * rowspan：以「列\(橫\)」的方式來算，合併幾個欄位。
 * colspan：以「行\(直\)」的方式來算，合併幾個欄位。
 
-```html
+```markup
 <table>
   <tr>
     <td>第一列第一欄</td>
@@ -168,9 +168,9 @@
 </table>
 ```
 
-![](/assets/table_original.png)
+![](../.gitbook/assets/table_original.png)
 
-```html
+```markup
 <table>
   <tr>
     <td rowspan="2">第一列第一欄</td>
@@ -182,9 +182,9 @@
 </table>
 ```
 
-![](/assets/table_rowspan.png)
+![](../.gitbook/assets/table_rowspan.png)
 
-```html
+```markup
 <table>
   <tr>
     <td colspan="2">第一列第一欄</td>
@@ -196,7 +196,7 @@
 </table>
 ```
 
-![](/assets/table_colspan.png)
+![](../.gitbook/assets/table_colspan.png)
 
 ## 練習
 
@@ -204,5 +204,5 @@
 
 試著畫出下方表格：
 
-![](/assets/table_practice.png)
+![](../.gitbook/assets/table_practice.png)
 

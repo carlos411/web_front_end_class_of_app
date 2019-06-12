@@ -2,7 +2,7 @@
 
 無序列表結構：
 
-```html
+```markup
 <ul class="unorder_list">
   <li></li>
   <li></li>
@@ -11,7 +11,7 @@
 
 有序列表結構：
 
-```html
+```markup
 <ol class="order_list">
   <li></li>
   <li></li>
@@ -20,7 +20,7 @@
 
 上面 html 的呈現結果：試著觀察預設的列表樣式。
 
-![](/assets/list_basic_style.png)
+![](../.gitbook/assets/list_basic_style.png)
 
 ## 列表相關 CSS 樣式
 
@@ -46,7 +46,7 @@ ul.unorder_list{
 
 HTML
 
-```html
+```markup
 <ul class="unorder_list">
   <li>第一項</li>
   <li>第一項</li>
@@ -125,9 +125,9 @@ ul.unorder_list.-upper-roman{
 
 結果
 
-![](/assets/list_basic2.png)
+![](../.gitbook/assets/list_basic2.png)
 
 下圖請觀察 `list-style: inside;` 的樣子：
 
-![](/assets/list_inside.png)
+![](../.gitbook/assets/list_inside.png)
 

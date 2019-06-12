@@ -2,7 +2,7 @@
 
 HTML：
 
-```html
+```markup
 <p id="the_id">這是段落</p>
 ```
 
@@ -21,7 +21,7 @@ JavaScript：
 * **setAttribute\(attribute, value\)**：更新屬性的值。
 * **removeAttribute\(attribute\)**：移除屬性。
 
-```js
+```javascript
 // 透過 id 取得元素
 var para_ele = document.getElementById("the_id");
 
@@ -51,7 +51,7 @@ para_ele.removeAttribute("class");
 * **.attr\(attribute, value\)**：更新屬性的值。
 * **.removeAttr\(attribute\)**：移除屬性。
 
-```js
+```javascript
 // 透過 id 取得元素
 var para_ele = $("#the_id");
 
@@ -85,7 +85,7 @@ $(para_ele).removeAttr("class");
 
 html：
 
-```html
+```markup
 <p class="default_style" id="new_para">這是新增的段落</p>
 <button type="button" id="btn_switch_style">新增/移除 another_style 樣式</button>
 ```
@@ -104,7 +104,7 @@ css：
 
 js：
 
-```js
+```javascript
 // 樣式的新增/移除：
 var el_btn_switch_style = document.getElementById("btn_switch_style");
 el_btn_switch_style.addEventListener("click", function(){
@@ -128,6 +128,4 @@ $("#btn_switch_style").on("click", function(){
 
 });
 ```
-
-
 

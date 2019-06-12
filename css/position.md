@@ -1,4 +1,4 @@
-# 3.16 排版 - 關於定位\(position\)
+# 3.17 排版 - 關於定位\(position\)
 
 一個元素，在版面中的位置，就叫做定位，有幾種基本的定位型態，可設定的值有：
 
@@ -13,7 +13,7 @@
 
 HTML：
 
-```html
+```markup
 <p>段落</p>
 <p class="the_fixed">fixed 段落</p>
 <p>段落</p>
@@ -177,7 +177,7 @@ p.the_fixed{
 
 結果：
 
-![](/assets/position_fixed.png)
+![](../.gitbook/assets/position_fixed.png)
 
 ## 定位模式：relative
 
@@ -185,7 +185,7 @@ p.the_fixed{
 
 HTML：
 
-```html
+```markup
 <p>段落</p>
 <p class="the_relative">relative 段落</p>
 <p>段落</p>
@@ -208,7 +208,7 @@ p.the_relative{
 
 結果：\(先看看原位置\)
 
-![](/assets/position_relative1.png)
+![](../.gitbook/assets/position_relative1.png)
 
 將 CSS 改成：
 
@@ -224,7 +224,7 @@ p.the_relative{
 
 結果：
 
-![](/assets/position_relative2.png)
+![](../.gitbook/assets/position_relative2.png)
 
 ## 定位模式：absolute
 
@@ -232,7 +232,7 @@ p.the_relative{
 
 HTML：
 
-```html
+```markup
 <p>段落</p>
 <div class="relative_block">
   這是 relative 的區塊
@@ -263,5 +263,5 @@ p.the_absolute{
 
 結果：
 
-![](/assets/position_absolute.png)
+![](../.gitbook/assets/position_absolute.png)
 

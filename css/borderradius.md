@@ -4,7 +4,7 @@
 
 HTML
 
-```html
+```markup
 <div class="test_radius">這是 div 的內容</div>
 ```
 
@@ -22,13 +22,13 @@ div.test_radius{
 
 如圖：
 
-![](/assets/border_radius1.png)
+![](../.gitbook/assets/border_radius1.png)
 
 ## 繪製原理
 
 以「左上角」為例：
 
-![](/assets/border_radius_theory.png)
+![](../.gitbook/assets/border_radius_theory.png)
 
 若要單一指定某一個角的話，分別是
 
@@ -45,7 +45,7 @@ div.test_radius{
 border-radius: 10px 20px 30px 40px;
 ```
 
-![](/assets/border_radius_ex3.png)
+![](../.gitbook/assets/border_radius_ex3.png)
 
 圓角順序：左上\(10px\)、右上及左下\(20px\)、右下\(40px\)：
 
@@ -53,7 +53,7 @@ border-radius: 10px 20px 30px 40px;
 border-radius: 10px 20px 40px;
 ```
 
-![](/assets/border_radius_ex2.png)
+![](../.gitbook/assets/border_radius_ex2.png)
 
 圓角順序：左上及右下\(10px\)、右上及左下\(20px\)：
 
@@ -61,5 +61,5 @@ border-radius: 10px 20px 40px;
 border-radius: 10px 20px;
 ```
 
-![](/assets/border_radius_ex1.png)
+![](../.gitbook/assets/border_radius_ex1.png)
 
