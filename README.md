@@ -74,7 +74,7 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 </script>
 ```
 
-### 組合
+### 組合成一個網頁
 
 ```markup
 <!doctype html>
