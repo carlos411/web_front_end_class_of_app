@@ -47,11 +47,17 @@
 
 YouTube 影片：講者做的過程。
 
+作業 part1：Intro：
+
 {% embed url="https://youtu.be/vlMOp2imgVU" %}
 
 作業 part2：footer：
 
 {% embed url="https://youtu.be/bi\_aTDN7yyw" %}
+
+作業 part3：header：
+
+{% embed url="https://youtu.be/WWjDUzHmhcA" %}
 
 
 
