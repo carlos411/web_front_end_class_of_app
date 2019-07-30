@@ -71,6 +71,10 @@ YouTube 影片：講者做的過程。
 
 作業 part6：table and list and media query
 
+{% embed url="https://youtu.be/cwjak3G-z-U" %}
+
+
+
 作業 part7：list
 
 作業 part8：form
