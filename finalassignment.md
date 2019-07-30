@@ -63,5 +63,15 @@ YouTube 影片：講者做的過程。
 
 {% embed url="https://youtu.be/kxrg8xcXNRE" %}
 
+作業 part5：left block image
 
+{% embed url="https://youtu.be/t6FZuPTK144" %}
+
+
+
+作業 part6：table and list and media query
+
+作業 part7：list
+
+作業 part8：form
 
