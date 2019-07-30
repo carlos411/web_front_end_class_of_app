@@ -59,5 +59,9 @@ YouTube 影片：講者做的過程。
 
 {% embed url="https://youtu.be/WWjDUzHmhcA" %}
 
+作業 part4：structure and media query：
+
+{% embed url="https://youtu.be/kxrg8xcXNRE" %}
+
 
 
