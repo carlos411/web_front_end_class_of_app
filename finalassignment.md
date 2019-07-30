@@ -77,5 +77,9 @@ YouTube 影片：講者做的過程。
 
 作業 part7：list
 
+{% embed url="https://youtu.be/mfIEYZWxJ20" %}
+
+
+
 作業 part8：form
 
