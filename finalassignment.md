@@ -30,7 +30,7 @@
 
 ![](.gitbook/assets/assignment_mobile.png)
 
-## 上傳至 ftp
+## 上傳至 google drive
 
 進到 google drive 資料夾。然後依照您的學號建立自己的資料夾，上傳至此。
 
