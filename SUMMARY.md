@@ -1,8 +1,9 @@
 # Table of contents
 
-* [1. 簡介](README.md)
-* [簡介](jian-jie/README.md)
+* [網站前端基礎課程](README.md)
+* [1. 簡介](jian-jie/README.md)
   * [講者簡介](jian-jie/jiang-zhe-jian-jie.md)
+  * [課程簡介](jian-jie/ke-cheng-jian-jie.md)
 * [2. HTML](html/README.md)
   * [2.1 宣告、標籤、屬性、元素](html/tagsattributes.md)
   * [2.2 註解](html/conditionalcomments.md)
