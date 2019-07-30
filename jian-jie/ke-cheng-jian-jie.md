@@ -1,6 +1,11 @@
 # 課程簡介
 
-## 1 簡介
+## 編輯器
+
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/)
+
+## 簡介
 
 所有的練習會於課堂上，提供原始碼供學生使用。
 
