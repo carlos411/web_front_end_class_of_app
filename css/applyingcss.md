@@ -14,8 +14,11 @@
 
 在 html 當中，寫在 `<style>...</style>` 之中。可以在頁面的任何地方出現，但建議一般會放在 `<head>...</head>` 之中，這樣在內容出現時，就會是已經套用的形式。
 
-```css
+```markup
 <head>
+  
+  <!-- 其它 code... -->
+  
   <style>
     p{
       color: blue;
