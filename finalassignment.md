@@ -1,5 +1,7 @@
 # 7. 作業
 
+## 作業內容
+
 一般會提供如下設計稿：
 
 ![](.gitbook/assets/assignment_draft.png)
@@ -30,7 +32,7 @@
 
 ![](.gitbook/assets/assignment_mobile.png)
 
-## 上傳至 google drive
+## 繳交方式：上傳至 google drive
 
 進到 google drive 資料夾。然後依照您的學號建立自己的資料夾，上傳至此。
 
@@ -42,6 +44,8 @@
 * students/1/js/
 
 
+
+## 參考解答
 
 ### 線上解答
 
