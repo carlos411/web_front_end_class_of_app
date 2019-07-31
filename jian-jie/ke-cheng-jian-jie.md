@@ -51,9 +51,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 * js/
 * index.html
 
-### 第一步：撰寫 html
+編輯 index.html：
 
-寫好後，用瀏覽器開啟看看。
+### 第一步：撰寫 html
 
 ```markup
 <!doctype html>
@@ -70,8 +70,6 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 ### 第二步：撰寫 CSS
 
-以下原始碼放在 `</head>` 結尾標籤之前：
-
 ```markup
 <style>
   h1{
@@ -81,8 +79,6 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 ```
 
 ### 第三步：撰寫 JS
-
-以下原始碼放在 `</body>` 結尾標籤之前：
 
 ```markup
 <script type="text/javascript">
