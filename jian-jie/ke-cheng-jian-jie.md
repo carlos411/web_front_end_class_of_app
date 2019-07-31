@@ -37,11 +37,13 @@ CSS 負責網頁的「**外觀**」，包含了視覺風格、排版。
 
 JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動操作。
 
-## 練習：第一個網頁
+## 練習：第一個網頁及編輯器
 
-檔案所在路徑：`簡介/`
+建立一個專案資料夾\(桌面或任何你習慣的位置\)名稱為 **html\_css\_js**，然後使用編輯器開啟這個資料夾，如下圖：
 
-建立一個專案資料夾，資料夾名稱建議都用英文及底線來取名，該資料夾裡面要有以下幾個項目：
+![Add Project Folder\( cmd + shift + O \)](../.gitbook/assets/add_project_forder.png)
+
+資料夾名稱建議都用英文及底線來取名，該 **html\_css\_js** 資料夾裡面要有以下幾個項目：
 
 * css/
 * fonts/
@@ -49,9 +51,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 * js/
 * index.html
 
-編輯 index.html：
-
 ### 第一步：撰寫 html
+
+寫好後，用瀏覽器開啟看看。
 
 ```markup
 <!doctype html>
@@ -68,6 +70,8 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 ### 第二步：撰寫 CSS
 
+以下原始碼放在 `</head>` 結尾標籤之前：
+
 ```markup
 <style>
   h1{
@@ -77,6 +81,8 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 ```
 
 ### 第三步：撰寫 JS
+
+以下原始碼放在 `</body>` 結尾標籤之前：
 
 ```markup
 <script type="text/javascript">
