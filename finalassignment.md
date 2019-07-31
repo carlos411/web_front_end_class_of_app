@@ -45,45 +45,21 @@
 
 線上解答
 
-YouTube 影片：講者做的過程。
+### YouTube 影片：講者做的過程：
 
 作業 part1：Intro：
 
-{% embed url="https://youtu.be/vlMOp2imgVU" %}
-
 作業 part2：Footer：
-
-{% embed url="https://youtu.be/bi\_aTDN7yyw" %}
 
 作業 part3：Header：
 
-{% embed url="https://youtu.be/WWjDUzHmhcA" %}
-
 作業 part4：Structure and Media Query：
-
-{% embed url="https://youtu.be/kxrg8xcXNRE" %}
 
 作業 part5：Left Block Image
 
-{% embed url="https://youtu.be/t6FZuPTK144" %}
-
-
-
 作業 part6：Table and List and Media Query
-
-{% embed url="https://youtu.be/cwjak3G-z-U" %}
-
-
 
 作業 part7：List
 
-{% embed url="https://youtu.be/mfIEYZWxJ20" %}
-
-
-
 作業 part8：Form
-
-{% embed url="https://youtu.be/7ezAzA6Pi5Y" %}
-
-
 
