@@ -18,8 +18,3 @@
 
 ![](.gitbook/assets/web_process.png)
 
-## 作業
-
-* [http://notes.carlos-studio.com/web\_learn/students/C1800041/index.html](http://notes.carlos-studio.com/web_learn/students/C1800041/index.html)
-* [http://notes.carlos-studio.com/web\_learn/teacher/index.html](http://notes.carlos-studio.com/web_learn/teacher/index.html)
-
