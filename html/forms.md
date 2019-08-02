@@ -24,19 +24,23 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 {% embed url="https://codepen.io/carlos411/pen/ymoKJj" %}
 
-
-
 ## 文字框：密碼
 
 ```markup
 <input type="password" name="the_password">
 ```
 
+{% embed url="https://codepen.io/carlos411/pen/pMrLeV" %}
+
 ## 文字框：隱藏
 
 ```markup
 <input type="hidden" name="the_hide_data">
 ```
+
+實際上還是存在，只是使用者看不到，而且該元素也不會佔位。
+
+{% embed url="https://codepen.io/carlos411/pen/mNMxBr" %}
 
 ## 多行文字框
 
@@ -45,6 +49,8 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 ```
 
 實務上 rows 和 cols 較少用，因為可透過 CSS 來改變。
+
+{% embed url="https://codepen.io/carlos411/pen/XvaEVG" %}
 
 ## 單選
 
@@ -89,7 +95,9 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 `checked`：勾選。
 
-註：若有加上 `<label>...</label>` 標籤，有助於使用者的操作方便。
+註：同 單選\(radio\)相同，若有加上 `<label>...</label>` 標籤，有助於使用者的操作方便。
+
+{% embed url="https://codepen.io/carlos411/pen/gVxeeW" %}
 
 ## 下拉選單
 
