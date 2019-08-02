@@ -19,7 +19,7 @@
 
 網站前端開發，核心技術為 **HTML**、**CSS**、**JavaScript**，從這三個前端技術開始紮根，未來可應用至其他領域\(例：網頁動畫、元件、資料視覺化等\)。故 HTML、CSS、JavaScript 是網站開發中一切的基礎。
 
-這三者分別代表的意義：
+這三者分別代表的意義\(以 [webmix.cc](http://webmix.cc) 為例\)：
 
 ## HTML = HyperText Markup Language
 
