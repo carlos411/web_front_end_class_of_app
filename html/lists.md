@@ -2,9 +2,7 @@
 
 ## 有序列表 - &lt;ol&gt;...&lt;/ol&gt;
 
-`<ol>`：**o**rder **l**ist
-
-`<ol>` 裡的第一層子元素，一定是 `<li>...</li>`
+`<ol>`：**o**rder **l**ist，`<ol>` 裡的第一層子元素，一定是 `<li>...</li>`
 
 `<li>`：**l**ist **i**tem
 
@@ -26,9 +24,7 @@
 
 ## 無序列表 - &lt;ul&gt;...&lt;/ul&gt;
 
-`<ul>`：**u**norder **l**ist
-
-`<ul>` 裡的第一層子元素，一定是 `<li>...</li>`
+`<ul>`：**u**norder **l**ist，`<ul>` 裡的第一層子元素，一定是 `<li>...</li>`
 
 `<li>`：**l**ist **i**tem
 

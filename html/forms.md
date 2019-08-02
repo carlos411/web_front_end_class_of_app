@@ -55,7 +55,29 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 註：若有加上 `<label>...</label>` 標籤，有助於使用者的操作方便。
 
-## 勾選
+方式一：for 的值，對應到 id 的值。
+
+```markup
+<input type="radio" name="food_type_2" id="option1" checked>
+<label for="option1">選項一</label>
+```
+
+方式二：`<input>` 放在 `<label>…</label>` 裡面。
+
+```markup
+<label>
+  <input type="radio" name="food_type_3" checked>
+  選項一
+</label>
+```
+
+範例：
+
+{% embed url="https://codepen.io/carlos411/pen/pMraOw" %}
+
+
+
+## 勾選\(核取方塊\)
 
 ```markup
 <input type="checkbox" name="habits" checked> 興趣1
