@@ -45,6 +45,20 @@
 
 ![](../.gitbook/assets/viewport_yes.png)
 
+## 總結
+
+`<head>...</head>` 區段，都至少要有以下資訊：
+
+```markup
+<head>
+  <meta charset="utf-8">
+  <title>商品名稱 | 商品類別 | 品牌名稱</title>
+  <meta name="keywords" content="HTML, CSS, JavaScript, 關鍵詞組">
+  <meta name="description" content="網頁簡短描述，儘量在 70 字以內。">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+</head>
+```
+
 ## 資源
 
 [更多 Meta Data：https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
