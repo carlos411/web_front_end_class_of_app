@@ -101,6 +101,8 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 
 ## 下拉選單
 
+基本選單：
+
 ```markup
 <select name="country">
   <option value="1" selected>選項1</option>
@@ -110,6 +112,27 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 ```
 
 `selected`：表示預設為這項。
+
+分群選單，使用 `<optgroup>...</optgroup>` 包起來：
+
+```markup
+<select name="food">
+  <optgroup label="第一組">
+    <option value="1">選項一</option>
+    <option value="2">選項二</option>
+  </optgroup>
+  <optgroup label="第二組">
+    <option value="3">選項三</option>
+    <option value="4">選項四</option>
+  </optgroup>
+</select>
+```
+
+在 `<select>` 標籤上使用 **multiple** 屬性可以變成多選
+
+{% embed url="https://codepen.io/carlos411/pen/voJRzy" %}
+
+
 
 ## 按鈕
 
