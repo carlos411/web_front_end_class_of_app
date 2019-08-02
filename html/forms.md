@@ -38,8 +38,6 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="hidden" name="the_hide_data">
 ```
 
-實際上還是存在，只是使用者看不到，而且該元素也不會佔位。
-
 ## 多行文字框
 
 ```markup
