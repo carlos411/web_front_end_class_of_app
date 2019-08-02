@@ -22,6 +22,10 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 <input type="text" name="address" value="這是內容" placeholder="提示文字">
 ```
 
+{% embed url="https://codepen.io/carlos411/pen/ymoKJj" %}
+
+
+
 ## 文字框：密碼
 
 ```markup
@@ -33,6 +37,8 @@ get 範例：[http://carlos-studio.com/?address=abc&zone-234](http://carlos-stud
 ```markup
 <input type="hidden" name="the_hide_data">
 ```
+
+實際上還是存在，只是使用者看不到，而且該元素也不會佔位。
 
 ## 多行文字框
 
