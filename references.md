@@ -48,5 +48,5 @@
 
 [Unicode Character](https://unicode-table.com/en/#2713)
 
-[GoDaddy](https://www.godaddy.com)
+[GoDaddy 買網域](https://tw.godaddy.com/)
 
