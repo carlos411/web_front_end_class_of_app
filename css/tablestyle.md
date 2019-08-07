@@ -90,3 +90,7 @@ border-top-style: solid;
 border-top-color: black;
 ```
 
+註：[有哪些 border style](https://www.w3schools.com/cssref/pr_border-style.asp)
+
+![](../.gitbook/assets/screen-shot-2019-08-07-at-3.03.39-pm.png)
+
