@@ -46,3 +46,7 @@
 
 [XML Viewer https://codebeautify.org/xmlviewer](https://codebeautify.org/xmlviewer)
 
+[Unicode Character](https://unicode-table.com/en/#2713)
+
+[GoDaddy](https://www.godaddy.com)
+
