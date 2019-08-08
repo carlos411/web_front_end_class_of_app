@@ -53,6 +53,10 @@
 
 作業 part1：Intro：
 
+{% embed url="https://youtu.be/vlMOp2imgVU" %}
+
+
+
 作業 part2：Footer：
 
 作業 part3：Header：
