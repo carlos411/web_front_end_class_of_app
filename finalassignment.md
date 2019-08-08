@@ -59,6 +59,10 @@
 
 作業 part2：Footer：
 
+{% embed url="https://youtu.be/bi\_aTDN7yyw" %}
+
+
+
 作業 part3：Header：
 
 作業 part4：Structure and Media Query：
