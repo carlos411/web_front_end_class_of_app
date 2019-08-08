@@ -34,14 +34,14 @@
 
 ### 繳交方式：上傳至 google drive
 
-進到 google drive 資料夾。然後依照您的學號建立自己的資料夾，上傳至此。
+進到 google drive 的「網站前端」資料夾。然後依照您的學號建立自己的資料夾，上傳至此。
 
 例：學號為 1，則建立以下檔案及資料夾：
 
-* students/1/index.html
-* students/1/images/
-* students/1/css/
-* students/1/js/
+* 1/index.html
+* 1/images/
+* 1/css/
+* 1/js/
 
 
 
