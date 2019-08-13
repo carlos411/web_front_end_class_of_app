@@ -265,3 +265,15 @@ p.the_absolute{
 
 ![](../.gitbook/assets/position_absolute.png)
 
+## z-index
+
+元素當中如果在同一層，定位上有相互交疊的狀態，可以使用 z-index ，設定整數來決定哪個元素的疊層順序。愈大的值，代表會出現在愈上方。
+
+{% embed url="https://codepen.io/carlos411/pen/Xvxzvw" %}
+
+{% embed url="https://youtu.be/TnK7pzJfe2s" %}
+
+{% embed url="https://youtu.be/g838wZC4Wac" %}
+
+
+

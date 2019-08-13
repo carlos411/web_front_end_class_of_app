@@ -8,9 +8,7 @@
 
 [深入淺出網站設計 http://www.books.com.tw/products/0010432289](http://www.books.com.tw/products/0010432289)
 
-[如何設計好網站：Don't make me think http://www.books.com.tw/products/0010651534](http://www.books.com.tw/products/0010651534)
-
-[CSS Secrets 中文版：解決網頁設計問題的有效秘訣 http://www.books.com.tw/products/0010702536](http://www.books.com.tw/products/0010702536)
+[CSS Secrets 中文版：解決網頁設計問題的有效秘訣 https://www.tenlong.com.tw/products/9789863478744?list\_name=srh](https://www.tenlong.com.tw/products/9789863478744?list_name=srh)
 
 [你所不知道的 JS \| 導讀，型別與文法 \(You Don't Know JS: Up & Going\)](https://www.tenlong.com.tw/products/9789863479666)
 
@@ -39,6 +37,24 @@
 [jQuery 官網 http://jquery.com/](http://jquery.com/)
 
 [jQuery 的 Ajax 完整官網資源 http://api.jquery.com/jQuery.ajax/](http://api.jquery.com/jQuery.ajax/)
+
+[資料視覺化 ： D3.js](https://d3js.org/)
+
+[快速的幾個現成圖表：Chart.js](https://www.chartjs.org/)
+
+[頁面上下滑的效果：ScrollMagic](https://scrollmagic.io/)
+
+[視差滾動效果：Skrollr](https://github.com/Prinzhorn/skrollr)
+
+網頁元件：[Vue.js](https://vuejs.org/)、[Angular](https://angular.io/)、[react](https://reactjs.org/)
+
+[APP：使用 React Native](https://facebook.github.io/react-native/)
+
+[做後端程式：Node.js](https://nodejs.org/en/)
+
+編譯工具：[gulp.js](https://gulpjs.com/)、[Babel](https://babeljs.io/)、[WebPack](https://webpack.js.org/)
+
+
 
 ## 其它連結
 

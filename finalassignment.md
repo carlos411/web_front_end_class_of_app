@@ -65,7 +65,15 @@
 
 作業 part3：Header：
 
+{% embed url="https://youtu.be/WWjDUzHmhcA" %}
+
+
+
 作業 part4：Structure and Media Query：
+
+{% embed url="https://youtu.be/kxrg8xcXNRE" %}
+
+
 
 作業 part5：Left Block Image
 
