@@ -77,7 +77,15 @@
 
 作業 part5：Left Block Image
 
+{% embed url="https://youtu.be/t6FZuPTK144" %}
+
+
+
 作業 part6：Table and List and Media Query
+
+{% embed url="https://youtu.be/cwjak3G-z-U" %}
+
+
 
 作業 part7：List
 
