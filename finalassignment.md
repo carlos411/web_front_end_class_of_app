@@ -83,15 +83,7 @@
 
 作業 part6：Table and List and Media Query
 
-{% embed url="https://youtu.be/cwjak3G-z-U" %}
-
-
-
 作業 part7：List
-
-{% embed url="https://youtu.be/mfIEYZWxJ20" %}
-
-
 
 作業 part8：Form
 
