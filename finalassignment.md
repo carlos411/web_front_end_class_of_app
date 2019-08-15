@@ -89,5 +89,9 @@
 
 作業 part7：List
 
+{% embed url="https://youtu.be/mfIEYZWxJ20" %}
+
+
+
 作業 part8：Form
 
