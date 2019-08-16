@@ -83,7 +83,19 @@
 
 作業 part6：Table and List and Media Query
 
+{% embed url="https://youtu.be/cwjak3G-z-U" %}
+
+
+
 作業 part7：List
 
+{% embed url="https://youtu.be/mfIEYZWxJ20" %}
+
+
+
 作業 part8：Form
+
+因上傳有問題，可直接透過[這個連結來下載示範影片](https://www.dropbox.com/s/5797ob4k3k1oqgw/part8_form.mpg.zip?dl=0)。
+
+
 
