@@ -30,5 +30,7 @@
 <p>這是段落<br>另起新的一行</p>
 ```
 
-結果呈現：![](../.gitbook/assets/shui-ping-fen-ge-xian.png)
+結果呈現：
+
+![](../.gitbook/assets/shui-ping-fen-ge-xian.png)
 
