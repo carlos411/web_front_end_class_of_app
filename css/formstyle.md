@@ -40,7 +40,9 @@ textarea{
 
 結果如下：
 
-![](../.gitbook/assets/textarea_resize_sample.png)resize 可選的值有：
+![](../.gitbook/assets/textarea_resize_sample.png)
+
+resize 可選的值有：
 
 * both：這是預設。使用者可改變 textarea 欄位的寬高。
 * horizontal：使用者可水平將 textarea 欄位變寬。

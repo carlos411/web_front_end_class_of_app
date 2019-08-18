@@ -46,7 +46,9 @@ span 常用於一般文字的部份。
 </div>
 ```
 
-結果呈現：![](../.gitbook/assets/li-jie-hang-nei-yu-qu-kuai-cha-yi.png)
+結果呈現：
+
+![](../.gitbook/assets/li-jie-hang-nei-yu-qu-kuai-cha-yi.png)
 
 簡易判斷方法：若該元素會自動斷行，即為區塊\(block\)元素。
 
