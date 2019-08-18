@@ -81,7 +81,9 @@ div.test_div{
 
 結果如圖：
 
-![](../.gitbook/assets/overflow_4.png)將 css 改成：
+![](../.gitbook/assets/overflow_4.png)
+
+將 css 改成：
 
 ```css
 div.test_div{
