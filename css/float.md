@@ -128,7 +128,5 @@ div.first img{
 
 ![](../.gitbook/assets/float6.png)
 
-故將 `content: "abc";` 改成 `content: "";`，即變成：
-
-![](../.gitbook/assets/float5.png)
+故將 `content: "abc";` 改成 `content: "";`，即變成：![](../.gitbook/assets/float5.png)
 
