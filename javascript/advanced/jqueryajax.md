@@ -24,6 +24,8 @@ $.ajax({
 
 檔案所在路徑：`js/4.3.3/index.html`
 
+線上範例：[http://notes.carlos-studio.com/web\_learn/ajax/4.3.3/index.html](http://notes.carlos-studio.com/web_learn/ajax/4.3.3/index.html)
+
 php
 
 ```php
