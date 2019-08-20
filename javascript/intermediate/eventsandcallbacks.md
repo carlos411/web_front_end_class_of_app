@@ -89,33 +89,33 @@ JS：
 ```javascript
 text_input.addEventListener("focus", function(e){
   console.log("focus event");
-})
+});
 ```
 
 ```javascript
 text_input.addEventListener("blur", function(e){
   console.log("blur event");
-})
+});
 ```
 
 ```javascript
 text_input.addEventListener("change", function(e){
   console.log("change event");
-})
+});
 ```
 
 ```javascript
 text_input.addEventListener("keydown", function(e){
   console.log(e); // 觀察 e
-  console.log("keydown event: " + e.which);
-})
+  console.log("keydown event: " + e.which); // e.which 是取得唯一的 ASCII Code 碼
+});
 ```
 
 ```javascript
 text_input.addEventListener("keyup", function(e){
   console.log(e); // 觀察 e
-  console.log("keyup event: " + e.target.value);
-})
+  console.log("keyup event: " + e.target.value); // 取得輸入的值
+});
 ```
 
 關於 e，指的就是 event，js 內建在事件觸發時，帶入此物件，裡面包含了很多可用資訊。最後看一下 form 的 `onsubmit` 事件：
@@ -124,14 +124,8 @@ text_input.addEventListener("keyup", function(e){
 var the_form = document.getElementById("the_form");
 the_form.addEventListener("submit", function(e){
   // e.preventDefault(); 停止預設行為，表示不會送出資料
-})
+});
 ```
-
-觀察開發者工具\(`Cmd + Option + i`\)的 Network 頁籤。來看 post 資料中的 Form Data：
-
-![](../../.gitbook/assets/form_network1.png)
-
-![](../../.gitbook/assets/form_network2.png)
 
 ## 使用 HTML 事件屬性去觸發
 
