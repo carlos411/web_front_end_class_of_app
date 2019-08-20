@@ -123,9 +123,13 @@ text_input.addEventListener("keyup", function(e){
 ```javascript
 var the_form = document.getElementById("the_form");
 the_form.addEventListener("submit", function(e){
-  // e.preventDefault(); 停止預設行為，表示不會送出資料
+  e.preventDefault(); // 停止預設行為，表示不會送出資料
 });
 ```
+
+{% embed url="https://codepen.io/carlos411/pen/pozEapP" %}
+
+
 
 ## 使用 HTML 事件屬性去觸發
 
