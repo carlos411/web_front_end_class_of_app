@@ -99,3 +99,13 @@
 
 
 
+```text
+// email 驗證
+function validateEmail(email) {
+  var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(String(email).toLowerCase());
+}
+```
+
+[作業完成下載](http://notes.carlos-studio.com/web_learn/html_css_js_assignment.zip)
+
