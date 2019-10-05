@@ -1,4 +1,4 @@
-# 4.3.5 儲存機制 - 本地端儲存\(localstorage\)
+# 4.3.4 儲存機制 - 本地端儲存\(localstorage\)
 
 localStorage 是在 HTML 5 時，才有的功能。相對於 cookie ，localStorage 有更多的儲存空間\(大約 5MB\)，且有較多的函式方便使用。
 

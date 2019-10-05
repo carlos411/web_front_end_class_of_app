@@ -1,4 +1,4 @@
-# 4.3.3 非同步技術 AJAX - 使用 jQuery
+# 4.3.2 非同步技術 AJAX - 使用 jQuery
 
 AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 

@@ -1,4 +1,4 @@
-# 4.3.4 儲存機制 - cookie
+# 4.3.3 儲存機制 - cookie
 
 ![](../../.gitbook/assets/cookie.png)
 
