@@ -66,3 +66,5 @@
 
 [GoDaddy 買網域](https://tw.godaddy.com/)
 
+[隨機整數](https://www.mathgoodies.com/calculators/random_no_custom)
+
