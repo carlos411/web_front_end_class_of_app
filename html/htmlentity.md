@@ -1,4 +1,4 @@
-# 2.17 HTML Entity\(實體\)
+# 2.18 HTML Entity\(實體\)
 
 如遇特殊符號，可嚐試使用 HTML Entity 來顯示，例：
 
