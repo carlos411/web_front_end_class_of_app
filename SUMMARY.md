@@ -71,7 +71,7 @@
     * [4.3.3 儲存機制 - cookie](javascript/advanced/cookie.md)
     * [4.3.4 儲存機制 - 本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
 * [5. 參考資料](references.md)
-* [7. 作業](finalassignment.md)
-* [8. 練習](8.-lian-xi.md)
-* [9. 其它](conclution.md)
+* [6. 作業](finalassignment.md)
+* [7. 練習](8.-lian-xi.md)
+* [8. 其它](conclution.md)
 
