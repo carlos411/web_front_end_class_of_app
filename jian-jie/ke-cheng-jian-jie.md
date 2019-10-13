@@ -123,9 +123,9 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 即完成了一個可以用瀏覽器開啟的網頁。
 
-### 檔案下載
+### 練習檔案下載
 
 [下載連結](http://notes.carlos-studio.com/download/html_css_js.zip)
 
-index.html 點擊兩下，可於瀏覽器中直接開啟。
+裡面的所有 html 檔案，點擊兩下，就可於瀏覽器中直接開啟。
 
