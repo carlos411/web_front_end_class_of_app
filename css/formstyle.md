@@ -61,7 +61,7 @@ resize 可選的值有：
 
 這些項目若要有比較特別的介面，都需要高度客製化，都需再撰寫 html、css 、js 來做介面。
 
-例：
+範例\(同學先參考即可\)：
 
 {% embed url="https://codepen.io/carlos411/pen/WxojBK" caption="雙態開關按鈕" %}
 
