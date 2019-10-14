@@ -271,9 +271,5 @@ p.the_absolute{
 
 {% embed url="https://codepen.io/carlos411/pen/Xvxzvw" %}
 
-{% embed url="https://youtu.be/TnK7pzJfe2s" %}
-
-{% embed url="https://youtu.be/g838wZC4Wac" %}
-
 
 
