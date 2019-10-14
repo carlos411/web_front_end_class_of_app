@@ -4,6 +4,8 @@
 
 即表格之意。
 
+`<table>`
+
 `<tr>`：**t**able **r**ow 的縮寫。
 
 `<td>`：**t**able **d**ata 的縮寫。
