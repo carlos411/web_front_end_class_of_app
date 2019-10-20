@@ -269,7 +269,21 @@ p.the_absolute{
 
 元素當中如果在同一層，定位上有相互交疊的狀態，可以使用 z-index ，設定整數來決定哪個元素的疊層順序。愈大的值，代表會出現在愈上方。
 
-{% embed url="https://codepen.io/carlos411/pen/Xvxzvw" %}
+## 練習範例
+
+圖片連結：[https://picsum.photos/id/211/800/400](https://picsum.photos/id/211/800/400)
+
+提供 html 結構：
+
+```markup
+<div class="pic_item">
+  <a href="#" class="pic_link" target="_blank">
+    <img src="https://picsum.photos/id/211/800/400">
+  </a>
+  <span class="-hot">熱門</span>
+  <div class="item_desc">這是圖片描述</div>
+</div>
+```
 
 
 
