@@ -48,6 +48,10 @@ console.log( el_p.innerHTML ); // 取得「這是段落一」
 console.log( $("p").html() ); // 取得「這是段落一」，預設會取得第一個 <p> 元素的內容
 ```
 
+{% embed url="https://codepen.io/carlos411/pen/oNNZPWe" %}
+
+
+
 ## 表單欄位\(text\)
 
 html：
