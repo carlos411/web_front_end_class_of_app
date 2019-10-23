@@ -79,6 +79,8 @@ $("#the_btn").on("click", function(){
 });
 ```
 
+請測試看是否真的能取得到值。
+
 ## 表單欄位\(textarea\)
 
 html：
@@ -105,6 +107,8 @@ $("#the_btn").on("click", function(){
   console.log($("#the_textarea").val());
 });
 ```
+
+請測試看是否真的能取得到值。
 
 ## 表單欄位\(select\)
 
@@ -136,6 +140,8 @@ $("#the_btn").on("click", function(){
   console.log($("#the_select").val());
 });
 ```
+
+請測試看是否真的能取得到值。
 
 ## 表單欄位\(radio\)
 
@@ -169,6 +175,8 @@ $("#the_btn").on("click", function(){
   console.log( $('input[name=food_type]:checked').val() );  // 取得選到的那個選項的值
 });
 ```
+
+請測試看是否真的能取得到值。
 
 ## 表單欄位\(checkbox\)
 
@@ -208,4 +216,6 @@ $("#the_btn").on("click", function(){
 
 });
 ```
+
+請測試看是否真的能取得到值。
 
