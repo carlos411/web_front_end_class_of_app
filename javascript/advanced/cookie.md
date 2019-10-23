@@ -14,7 +14,7 @@ Cookie 可用於儲存各種資訊，包含個人識別資訊（例如姓名、i
 
 ![](../../.gitbook/assets/cookie_info1.png)
 
-## 使用 JS 建立 cooke
+## 使用 JS 建立 cookie
 
 本地端 file:// 模式無法測試，可隨意開啟任意網站來測試：
 
