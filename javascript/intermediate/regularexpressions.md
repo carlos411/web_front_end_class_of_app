@@ -50,3 +50,7 @@ alert(pattern.test(str));
 
 二、試著比對行動電話號碼：09 開頭，且總共一定要 10 個位數。
 
+```text
+var pattern = /^09\d{8}$/;
+```
+
