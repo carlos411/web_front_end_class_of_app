@@ -1,5 +1,16 @@
 # 課程簡介
 
+## 瀏覽器
+
+課堂上以 Chrome 為主，但網站前端工程師的工作，需要下載各種不同的瀏覽器，以便測試版面、功能狀況。\(請同學至少下載 Chrome 及 Firefox\)：
+
+* [Chrome](https://www.google.com/intl/zh-TW/chrome/)
+* [Firefox](https://www.mozilla.org/zh-TW/firefox/new/)
+* Safari
+* [Edge](https://www.microsoft.com/en-us/edge)
+* IE11
+* [Opera](https://www.opera.com/zh-tw)
+
 ## 編輯器
 
 * [Atom](https://atom.io/)
