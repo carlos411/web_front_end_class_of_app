@@ -47,8 +47,6 @@
 
 ## 參考作法
 
-### 線上
-
 作業 part1：Intro：
 
 作業 part2：Footer：
