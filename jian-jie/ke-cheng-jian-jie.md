@@ -55,7 +55,7 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 ## 下載練習檔案
 
-[下載連結](http://notes.carlos-studio.com/download/html_css_js.zip)
+[下載連結](https://alldata.sgp1.digitaloceanspaces.com/sample/web_frontend_basic_for_app_class.zip)
 
 裡面的所有 html 檔案，點擊兩下，都可於瀏覽器中直接開啟。\(建議使用 Chrome 瀏覽器\)
 
