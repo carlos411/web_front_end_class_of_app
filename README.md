@@ -6,3 +6,5 @@
 
 或 QR Code：
 
+![&#x7DB2;&#x7AD9;&#x524D;&#x7AEF;&#x57FA;&#x790E;&#x6559;&#x6750;](.gitbook/assets/wang-zhan-qian-duan-ji-chu-qrcode.png)
+
