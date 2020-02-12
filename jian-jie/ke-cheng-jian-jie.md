@@ -4,6 +4,7 @@
 
 * [Atom](https://atom.io/)
 * [Sublime](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
 
 ## 簡介
 
