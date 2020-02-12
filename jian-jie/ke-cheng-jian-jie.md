@@ -57,27 +57,27 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 [下載連結](https://alldata.sgp1.digitaloceanspaces.com/sample/web_frontend_basic_for_app_class.zip)
 
-裡面的所有 html 檔案，點擊兩下，都可於瀏覽器中直接開啟。\(建議使用 Chrome 瀏覽器\)
+下載好後，解壓縮，裡面的所有 html 檔案，點擊兩下，都可於瀏覽器中直接開啟。\(建議使用 Chrome 瀏覽器\)
 
 
 
 ## 練習：第一個網頁及編輯器
 
-建立一個專案資料夾\(桌面或任何你習慣的位置\)名稱為 **html\_css\_js**，然後使用編輯器開啟這個資料夾，如下圖：
+將上述下載好的 `web_frontend_basic_for_app_class` 資料夾，使用編輯器開啟這個資料夾，如下圖：
 
 ![Add Project Folder\( cmd + shift + O \)](../.gitbook/assets/add_project_forder.png)
 
-資料夾名稱建議都用英文及底線來取名，該 **html\_css\_js** 資料夾裡面要有以下幾個項目：
+在 web\_frontend\_basic\_for\_app\_class 資料夾底下的 2\_practice 資料夾裡，建立以下幾個資料夾及一個檔案：
 
-* css/
-* fonts/
-* images/
-* js/
-* index.html
+* css/              ← 這指的是 css 資料夾
+* fonts/           ← 這指的是 fonts 資料夾
+* images/       ← 這指的是 images 資料夾
+* js/                 ← 這指的是 js 資料夾
+* index.html   ←這指的是檔案
 
-### 第一步：撰寫 html
 
-寫好後，用瀏覽器開啟看看。
+
+### 第一步：撰寫 index.html
 
 ```markup
 <!doctype html>
@@ -91,6 +91,8 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
   </body>
 </html>
 ```
+
+寫好後，用瀏覽器開啟看看。
 
 ### 第二步：撰寫 CSS
 
