@@ -25,7 +25,9 @@
 
 這三者分別代表的意義\(以 [carlos-studio.com](https://carlos-studio.com/) 為例\)：
 
-## HTML = HyperText Markup Language
+### 
+
+### HTML = HyperText Markup Language
 
 HTML 負責「**結構**」、「**語意**」。
 
@@ -33,13 +35,48 @@ HTML 負責「**結構**」、「**語意**」。
 
 「語意」做的好，對「SEO」有幫助。
 
-## CSS = Cascading Style Sheets
+### 
+
+### CSS = Cascading Style Sheets
 
 CSS 負責網頁的「**外觀**」，包含了視覺風格、排版。
 
-## JS = JavaScript
+### 
+
+### JS = JavaScript
 
 JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動操作。
+
+
+
+## 開發工具
+
+### 瀏覽器
+
+課堂上以 Chrome 為主，但網站前端工程師的工作，需要下載各種不同的瀏覽器，以便測試版面、功能狀況。\(請同學至少下載 Chrome 及 Firefox\)：
+
+* [Chrome](https://www.google.com/intl/zh-TW/chrome/)
+* [Firefox](https://www.mozilla.org/zh-TW/firefox/new/)
+* Safari
+* [Edge](https://www.microsoft.com/en-us/edge)
+* IE11
+* [Opera](https://www.opera.com/zh-tw)
+
+### 
+
+### 編輯器
+
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
+
+## 下載練習檔案
+
+[下載連結](http://notes.carlos-studio.com/download/html_css_js.zip)
+
+裡面的所有 html 檔案，點擊兩下，都可於瀏覽器中直接開啟。\(建議使用 Chrome 瀏覽器\)
+
+
 
 ## 練習：第一個網頁及編輯器
 
@@ -127,9 +164,5 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 即完成了一個可以用瀏覽器開啟的網頁。
 
-## 下載練習檔案
 
-[下載連結](http://notes.carlos-studio.com/download/html_css_js.zip)
-
-裡面的所有 html 檔案，點擊兩下，都可於瀏覽器中直接開啟。\(建議使用 Chrome 瀏覽器\)
 
