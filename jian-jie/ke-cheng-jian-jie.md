@@ -67,7 +67,7 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 
 ![Add Project Folder\( cmd + shift + O \)](../.gitbook/assets/add_project_forder.png)
 
-在 web\_frontend\_basic\_for\_app\_class 資料夾底下的 2\_practice 資料夾裡，建立以下幾個資料夾及一個檔案：
+在 `web_frontend_basic_for_app_class` 資料夾底下的 `2_practice` 資料夾裡，建立以下幾個資料夾及一個檔案：
 
 * css/              ← 這指的是 css 資料夾
 * fonts/           ← 這指的是 fonts 資料夾
