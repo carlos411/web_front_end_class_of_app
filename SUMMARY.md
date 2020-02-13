@@ -70,8 +70,8 @@
     * [4.3.2 非同步技術 AJAX - 使用 jQuery](javascript/advanced/jqueryajax.md)
     * [4.3.3 儲存機制 - cookie](javascript/advanced/cookie.md)
     * [4.3.4 儲存機制 - 本地端儲存\(localstorage\)](javascript/advanced/localstorage.md)
-* [5. 參考資料](references.md)
-* [6. 作業](finalassignment.md)
-* [7. 練習](8.-lian-xi.md)
+* [5. 作業](finalassignment.md)
+* [6. 練習](6.-lian-xi.md)
+* [7. 參考資料](references.md)
 * [8. 其它](conclution.md)
 

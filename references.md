@@ -1,4 +1,4 @@
-# 5. 參考資料
+# 7. 參考資料
 
 ## 書籍
 
@@ -67,4 +67,10 @@
 [GoDaddy 買網域](https://tw.godaddy.com/)
 
 [隨機整數](https://www.mathgoodies.com/calculators/random_no_custom)
+
+## 網站上線
+
+![](.gitbook/assets/web_process.png)
+
+
 
