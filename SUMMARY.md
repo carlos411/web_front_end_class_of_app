@@ -73,5 +73,4 @@
 * [5. 作業](finalassignment.md)
 * [6. 練習](6.-lian-xi.md)
 * [7. 參考資料](references.md)
-* [8. 其它](conclution.md)
 
