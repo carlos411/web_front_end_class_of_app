@@ -47,21 +47,17 @@
 
 ## 參考作法
 
-作業 part1：Intro：
+作業 part1：二欄式\(3.6 及 vertical-align\)
 
-作業 part2：Footer：
+作業 part2：左右欄的內容\(3.10\) 及 footer，不含表單
 
-作業 part3：Header：
+作業 part3：header 背景 \(3.13\)
 
-作業 part4：Structure and Media Query：
+作業 part4：表單\(3.17\)
 
-作業 part5：Left Block Image
+作業 part5：行動版\(3.18\)
 
-作業 part6：Table and List and Media Query
 
-作業 part7：List
-
-作業 part8：Form
 
 
 
