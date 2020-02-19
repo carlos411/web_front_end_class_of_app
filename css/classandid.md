@@ -48,7 +48,7 @@
 }
 
 .title1.change_size{
-  font-weight: bold;
+  text-decoration: underline;
 }
 ```
 
