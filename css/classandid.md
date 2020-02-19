@@ -46,6 +46,10 @@
   /* 文字大小設定成 20px */
   font-size: 20px;
 }
+
+.title1.change_size{
+  font-weight: bold;
+}
 ```
 
 註：**id** 屬性就沒有這種特性，一個元素不能有不同的 id。
