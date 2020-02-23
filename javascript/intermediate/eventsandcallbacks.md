@@ -138,7 +138,7 @@ the_form.addEventListener("submit", function(e){
 
 例：\(留意 html 中的 **onclick 屬性** \)
 
-```javascript
+```markup
 <!doctype html>
 <html>
   <head>
