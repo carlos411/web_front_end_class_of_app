@@ -68,6 +68,7 @@ var result = myFunction();
         y = y - 1; // y 結果 是 5
         return x - y; // 回傳 -2
       };
+      
       var c = minus_one(a, b); // 執行 minus_one() 函式，並將回傳值賦予變數 c，所以 c 會是 -2
       alert(c);
     </script>
