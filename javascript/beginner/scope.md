@@ -89,3 +89,5 @@ add_number(a); // 傳的是記憶體中的位址
 add_number(a.slice()); // 完全複製新的 a 陣列
 ```
 
+[slice\(\) 函式說明參考](https://www.w3schools.com/jsref/jsref_slice_array.asp)：它的作用就是複製陣列中的指定範圍；如果都不帶參數，就是完整複製。
+
