@@ -174,6 +174,8 @@ div.block{
 </div>
 ```
 
+完成後如下範例\(請儘量先自己寫看看\)：
+
 {% embed url="https://codepen.io/carlos411/pen/Xvxzvw" %}
 
 
