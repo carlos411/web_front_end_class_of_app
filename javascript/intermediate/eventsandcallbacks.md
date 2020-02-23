@@ -62,7 +62,7 @@ window.addEventListener("load", function(){
 
 ```javascript
 window.addEventListener("resize", function(){
-  console.log("resize")
+  console.log("resize");
 });
 ```
 
