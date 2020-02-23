@@ -127,6 +127,33 @@ p.the_absolute{
 
 ![](../.gitbook/assets/position_absolute.png)
 
+## 定位模式：sticky
+
+提供 html：
+
+```markup
+<h1>標題</h1>
+<p>關於段落</p>
+<div class="block">區塊</div>
+<p>關於段落</p>
+```
+
+提供 css：
+
+```css
+div.block{
+  border: 1px solid black;
+  position: sticky;
+  top: 0;
+}
+```
+
+瀏覽測試結果：
+
+{% embed url="https://codepen.io/carlos411/pen/PoqbLrE" %}
+
+
+
 ## z-index
 
 元素當中如果在同一層，定位上有相互交疊的狀態，可以使用 z-index ，設定整數來決定哪個元素的疊層順序。愈大的值，代表會出現在愈上方。
