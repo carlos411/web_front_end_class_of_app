@@ -87,6 +87,7 @@ HTML：
 JS：
 
 ```javascript
+var text_input = document.getElementById("text_input");
 text_input.addEventListener("focus", function(e){
   console.log("focus event");
 });
