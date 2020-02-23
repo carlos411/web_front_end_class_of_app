@@ -22,6 +22,12 @@ localStorage["key_name"] = "key_value";
 
 註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。可取出後，再透過 `parseInt()` 函式，轉成整數形態即可。
 
+儲存「物件\(Object\)」前，需要先變成字串\(透過 **`JSON.stringify()`** 函式\)，例：
+
+```javascript
+localStorage.setItem("car", JSON.stringify({doors: 4, brand_name: "toyota"}));
+```
+
 ## 取得
 
 ```javascript
