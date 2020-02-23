@@ -62,7 +62,7 @@ function add_number(a){ // 這裡的 a 是函式內的區域變數
   a = a + 10;
   alert(a); // 跳出提示訊息，結果 a 是 20。
 }
-add_number(a);
+add_number(a); // 傳的是 10
 alert(a); // 跳出提示訊息，結果 a 是 10。
 ```
 
@@ -75,7 +75,17 @@ var a = [1, 2];
 function add_number(a){
   a.push(3);
 }
-add_number(a);
+add_number(a); // 傳的是記憶體中的位址
 console.log(a); // 結果為 [1, 2, 3]
+```
+
+如果希望真的是完全複製一個新的陣列，按照以下說明修改，再測試看看：
+
+```javascript
+// 將這行：
+add_number(a); // 傳的是記憶體中的位址
+
+// 改成這行：
+add_number(a.slice()); // 完全複製新的 a 陣列
 ```
 
