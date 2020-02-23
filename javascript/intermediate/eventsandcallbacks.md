@@ -128,6 +128,8 @@ the_form.addEventListener("submit", function(e){
 });
 ```
 
+範例：
+
 {% embed url="https://codepen.io/carlos411/pen/pozEapP" %}
 
 
