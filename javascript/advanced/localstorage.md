@@ -61,6 +61,16 @@ var get_value = localStorage.getItem("key_name"); // get_value 的值為 key_val
 var get_value = localStorage["key_name"];  // get_value 的值為 key_value
 ```
 
+取得物件字串時，需再透過 **`JSON.parse()`** 函式，轉成物件格式，例：
+
+```javascript
+var get_car = JSON.parse(localStorage["car"]);
+
+// 於 console 中查看取得的資料
+console.log(get_car);
+console.log(get_car.doors);
+```
+
 ## 刪除
 
 移除特定 key 及所對應的值：
