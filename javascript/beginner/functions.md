@@ -8,13 +8,20 @@
 
 ![](../../.gitbook/assets/function_basic1.png)
 
-## 使用函式
+## 呼叫函式
 
 範例：
 
 ```javascript
+// 宣告一個匿名函式，存在 myFunction 變數裡
+var myFunction = function(){
+  // 其它程式
+};
+
+// 呼叫方式 1
 myFunction();
 
+// 呼叫方式 2：若有回傳值，指定 result 變數來承接
 var result = myFunction();
 ```
 
