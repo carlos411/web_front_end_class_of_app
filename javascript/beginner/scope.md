@@ -58,7 +58,7 @@ alert(x); // 在 console 中，會出現 x is not defined 的錯誤訊息。
 
 ```javascript
 var a = 10;
-function add_number(a){
+function add_number(a){ // 這裡的 a 是函式內的區域變數
   a = a + 10;
   alert(a); // 跳出提示訊息，結果 a 是 20。
 }
