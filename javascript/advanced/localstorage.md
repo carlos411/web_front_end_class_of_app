@@ -2,6 +2,29 @@
 
 localStorage 是在 HTML 5 時，才有的功能。相對於 cookie ，localStorage 有更多的儲存空間\(大約 5MB\)，且有較多的函式方便使用。
 
+在 `2_practice` 資料夾下，建立一個 `localstorage.html` 檔來測試練習。內容如下：
+
+```markup
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>localStorage</title>
+
+  </head>
+  <body>
+    <p>測試</p>
+
+    <script>
+      // 撰寫 JS 相關
+    </script>
+  </body>
+</html>
+
+```
+
+
+
 之前做的專案：[團購導購地圖](http://notes.carlos-studio.com/55555map/map.php)。
 
 ## 儲存
