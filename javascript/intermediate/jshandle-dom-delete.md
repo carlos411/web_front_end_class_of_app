@@ -1,7 +1,5 @@
 # 4.2.7 JS 與 jQuery 操控網頁元素 - 刪除
 
-## JavaScript 版本
-
 HTML：
 
 ```markup
@@ -23,7 +21,7 @@ div_block_1.remove();
 
 ![](../../.gitbook/assets/js-yi-chu-yuan-su.png)
 
-## jQuery 版本
+對應的 jQuery 版本：
 
 ```javascript
 // 取得 id 為 div_block_1 的元素，並存於 div_block_1 變數之中
