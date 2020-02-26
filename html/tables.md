@@ -60,20 +60,22 @@
       <th></th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
   <tfoot>
     <tr>
       <td></td>
       <td></td>
     </tr>
   </tfoot>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 ```
+
+按照定義，`<tfoot>` 需緊接在 `<thead>` 之後，再來才是 `<tbody>`。
 
 ## 範例 1
 
@@ -127,6 +129,12 @@
       <th>標題二</th>
     </tr>
   </thead>
+  <tfoot>
+    <tr>
+      <td>tfoot 第一欄</td>
+      <td>tfoot 第二欄</td>
+    </tr>
+  </tfoot>
   <tbody>
     <tr>
       <td>第一列第一欄</td>
@@ -137,12 +145,6 @@
       <td>第二列第二欄</td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td>tfoot 第一欄</td>
-      <td>tfoot 第二欄</td>
-    </tr>
-  </tfoot>
 </table>
 ```
 
