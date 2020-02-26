@@ -2,7 +2,30 @@
 
 localStorage 是在 HTML 5 時，才有的功能。相對於 cookie ，localStorage 有更多的儲存空間\(大約 5MB\)，且有較多的函式方便使用。
 
-隨意開啟一個網頁或瀏覽 \( [http://carlos-studio.com](http://carlos-studio.com) \) 來測試：
+在 `2_practice` 資料夾下，建立一個 `localstorage.html` 檔來測試練習。內容如下：
+
+```markup
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>localStorage</title>
+
+  </head>
+  <body>
+    <p>測試</p>
+
+    <script>
+      // 撰寫 JS 相關
+    </script>
+  </body>
+</html>
+
+```
+
+
+
+之前做的專案：[團購導購地圖](http://notes.carlos-studio.com/55555map/map.php)。
 
 ## 儲存
 
@@ -22,6 +45,12 @@ localStorage["key_name"] = "key_value";
 
 註：儲存進去的值，皆會是字串形態。如果執行 `localStorage.setItem("dollar", 1);`，會儲存成 "1" 字串。可取出後，再透過 `parseInt()` 函式，轉成整數形態即可。
 
+儲存「物件\(Object\)」前，需要先變成字串\(透過 **`JSON.stringify()`** 函式\)，例：
+
+```javascript
+localStorage.setItem("car", JSON.stringify({doors: 4, brand_name: "toyota"}));
+```
+
 ## 取得
 
 ```javascript
@@ -30,6 +59,16 @@ var get_value = localStorage.getItem("key_name"); // get_value 的值為 key_val
 
 // 語法二
 var get_value = localStorage["key_name"];  // get_value 的值為 key_value
+```
+
+取得物件字串時，需再透過 **`JSON.parse()`** 函式，轉成物件格式，例：
+
+```javascript
+var get_car = JSON.parse(localStorage["car"]);
+
+// 於 console 中查看取得的資料
+console.log(get_car);
+console.log(get_car.doors);
 ```
 
 ## 刪除

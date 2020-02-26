@@ -59,3 +59,7 @@ cars.push("Totoya"); // cars 的結果變成 ["Saab", "Volvo", "BMW", "Toyota"]
 cars.shift(); // cars 的結果變成 ["Volvo", "BMW", "Toyota"]
 ```
 
+
+
+更多 JavaScript Array 的相關方法，請參考 [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)。
+

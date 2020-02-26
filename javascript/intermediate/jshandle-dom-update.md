@@ -1,5 +1,7 @@
 # 4.2.5 JS 與 jQuery 操控網頁元素 - 更新
 
+## JavaScript 版本
+
 HTML：
 
 ```markup
@@ -45,7 +47,19 @@ para_ele.removeAttribute("class");
 * **.classList.remove\("css 類別名稱"\)**：移除某類別。
 * **.classList.contains\("css 類別名稱"\)**：回傳 true or false，判斷是否有某個 css 類別。
 
-## 對應的 jQuery 版本：
+延續上例，例如：
+
+```javascript
+para_ele.classList.add("change_style");    // 加上 change_style 樣式
+para_ele.classList.remove("change_style"); // 移除 change_style 樣式
+if(para_ele.classList.contains("change_style")){ // 判斷是否有 change_style 樣式
+  alert("有 change_style 樣式");
+}else{
+  alert("沒有 change_style 樣式");
+}
+```
+
+## jQuery 版本
 
 * **.html\(\)**：取得元素的內容。透過參數代入，將元素的內容，整個取代。
 * **.attr\(attribute, value\)**：更新屬性的值。
@@ -75,11 +89,25 @@ $(para_ele).removeAttr("class");
 * **.removeClass\("css 類別名稱"\)**：移除某類別。
 * **.hasClass\("css 類別名稱"\)**：回傳 true or false，判斷是否有某個 css 類別。
 
+延續上例，例如：
+
+```javascript
+$(para_ele).addClass("change_style");    // 加上 change_style 樣式
+$(para_ele).removeClass("change_style"); // 移除 change_style 樣式
+if($(para_ele).hasClass("change_style")){ // 判斷是否有 change_style 樣式
+  alert("有 change_style 樣式");
+}else{
+  alert("沒有 change_style 樣式");
+}
+```
+
 ## 練習
 
 一、開啟以下兩個檔案觀察：
 
 檔案所在路徑：`js/4.2.5/index.html`、`js/4.2.5/index_jquery.html`。
+
+
 
 二、練習 css 類別的新增及移除：
 
