@@ -12,6 +12,14 @@
 
 2、表單欄位：Email 正規式認證、每個欄位皆必填。 Email 及事項未填：欄位邊框變紅色。
 
+```javascript
+// email 驗證
+function validateEmail(email) {
+  var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(String(email).toLowerCase());
+}
+```
+
 說明：
 
 1、最上圖為佔整個螢幕寬度滿版，高度為 250px。
@@ -47,25 +55,5 @@
 
 ## 參考作法
 
-作業 part1：二欄式\( 3.6、3.15、3.18 \)
-
-作業 part2：左右欄的內容\(3.10\) 及 footer，不含表單
-
-作業 part3：header 背景 \(3.13\)
-
-作業 part4：表單\(3.17\)
-
-
-
-
-
-Email 驗證函式：
-
-```javascript
-// email 驗證
-function validateEmail(email) {
-  var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-  return re.test(String(email).toLowerCase());
-}
-```
+[https://alldata.sgp1.digitaloceanspaces.com/sample/web\_frontend\_basic\_for\_app\_class\_%E4%BD%9C%E6%A5%AD.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/web_frontend_basic_for_app_class_%E4%BD%9C%E6%A5%AD.zip)
 
