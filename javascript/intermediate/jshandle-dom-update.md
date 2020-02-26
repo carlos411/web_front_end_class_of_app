@@ -1,5 +1,7 @@
 # 4.2.5 JS 與 jQuery 操控網頁元素 - 更新
 
+## JavaScript 版本
+
 HTML：
 
 ```markup
@@ -57,7 +59,7 @@ if(para_ele.classList.contains("change_style")){ // 判斷是否有 change_style
 }
 ```
 
-## 對應的 jQuery 版本：
+## jQuery 版本
 
 * **.html\(\)**：取得元素的內容。透過參數代入，將元素的內容，整個取代。
 * **.attr\(attribute, value\)**：更新屬性的值。
