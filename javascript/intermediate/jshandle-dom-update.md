@@ -89,6 +89,18 @@ $(para_ele).removeAttr("class");
 * **.removeClass\("css 類別名稱"\)**：移除某類別。
 * **.hasClass\("css 類別名稱"\)**：回傳 true or false，判斷是否有某個 css 類別。
 
+延續上例，例如：
+
+```javascript
+$(para_ele).addClass("change_style");    // 加上 change_style 樣式
+$(para_ele).removeClass("change_style"); // 移除 change_style 樣式
+if($(para_ele).hasClass("change_style")){ // 判斷是否有 change_style 樣式
+  alert("有 change_style 樣式");
+}else{
+  alert("沒有 change_style 樣式");
+}
+```
+
 ## 練習
 
 一、開啟以下兩個檔案觀察：
