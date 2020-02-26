@@ -42,7 +42,7 @@ Unix timestamp：1970年1月1日0時0分0秒起至現在的總秒數。
 
 ## 刪除 cookie
 
-只要為cookie指定「過去的時間」即可刪除。
+只要為 cookie 指定「過去的時間」即可刪除。
 
 例：
 
@@ -99,6 +99,42 @@ var my_cookie = getCookie('school');
 ```
 
 w3schools 已有整理好幾個與 cookie 相關函式，是一般常用到的： [https://www.w3schools.com/js/js\_cookies.asp](https://www.w3schools.com/js/js_cookies.asp)
+
+如下：
+
+```javascript
+function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+  var expires = "expires="+d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  var name = cname + "=";
+  var ca = document.cookie.split(';');
+  for(var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+
+function checkCookie(cookie_name) {
+  var cookie_value = getCookie(cookie_name);
+  if (cookie_value != "") {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
 
 ## 注意事項
 
