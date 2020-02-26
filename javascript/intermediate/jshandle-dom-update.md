@@ -107,6 +107,8 @@ if($(para_ele).hasClass("change_style")){ // 判斷是否有 change_style 樣式
 
 檔案所在路徑：`js/4.2.5/index.html`、`js/4.2.5/index_jquery.html`。
 
+
+
 二、練習 css 類別的新增及移除：
 
 html：
