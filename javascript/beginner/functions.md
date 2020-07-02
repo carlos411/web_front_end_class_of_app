@@ -1,6 +1,6 @@
 # 4.1.8 函式\(function\)
 
-什麼是函式？
+## 什麼是函式
 
 多行的程式，組合在一起，變成一段 Code，可重覆在多處使用。
 
@@ -8,13 +8,20 @@
 
 ![](../../.gitbook/assets/function_basic1.png)
 
-## 使用函式
+## 呼叫函式
 
 範例：
 
 ```javascript
+// 宣告一個匿名函式，存在 myFunction 變數裡
+var myFunction = function(){
+  // 其它程式
+};
+
+// 呼叫方式 1
 myFunction();
 
+// 呼叫方式 2：若有回傳值，指定 result 變數來承接
 var result = myFunction();
 ```
 
@@ -61,6 +68,7 @@ var result = myFunction();
         y = y - 1; // y 結果 是 5
         return x - y; // 回傳 -2
       };
+      
       var c = minus_one(a, b); // 執行 minus_one() 函式，並將回傳值賦予變數 c，所以 c 會是 -2
       alert(c);
     </script>

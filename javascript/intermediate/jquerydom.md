@@ -1,5 +1,7 @@
 # 4.2.6 JS 與 jQuery 操控網頁元素 - 新增
 
+## JavaScript 版本
+
 HTML：
 
 ```markup
@@ -8,7 +10,7 @@ HTML：
 
 JavaScript：
 
-* **document.createElement\(標籤名稱\)**：建立元素的標籤名稱。
+* **document.createElement\("標籤名稱"\)**：建立元素的標籤名稱。
 * **{element}.appendChild\(元素\)**：替 {element} 的裡面且最後面，加上新的子元素。
 * **document.createTextNode\("任何文字"\)**：建立文字節點。
 
@@ -33,7 +35,7 @@ para.appendChild(txt);
 
 ![](../../.gitbook/assets/js-xin-zeng-yuan-su.png)
 
-對應的 jQuery 版本：
+## jQuery 版本
 
 * **$\("&lt;p&gt;"\)**：動態建立 &lt;p&gt; 元素。
 * **{element}.append\(元素\)**：替 {element} 的裡面且最後面，加上新的子元素。
