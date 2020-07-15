@@ -42,7 +42,7 @@ function validateEmail(email) {
 
 ### 繳交方式：上傳至 google drive
 
-進到 google drive 的「\[TDP101\] Web前端」資料夾。然後依照您的學號建立自己的資料夾，然後將相關檔案上傳至學號資料夾裡。
+進到 google drive 的「TEP101張互賓老師」資料夾。然後依照您的學號建立自己的資料夾，然後將相關檔案上傳至學號資料夾裡。
 
 例：學號為 AP01001，上傳後的結果，如下範例：
 
@@ -55,5 +55,5 @@ function validateEmail(email) {
 
 ## 參考作法
 
-[https://alldata.sgp1.digitaloceanspaces.com/sample/web\_frontend\_basic\_for\_app\_class\_%E4%BD%9C%E6%A5%AD.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/web_frontend_basic_for_app_class_%E4%BD%9C%E6%A5%AD.zip)
+
 
