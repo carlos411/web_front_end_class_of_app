@@ -6,5 +6,5 @@
 
 或 QR Code：
 
-![](.gitbook/assets/web_front_end.png)
+![&#x7DB2;&#x7AD9;&#x524D;&#x7AEF;&#x57FA;&#x790E;](.gitbook/assets/web_front_end.png)
 
