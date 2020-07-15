@@ -2,7 +2,7 @@
 
 ## 開啟教材
 
-網址：[https://carlos-chang.gitbook.io/web\_front\_end\_class\_of\_app/](https://carlos-chang.gitbook.io/web_front_end_class_of_app/)
+網址：[https://docs.webmix.cc/web-front-end/](https://docs.webmix.cc/web-front-end/)
 
 或 QR Code：
 
