@@ -23,7 +23,6 @@ description: 張互賓 Carlos Chang
 
 ### 網站前端
 
-* [你知我知好學網](https://www.sharelearn.com.tw/)
 * [X Fail 活動](http://xfail.tw)
 * [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)、[鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
 * [matchnow 網紅平台](https://matchnow.co)
