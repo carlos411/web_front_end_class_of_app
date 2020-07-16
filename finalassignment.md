@@ -40,7 +40,15 @@ function validateEmail(email) {
 
 ![](.gitbook/assets/assignment_mobile.png)
 
-### 繳交方式：上傳至 google drive
+## 繳交方式
+
+
+
+### 方式一\(優先使用\)：Tibame 後台
+
+
+
+### 方式二\(備用\)：上傳至 google drive
 
 進到 google drive 的「TEP101張互賓老師」資料夾。然後依照您的學號建立自己的資料夾，然後將相關檔案上傳至學號資料夾裡。
 
