@@ -2,11 +2,11 @@
 
 ## 語意
 
-該網頁的額外資料，會被瀏覽器解讀。
+該網頁的額外資料，例如關鍵字、簡易描述等資訊，會被瀏覽器解讀。
 
 注意：**&lt;meta&gt;** 沒有結尾標籤。
 
-## 範例
+## 範例 1
 
 ```markup
 <head>
@@ -16,7 +16,7 @@
 
 瀏覽器會解讀：該網頁的字元集編碼為 **utf-8**。即支援大多數的文字種類。
 
-## 其他 Meta 範例
+## 範例 2
 
 ```markup
 <head>
@@ -35,16 +35,6 @@
 
 `viewport`：指的是可視範圍。桌機版的瀏覽器，viewport 的寬度就等於瀏覽器的寬度。所以 viewport 通常是針對手機版的網頁在使用，指定 viewport 的 width 為設備寬度\(device-width\)；初始放大倍率\(`initial-scale`\)為1；是否要讓使用者可以用手指去縮放內容\(user-scalable\)。
 
-示意：
-
-**沒有指定 viewport 時的狀況，顯示了桌機版的網頁版本\(下圖出自於博客來官網\)：**
-
-![](../.gitbook/assets/viewport_no.png)
-
-**有指定 viewport 的正確情況，顯示了行動版的網頁：**
-
-![](../.gitbook/assets/viewport_yes.png)
-
 ## 總結
 
 `<head>...</head>` 區段，都至少要有以下資訊：
@@ -59,7 +49,19 @@
 </head>
 ```
 
+請將 `keywords`、`description`、`viewport` 這三個 meta data，加到自己的網頁當中。
+
 ## 資源
 
 [更多 Meta Data：https://www.w3schools.com/tags/tag\_meta.asp](https://www.w3schools.com/tags/tag_meta.asp)
+
+{% hint style="info" %}
+練習：
+
+試試看範例 2 的 **http-equiv="refresh"** 是否正常運作。
+{% endhint %}
+
+## 其它
+
+[FB 分享的 meta tag: Open Graph tag](https://developers.facebook.com/docs/sharing/webmasters/#markup)
 
