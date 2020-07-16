@@ -65,3 +65,5 @@
 
 [FB 分享的 meta tag: Open Graph tag](https://developers.facebook.com/docs/sharing/webmasters/#markup)
 
+![](../.gitbook/assets/fb_open_graph.png)
+
