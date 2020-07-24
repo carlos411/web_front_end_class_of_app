@@ -29,7 +29,7 @@ var result = myFunction();
 
 ![](../../.gitbook/assets/function_basic2.png)
 
-## 練習
+## 練習一
 
 檔案所在路徑：`js/4.1.8/index.html`
 
@@ -76,4 +76,39 @@ var result = myFunction();
   </body>
 </html>
 ```
+
+
+
+## 練習二：寫一個函式，將指定文字左邊補零
+
+寫一個函式叫 strpad\(\)，帶兩個參數。
+
+* 第一個參數：任何正整數。
+* 第二個參數：指定位數，若不足的話，左邊補 0。
+
+
+
+例如以下，要輸出 09：
+
+```javascript
+// str_pad 函式寫在這
+
+
+var result = str_pad(9, 2);
+console.log(result); // 09
+```
+
+
+
+
+
+
+
+參考作法：
+
+{% embed url="https://codepen.io/carlos411/pen/GRoevQW" %}
+
+
+
+
 
