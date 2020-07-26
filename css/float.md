@@ -6,6 +6,10 @@
 * left
 * right
 
+請先下載圖片\(按右鍵另存新檔即可\)：
+
+![](../.gitbook/assets/apple.png)
+
 ## 範例
 
 HTML：
