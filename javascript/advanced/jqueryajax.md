@@ -84,7 +84,7 @@ echo json_encode($arr); // 產生：{"value":"這個是回傳的資料"}
 
 HTML 和 JavaScript
 
-```javascript
+```markup
 <!doctype html>
 <html>
   <head>
