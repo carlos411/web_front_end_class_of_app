@@ -100,7 +100,9 @@ console.log(result); // 09
 
 
 
+my\_num.toString\(\)：可以將整數值變成字串。
 
+my\_num.length ：可以取得字串長度。
 
 
 
