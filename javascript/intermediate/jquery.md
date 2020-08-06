@@ -8,7 +8,7 @@
 
 第一步：瀏覽官網網址： [http://jquery.com/download/](http://jquery.com/download/)
 
-第二步：下載，會是一個類似 **jquery-3.3.1.min.js** 的一個 js 檔案：
+第二步：下載，會是一個類似 **jquery-3.5.1.min.js** 的一個 js 檔案：
 
 ![](../../.gitbook/assets/jquery_download.png)
 
