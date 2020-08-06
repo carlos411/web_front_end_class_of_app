@@ -14,7 +14,7 @@
 
 第三步：於網頁\(**index.html**\)中載入，假設資料夾的結構如下：
 
-* js/jquery-3.3.1.min.js
+* js/jquery-3.5.1.min.js
 * index.html
 
 ```markup
