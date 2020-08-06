@@ -8,6 +8,8 @@ AJAX = **A**synchronous **J**avaScript **a**nd **X**ML。
 
 ![](../../.gitbook/assets/tong-bu-yu-ajax-fei-tong-bu-1.png)
 
+
+
 例 1：for 迴圈跑完了5次之後，才會執行 `alert("done");`。絕對不可能先跑 `alert("done");`。
 
 ```javascript
@@ -16,6 +18,8 @@ for(var i = 0; i < 5; i++){
 }
 alert("done");
 ```
+
+
 
 例 2：下載的先後順序，jquery 會先請求下載，再來才是 bootstrap 程式。
 
@@ -32,6 +36,8 @@ alert("done");
   </body>
 </html>
 ```
+
+
 
 ## 非同步資料請求
 
