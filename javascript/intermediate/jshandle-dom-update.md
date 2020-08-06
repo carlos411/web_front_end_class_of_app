@@ -41,6 +41,10 @@ para_ele.setAttribute("class", "change_style");
 para_ele.removeAttribute("class");
 ```
 
+
+
+
+
 針對 css 類別的新增及移除：
 
 * **.classList.add\("css 類別名稱"\)**：新增某類別。
@@ -58,6 +62,8 @@ if(para_ele.classList.contains("change_style")){ // 判斷是否有 change_style
   alert("沒有 change_style 樣式");
 }
 ```
+
+
 
 ## jQuery 版本
 
@@ -100,6 +106,8 @@ if($(para_ele).hasClass("change_style")){ // 判斷是否有 change_style 樣式
   alert("沒有 change_style 樣式");
 }
 ```
+
+
 
 ## 練習
 
