@@ -74,7 +74,7 @@
       1. 通常建議放在 body 的尾端，讓 html 結構介面先顯示。
       2. 若有用到 jQuery 的相關程式，需撰寫在 jQuery 載入完成之後。
     -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!--
       其它 jQuery 相關程式
     -->
