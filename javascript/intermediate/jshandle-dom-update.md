@@ -45,7 +45,7 @@ para_ele.removeAttribute("class");
 
 
 
-針對 css 類別的新增及移除：
+### 針對 css 類別的新增及移除：
 
 * **.classList.add\("css 類別名稱"\)**：新增某類別。
 * **.classList.remove\("css 類別名稱"\)**：移除某類別。
@@ -89,7 +89,9 @@ $(para_ele).attr("class", "change_style");
 $(para_ele).removeAttr("class");
 ```
 
-針對 css 類別的新增及移除：
+
+
+### 針對 css 類別的新增及移除：
 
 * **.addClass\("css 類別名稱"\)**：新增某類別。
 * **.removeClass\("css 類別名稱"\)**：移除某類別。
@@ -138,7 +140,9 @@ css：
 }
 ```
 
-js：
+
+
+JavaScript 版本：
 
 ```javascript
 // 樣式的新增/移除：
@@ -151,8 +155,13 @@ el_btn_switch_style.addEventListener("click", function(){
     el_new_para.classList.add("another_style");
   }
 });
+```
 
 
+
+jQuery 版本：
+
+```javascript
 // jQuery 版本：
 $("#btn_switch_style").on("click", function(){
 
