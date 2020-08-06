@@ -55,6 +55,8 @@ div_block.append(para);
 para.text("新貼入的文字");
 ```
 
+
+
 ## 練習
 
 開啟以下兩個檔案觀察：
