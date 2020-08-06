@@ -52,6 +52,39 @@ console.log( $("p").html() ); // 取得「這是段落一」，預設會取得�
 
 
 
+## 元素的屬性
+
+html：
+
+```markup
+<p id="para1" data-id="abcd1234">這是段落一</p>
+```
+
+JS：
+
+```javascript
+var el_p = document.getElementById("para1");
+console.log( el_p.getAttribute("data-id") ); // abcd1234
+```
+
+jQuery：
+
+```javascript
+$(function(){
+  console.log( $("#para1").attr("data-id") ); // abcd1234
+});
+```
+
+
+
+例：
+
+{% embed url="https://codepen.io/carlos411/pen/PoNwwGR" %}
+
+
+
+
+
 ## 表單欄位\(text\)
 
 html：
