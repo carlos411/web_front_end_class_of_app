@@ -10,7 +10,7 @@
 
 第二步：下載，會是一個類似 **jquery-3.5.1.min.js** 的一個 js 檔案：
 
-![](../../.gitbook/assets/jquery_download.png)
+![jQuery &#x4E0B;&#x8F09;](../../.gitbook/assets/jquery_download%20%281%29.png)
 
 第三步：於網頁\(**index.html**\)中載入，假設資料夾的結構如下：
 
