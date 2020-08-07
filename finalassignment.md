@@ -63,5 +63,7 @@ function validateEmail(email) {
 
 ## 參考作法
 
+[https://alldata.sgp1.digitaloceanspaces.com/sample/web\_frontend\_basic\_for\_app\_class\_%E4%BD%9C%E6%A5%AD.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/web_frontend_basic_for_app_class_%E4%BD%9C%E6%A5%AD.zip)
+
 
 
